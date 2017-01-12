@@ -1,0 +1,4581 @@
+@@@@@@@ Now using BnB
+acting solution is:      value: 140, size: 261, quantity: 6
+index: -1, boundaries: [140,1114]
+index: 0, boundaries: [274,1114]
+index: 1, boundaries: [292,1022]
+index: 2, boundaries: [406,1022]
+index: 3, boundaries: [380,966]
+index: 4, boundaries: [483,938]
+index: 5, boundaries: [461,936]
+index: 6, boundaries: [465,504]
+index: 7, boundaries: [413,490]
+index: 8, boundaries: [490,490]
+index: 8, boundaries: [413,413]
+acting solution changed: value: 413, size: 258, quantity: 8
+index: 7, boundaries: [465,492]
+index: 8, boundaries: [465,492]
+index: 9, boundaries: [492,492]
+index: 9, boundaries: [465,465]
+acting solution changed: value: 465, size: 255, quantity: 8
+index: 8, boundaries: [415,415]
+index: 6, boundaries: [461,936]
+index: 7, boundaries: [580,827]
+index: 8, boundaries: [560,825]
+index: 9, boundaries: [560,825]
+index: 10, boundaries: [557,584]
+index: 11, boundaries: [584,584]
+index: 11, boundaries: [557,557]
+acting solution changed: value: 557, size: 255, quantity: 10
+index: 10, boundaries: [560,825]
+index: 11, boundaries: [584,676]
+index: 12, boundaries: [661,661]
+index: 12, boundaries: [584,668]
+index: 13, boundaries: [661,661]
+index: 13, boundaries: [584,660]
+index: 14, boundaries: [653,653]
+index: 14, boundaries: [584,660]
+index: 15, boundaries: [584,660]
+index: 16, boundaries: [611,611]
+index: 16, boundaries: [584,647]
+index: 17, boundaries: [647,647]
+index: 17, boundaries: [584,584]
+acting solution changed: value: 584, size: 250, quantity: 10
+index: 11, boundaries: [560,825]
+index: 12, boundaries: [603,630]
+index: 13, boundaries: [603,603]
+acting solution changed: value: 603, size: 257, quantity: 10
+index: 12, boundaries: [560,825]
+index: 13, boundaries: [579,606]
+index: 14, boundaries: [606,606]
+index: 14, boundaries: [579,579]
+index: 13, boundaries: [560,825]
+index: 14, boundaries: [583,583]
+index: 14, boundaries: [560,825]
+index: 15, boundaries: [697,745]
+index: 16, boundaries: [711,711]
+acting solution changed: value: 711, size: 257, quantity: 12
+index: 16, boundaries: [697,733]
+index: 17, boundaries: [695,695]
+index: 17, boundaries: [697,733]
+index: 18, boundaries: [711,711]
+index: 18, boundaries: [697,725]
+index: 19, boundaries: [703,703]
+index: 19, boundaries: [697,715]
+index: 20, boundaries: [684,684]
+index: 20, boundaries: [697,697]
+index: 15, boundaries: [560,825]
+index: 16, boundaries: [697,825]
+index: 17, boundaries: [761,817]
+index: 18, boundaries: [775,802]
+index: 19, boundaries: [802,802]
+index: 19, boundaries: [775,775]
+acting solution changed: value: 775, size: 255, quantity: 12
+index: 18, boundaries: [761,809]
+index: 19, boundaries: [767,794]
+index: 20, boundaries: [794,794]
+index: 20, boundaries: [767,767]
+index: 19, boundaries: [761,801]
+index: 20, boundaries: [748,775]
+index: 20, boundaries: [761,788]
+index: 21, boundaries: [725,788]
+index: 22, boundaries: [788,788]
+index: 22, boundaries: [725,725]
+index: 21, boundaries: [761,761]
+index: 17, boundaries: [697,825]
+index: 18, boundaries: [750,825]
+index: 19, boundaries: [756,825]
+index: 20, boundaries: [783,783]
+index: 20, boundaries: [756,819]
+index: 21, boundaries: [819,819]
+index: 21, boundaries: [756,756]
+index: 19, boundaries: [750,808]
+index: 20, boundaries: [737,800]
+index: 21, boundaries: [764,764]
+index: 21, boundaries: [737,800]
+index: 22, boundaries: [737,737]
+index: 20, boundaries: [750,777]
+index: 21, boundaries: [714,777]
+index: 22, boundaries: [777,777]
+index: 22, boundaries: [714,714]
+index: 21, boundaries: [750,750]
+index: 18, boundaries: [697,800]
+index: 19, boundaries: [742,800]
+index: 20, boundaries: [729,792]
+index: 21, boundaries: [756,756]
+index: 21, boundaries: [729,792]
+index: 22, boundaries: [729,729]
+index: 20, boundaries: [742,769]
+index: 19, boundaries: [697,765]
+index: 16, boundaries: [560,806]
+index: 17, boundaries: [621,802]
+index: 18, boundaries: [761,802]
+index: 19, boundaries: [767,794]
+index: 20, boundaries: [794,794]
+index: 20, boundaries: [767,767]
+index: 19, boundaries: [761,797]
+index: 20, boundaries: [748,775]
+index: 20, boundaries: [761,788]
+index: 21, boundaries: [725,788]
+index: 22, boundaries: [788,788]
+index: 22, boundaries: [725,725]
+index: 21, boundaries: [761,761]
+index: 18, boundaries: [621,789]
+index: 19, boundaries: [753,789]
+index: 20, boundaries: [740,767]
+index: 20, boundaries: [753,780]
+index: 21, boundaries: [717,780]
+index: 22, boundaries: [780,780]
+index: 22, boundaries: [717,717]
+index: 21, boundaries: [753,753]
+index: 19, boundaries: [621,763]
+index: 17, boundaries: [560,796]
+index: 18, boundaries: [697,796]
+index: 19, boundaries: [742,796]
+index: 20, boundaries: [729,756]
+index: 20, boundaries: [742,769]
+index: 19, boundaries: [697,762]
+index: 18, boundaries: [560,755]
+index: 9, boundaries: [492,755]
+index: 8, boundaries: [580,827]
+index: 9, boundaries: [580,827]
+index: 10, boundaries: [595,616]
+index: 10, boundaries: [580,827]
+index: 11, boundaries: [622,682]
+index: 11, boundaries: [580,827]
+index: 12, boundaries: [605,605]
+index: 12, boundaries: [580,827]
+index: 13, boundaries: [535,535]
+index: 13, boundaries: [580,827]
+index: 14, boundaries: [617,631]
+index: 14, boundaries: [580,827]
+index: 15, boundaries: [585,585]
+index: 15, boundaries: [580,827]
+index: 16, boundaries: [645,750]
+index: 16, boundaries: [580,827]
+index: 17, boundaries: [594,827]
+index: 18, boundaries: [763,819]
+index: 19, boundaries: [813,819]
+index: 20, boundaries: [813,819]
+index: 21, boundaries: [777,777]
+acting solution changed: value: 777, size: 255, quantity: 12
+index: 21, boundaries: [813,813]
+acting solution changed: value: 813, size: 260, quantity: 12
+index: 19, boundaries: [763,811]
+index: 18, boundaries: [594,825]
+index: 19, boundaries: [662,825]
+index: 20, boundaries: [794,825]
+index: 21, boundaries: [781,781]
+index: 21, boundaries: [794,821]
+index: 22, boundaries: [758,821]
+index: 23, boundaries: [821,821]
+index: 23, boundaries: [758,758]
+index: 22, boundaries: [794,794]
+index: 20, boundaries: [662,802]
+index: 19, boundaries: [594,794]
+index: 17, boundaries: [580,806]
+index: 9, boundaries: [494,756]
+index: 7, boundaries: [461,936]
+index: 8, boundaries: [613,677]
+index: 8, boundaries: [461,936]
+index: 9, boundaries: [527,936]
+index: 10, boundaries: [527,936]
+index: 11, boundaries: [515,771]
+index: 11, boundaries: [527,936]
+index: 12, boundaries: [560,832]
+index: 13, boundaries: [603,630]
+index: 13, boundaries: [560,832]
+index: 14, boundaries: [579,606]
+index: 14, boundaries: [560,832]
+index: 15, boundaries: [583,583]
+index: 15, boundaries: [560,832]
+index: 16, boundaries: [697,753]
+index: 16, boundaries: [560,832]
+index: 17, boundaries: [697,832]
+index: 18, boundaries: [761,824]
+index: 19, boundaries: [775,802]
+index: 19, boundaries: [761,816]
+index: 20, boundaries: [767,794]
+index: 20, boundaries: [761,806]
+index: 18, boundaries: [697,832]
+index: 19, boundaries: [750,832]
+index: 20, boundaries: [756,832]
+index: 21, boundaries: [756,832]
+index: 22, boundaries: [783,783]
+index: 22, boundaries: [756,819]
+index: 23, boundaries: [819,819]
+index: 23, boundaries: [756,756]
+index: 20, boundaries: [750,813]
+index: 19, boundaries: [697,805]
+index: 17, boundaries: [560,813]
+index: 12, boundaries: [527,936]
+index: 13, boundaries: [561,803]
+index: 13, boundaries: [527,936]
+index: 14, boundaries: [507,507]
+index: 14, boundaries: [527,936]
+index: 15, boundaries: [569,719]
+index: 15, boundaries: [527,936]
+index: 16, boundaries: [639,653]
+index: 16, boundaries: [527,936]
+index: 17, boundaries: [527,936]
+index: 18, boundaries: [537,786]
+index: 18, boundaries: [527,936]
+index: 19, boundaries: [547,547]
+index: 19, boundaries: [527,936]
+index: 20, boundaries: [592,762]
+index: 20, boundaries: [527,936]
+index: 21, boundaries: [561,894]
+index: 22, boundaries: [669,894]
+index: 23, boundaries: [880,888]
+index: 24, boundaries: [888,888]
+acting solution changed: value: 888, size: 261, quantity: 14
+index: 24, boundaries: [880,880]
+index: 23, boundaries: [669,887]
+index: 22, boundaries: [561,873]
+index: 21, boundaries: [527,935]
+index: 22, boundaries: [586,935]
+index: 23, boundaries: [647,935]
+index: 24, boundaries: [733,935]
+index: 25, boundaries: [733,935]
+index: 26, boundaries: [793,935]
+index: 27, boundaries: [906,933]
+index: 28, boundaries: [870,933]
+index: 29, boundaries: [933,933]
+index: 29, boundaries: [870,870]
+index: 28, boundaries: [906,906]
+acting solution changed: value: 906, size: 256, quantity: 14
+index: 27, boundaries: [793,913]
+index: 28, boundaries: [883,883]
+index: 28, boundaries: [793,896]
+index: 26, boundaries: [733,891]
+index: 24, boundaries: [647,885]
+index: 23, boundaries: [586,884]
+index: 22, boundaries: [527,882]
+index: 10, boundaries: [432,862]
+index: 9, boundaries: [461,924]
+index: 10, boundaries: [484,924]
+index: 11, boundaries: [517,773]
+index: 11, boundaries: [484,924]
+index: 12, boundaries: [580,833]
+index: 12, boundaries: [484,924]
+index: 13, boundaries: [563,806]
+index: 13, boundaries: [484,924]
+index: 14, boundaries: [482,509]
+index: 14, boundaries: [484,924]
+index: 15, boundaries: [571,721]
+index: 15, boundaries: [484,924]
+index: 16, boundaries: [641,658]
+index: 16, boundaries: [484,924]
+index: 17, boundaries: [548,575]
+index: 17, boundaries: [484,924]
+index: 18, boundaries: [539,789]
+index: 18, boundaries: [484,924]
+index: 19, boundaries: [495,572]
+index: 19, boundaries: [484,924]
+index: 20, boundaries: [507,765]
+index: 20, boundaries: [484,924]
+index: 21, boundaries: [563,894]
+index: 21, boundaries: [484,921]
+index: 22, boundaries: [622,921]
+index: 23, boundaries: [649,921]
+index: 24, boundaries: [735,921]
+index: 25, boundaries: [788,788]
+index: 25, boundaries: [735,921]
+index: 26, boundaries: [828,920]
+index: 27, boundaries: [908,908]
+acting solution changed: value: 908, size: 256, quantity: 14
+index: 27, boundaries: [828,898]
+index: 26, boundaries: [735,878]
+index: 24, boundaries: [649,870]
+index: 23, boundaries: [622,870]
+index: 22, boundaries: [484,868]
+index: 10, boundaries: [461,851]
+index: 5, boundaries: [483,938]
+index: 6, boundaries: [468,588]
+index: 6, boundaries: [483,938]
+index: 7, boundaries: [483,875]
+index: 7, boundaries: [483,938]
+index: 8, boundaries: [430,736]
+index: 8, boundaries: [483,938]
+index: 9, boundaries: [538,938]
+index: 10, boundaries: [538,938]
+index: 11, boundaries: [486,823]
+index: 11, boundaries: [538,938]
+index: 12, boundaries: [533,882]
+index: 12, boundaries: [538,938]
+index: 13, boundaries: [532,857]
+index: 13, boundaries: [538,938]
+index: 14, boundaries: [545,593]
+index: 14, boundaries: [538,938]
+index: 15, boundaries: [529,776]
+index: 15, boundaries: [538,938]
+index: 16, boundaries: [524,720]
+index: 16, boundaries: [538,938]
+index: 17, boundaries: [611,651]
+index: 17, boundaries: [538,938]
+index: 18, boundaries: [508,839]
+index: 18, boundaries: [538,938]
+index: 19, boundaries: [558,636]
+index: 19, boundaries: [538,938]
+index: 20, boundaries: [480,818]
+index: 20, boundaries: [538,938]
+index: 21, boundaries: [592,932]
+index: 22, boundaries: [606,932]
+index: 23, boundaries: [705,932]
+index: 24, boundaries: [806,932]
+index: 25, boundaries: [905,932]
+index: 26, boundaries: [892,892]
+index: 26, boundaries: [905,905]
+index: 25, boundaries: [806,898]
+index: 24, boundaries: [705,891]
+index: 23, boundaries: [606,890]
+index: 22, boundaries: [592,888]
+index: 21, boundaries: [538,926]
+index: 22, boundaries: [588,926]
+index: 23, boundaries: [658,926]
+index: 24, boundaries: [704,926]
+index: 25, boundaries: [797,845]
+index: 25, boundaries: [704,926]
+index: 26, boundaries: [804,926]
+index: 27, boundaries: [780,807]
+index: 27, boundaries: [804,926]
+index: 28, boundaries: [837,864]
+index: 28, boundaries: [804,926]
+index: 29, boundaries: [878,923]
+index: 30, boundaries: [878,923]
+index: 31, boundaries: [881,881]
+index: 31, boundaries: [878,878]
+index: 30, boundaries: [791,906]
+index: 29, boundaries: [804,905]
+index: 26, boundaries: [704,883]
+index: 24, boundaries: [658,875]
+index: 23, boundaries: [588,875]
+index: 22, boundaries: [538,872]
+index: 10, boundaries: [443,864]
+index: 9, boundaries: [483,926]
+index: 10, boundaries: [483,926]
+index: 11, boundaries: [454,823]
+index: 11, boundaries: [483,926]
+index: 12, boundaries: [483,875]
+index: 12, boundaries: [483,926]
+index: 13, boundaries: [500,857]
+index: 13, boundaries: [483,926]
+index: 14, boundaries: [493,598]
+index: 14, boundaries: [483,926]
+index: 15, boundaries: [437,776]
+index: 15, boundaries: [483,926]
+index: 16, boundaries: [559,722]
+index: 16, boundaries: [483,926]
+index: 17, boundaries: [559,657]
+index: 17, boundaries: [483,926]
+index: 18, boundaries: [476,839]
+index: 18, boundaries: [483,926]
+index: 19, boundaries: [503,639]
+index: 19, boundaries: [483,926]
+index: 20, boundaries: [482,818]
+index: 20, boundaries: [483,926]
+index: 21, boundaries: [497,925]
+index: 22, boundaries: [608,925]
+index: 23, boundaries: [707,925]
+index: 24, boundaries: [721,925]
+index: 25, boundaries: [853,925]
+index: 26, boundaries: [840,923]
+index: 27, boundaries: [867,867]
+index: 27, boundaries: [840,903]
+index: 26, boundaries: [853,880]
+index: 25, boundaries: [721,883]
+index: 24, boundaries: [707,876]
+index: 23, boundaries: [608,876]
+index: 22, boundaries: [497,874]
+index: 21, boundaries: [483,911]
+index: 22, boundaries: [590,911]
+index: 23, boundaries: [570,911]
+index: 24, boundaries: [672,911]
+index: 25, boundaries: [672,911]
+index: 26, boundaries: [799,847]
+index: 26, boundaries: [672,911]
+index: 27, boundaries: [716,911]
+index: 28, boundaries: [818,824]
+index: 28, boundaries: [716,911]
+index: 29, boundaries: [839,839]
+index: 29, boundaries: [716,911]
+index: 30, boundaries: [775,908]
+index: 30, boundaries: [716,890]
+index: 27, boundaries: [672,869]
+index: 24, boundaries: [570,861]
+index: 23, boundaries: [590,860]
+index: 22, boundaries: [483,858]
+index: 10, boundaries: [388,853]
+index: 4, boundaries: [380,966]
+index: 5, boundaries: [501,966]
+index: 6, boundaries: [482,639]
+index: 6, boundaries: [501,966]
+index: 7, boundaries: [483,913]
+index: 8, boundaries: [517,631]
+index: 8, boundaries: [483,913]
+index: 9, boundaries: [578,913]
+index: 10, boundaries: [578,913]
+index: 11, boundaries: [574,731]
+index: 11, boundaries: [578,913]
+index: 12, boundaries: [550,792]
+index: 12, boundaries: [578,913]
+index: 13, boundaries: [620,763]
+index: 13, boundaries: [578,913]
+index: 14, boundaries: [580,678]
+index: 14, boundaries: [578,913]
+index: 15, boundaries: [584,584]
+index: 15, boundaries: [578,913]
+index: 16, boundaries: [596,746]
+index: 16, boundaries: [578,913]
+index: 17, boundaries: [699,722]
+index: 17, boundaries: [578,913]
+index: 18, boundaries: [591,856]
+index: 18, boundaries: [578,913]
+index: 19, boundaries: [592,913]
+index: 20, boundaries: [691,913]
+index: 21, boundaries: [792,913]
+index: 22, boundaries: [891,913]
+index: 23, boundaries: [878,878]
+index: 23, boundaries: [891,891]
+index: 22, boundaries: [792,882]
+index: 21, boundaries: [691,874]
+index: 20, boundaries: [592,874]
+index: 19, boundaries: [578,871]
+index: 10, boundaries: [476,841]
+index: 9, boundaries: [483,906]
+index: 7, boundaries: [501,966]
+index: 8, boundaries: [543,786]
+index: 8, boundaries: [501,966]
+index: 9, boundaries: [499,966]
+index: 10, boundaries: [499,966]
+index: 11, boundaries: [515,868]
+index: 11, boundaries: [499,966]
+index: 12, boundaries: [578,918]
+index: 13, boundaries: [620,770]
+index: 13, boundaries: [578,918]
+index: 14, boundaries: [580,685]
+index: 14, boundaries: [578,918]
+index: 15, boundaries: [584,584]
+index: 15, boundaries: [578,918]
+index: 16, boundaries: [596,753]
+index: 16, boundaries: [578,918]
+index: 17, boundaries: [600,729]
+index: 17, boundaries: [578,918]
+index: 18, boundaries: [591,863]
+index: 18, boundaries: [578,918]
+index: 19, boundaries: [592,918]
+index: 20, boundaries: [691,918]
+index: 21, boundaries: [792,918]
+index: 22, boundaries: [891,918]
+index: 23, boundaries: [878,878]
+index: 23, boundaries: [891,891]
+index: 22, boundaries: [792,884]
+index: 21, boundaries: [691,877]
+index: 20, boundaries: [592,876]
+index: 19, boundaries: [578,874]
+index: 12, boundaries: [499,966]
+index: 13, boundaries: [509,903]
+index: 13, boundaries: [499,966]
+index: 14, boundaries: [596,646]
+index: 14, boundaries: [499,966]
+index: 15, boundaries: [498,823]
+index: 15, boundaries: [499,966]
+index: 16, boundaries: [620,770]
+index: 16, boundaries: [499,966]
+index: 17, boundaries: [670,705]
+index: 17, boundaries: [499,966]
+index: 18, boundaries: [537,886]
+index: 18, boundaries: [499,966]
+index: 19, boundaries: [477,687]
+index: 19, boundaries: [499,966]
+index: 20, boundaries: [489,864]
+index: 20, boundaries: [499,966]
+index: 21, boundaries: [558,966]
+index: 22, boundaries: [617,966]
+index: 23, boundaries: [678,966]
+index: 24, boundaries: [764,966]
+index: 25, boundaries: [764,966]
+index: 26, boundaries: [824,966]
+index: 27, boundaries: [937,964]
+index: 28, boundaries: [901,964]
+index: 29, boundaries: [964,964]
+index: 29, boundaries: [901,901]
+index: 28, boundaries: [937,937]
+acting solution changed: value: 937, size: 256, quantity: 14
+index: 27, boundaries: [824,944]
+index: 28, boundaries: [914,914]
+index: 28, boundaries: [824,927]
+index: 26, boundaries: [764,922]
+index: 24, boundaries: [678,916]
+index: 23, boundaries: [617,915]
+index: 22, boundaries: [558,913]
+index: 21, boundaries: [499,950]
+index: 22, boundaries: [606,950]
+index: 23, boundaries: [622,950]
+index: 24, boundaries: [733,950]
+index: 25, boundaries: [740,740]
+index: 25, boundaries: [733,950]
+index: 26, boundaries: [806,895]
+index: 26, boundaries: [733,950]
+index: 27, boundaries: [755,950]
+index: 28, boundaries: [789,872]
+index: 28, boundaries: [755,950]
+index: 29, boundaries: [846,915]
+index: 29, boundaries: [755,950]
+index: 30, boundaries: [836,947]
+index: 31, boundaries: [836,947]
+index: 32, boundaries: [890,890]
+index: 32, boundaries: [836,889]
+index: 31, boundaries: [800,929]
+index: 30, boundaries: [755,930]
+index: 27, boundaries: [733,908]
+index: 24, boundaries: [622,900]
+index: 23, boundaries: [606,900]
+index: 22, boundaries: [499,897]
+index: 10, boundaries: [440,892]
+index: 9, boundaries: [501,952]
+index: 10, boundaries: [501,952]
+index: 11, boundaries: [501,861]
+index: 11, boundaries: [501,952]
+index: 12, boundaries: [483,911]
+index: 12, boundaries: [501,952]
+index: 13, boundaries: [511,898]
+index: 13, boundaries: [501,952]
+index: 14, boundaries: [499,649]
+index: 14, boundaries: [501,952]
+index: 15, boundaries: [466,823]
+index: 15, boundaries: [501,952]
+index: 16, boundaries: [517,773]
+index: 16, boundaries: [501,952]
+index: 17, boundaries: [565,708]
+index: 17, boundaries: [501,952]
+index: 18, boundaries: [487,879]
+index: 18, boundaries: [501,952]
+index: 19, boundaries: [512,689]
+index: 19, boundaries: [501,952]
+index: 20, boundaries: [491,865]
+index: 20, boundaries: [501,952]
+index: 21, boundaries: [515,952]
+index: 22, boundaries: [653,952]
+index: 23, boundaries: [680,952]
+index: 24, boundaries: [766,952]
+index: 25, boundaries: [819,819]
+index: 25, boundaries: [766,952]
+index: 26, boundaries: [859,951]
+index: 27, boundaries: [939,939]
+acting solution changed: value: 939, size: 256, quantity: 14
+index: 27, boundaries: [859,929]
+index: 26, boundaries: [766,909]
+index: 24, boundaries: [680,901]
+index: 23, boundaries: [653,901]
+index: 22, boundaries: [515,899]
+index: 21, boundaries: [501,936]
+index: 10, boundaries: [442,877]
+index: 5, boundaries: [380,957]
+index: 6, boundaries: [298,695]
+index: 6, boundaries: [380,957]
+index: 7, boundaries: [546,922]
+index: 7, boundaries: [380,957]
+index: 8, boundaries: [480,835]
+index: 8, boundaries: [380,957]
+index: 9, boundaries: [468,957]
+index: 10, boundaries: [468,957]
+index: 11, boundaries: [474,882]
+index: 11, boundaries: [468,957]
+index: 12, boundaries: [546,926]
+index: 12, boundaries: [468,957]
+index: 13, boundaries: [484,921]
+index: 13, boundaries: [468,957]
+index: 14, boundaries: [439,704]
+index: 14, boundaries: [468,957]
+index: 15, boundaries: [432,855]
+index: 15, boundaries: [468,957]
+index: 16, boundaries: [486,825]
+index: 16, boundaries: [468,957]
+index: 17, boundaries: [505,764]
+index: 17, boundaries: [468,957]
+index: 18, boundaries: [460,900]
+index: 18, boundaries: [468,957]
+index: 19, boundaries: [488,744]
+index: 19, boundaries: [468,957]
+index: 20, boundaries: [464,891]
+index: 20, boundaries: [468,957]
+index: 21, boundaries: [569,957]
+index: 22, boundaries: [619,957]
+index: 23, boundaries: [689,957]
+index: 24, boundaries: [735,957]
+index: 25, boundaries: [828,876]
+index: 25, boundaries: [735,957]
+index: 26, boundaries: [835,957]
+index: 27, boundaries: [811,838]
+index: 27, boundaries: [835,957]
+index: 28, boundaries: [868,895]
+index: 28, boundaries: [835,957]
+index: 29, boundaries: [909,954]
+index: 30, boundaries: [909,954]
+index: 31, boundaries: [912,912]
+index: 31, boundaries: [909,909]
+index: 30, boundaries: [822,937]
+index: 29, boundaries: [835,936]
+index: 26, boundaries: [735,914]
+index: 24, boundaries: [689,906]
+index: 23, boundaries: [619,906]
+index: 22, boundaries: [569,903]
+index: 21, boundaries: [468,941]
+index: 22, boundaries: [482,941]
+index: 23, boundaries: [642,941]
+index: 24, boundaries: [692,941]
+index: 25, boundaries: [778,813]
+index: 25, boundaries: [692,941]
+index: 26, boundaries: [727,910]
+index: 26, boundaries: [692,941]
+index: 27, boundaries: [786,941]
+index: 28, boundaries: [797,887]
+index: 28, boundaries: [786,941]
+index: 29, boundaries: [780,780]
+index: 29, boundaries: [786,941]
+index: 30, boundaries: [854,939]
+index: 30, boundaries: [786,941]
+index: 31, boundaries: [730,730]
+index: 31, boundaries: [786,941]
+index: 32, boundaries: [786,941]
+index: 33, boundaries: [857,870]
+index: 33, boundaries: [786,941]
+index: 34, boundaries: [773,941]
+index: 35, boundaries: [775,941]
+index: 36, boundaries: [909,909]
+index: 36, boundaries: [775,941]
+index: 37, boundaries: [847,941]
+index: 38, boundaries: [898,898]
+index: 38, boundaries: [847,936]
+index: 37, boundaries: [775,900]
+index: 35, boundaries: [773,924]
+index: 34, boundaries: [786,918]
+index: 27, boundaries: [692,898]
+index: 24, boundaries: [642,890]
+index: 23, boundaries: [482,889]
+index: 22, boundaries: [468,887]
+index: 10, boundaries: [400,882]
+index: 9, boundaries: [380,942]
+index: 10, boundaries: [380,942]
+index: 11, boundaries: [476,870]
+index: 11, boundaries: [380,942]
+index: 12, boundaries: [503,914]
+index: 12, boundaries: [380,942]
+index: 13, boundaries: [513,909]
+index: 13, boundaries: [380,942]
+index: 14, boundaries: [459,706]
+index: 14, boundaries: [380,942]
+index: 15, boundaries: [434,846]
+index: 15, boundaries: [380,942]
+index: 16, boundaries: [488,825]
+index: 16, boundaries: [380,942]
+index: 17, boundaries: [525,766]
+index: 17, boundaries: [380,942]
+index: 18, boundaries: [489,889]
+index: 18, boundaries: [380,942]
+index: 19, boundaries: [400,744]
+index: 19, boundaries: [380,942]
+index: 20, boundaries: [457,879]
+index: 20, boundaries: [380,942]
+index: 21, boundaries: [514,942]
+index: 22, boundaries: [621,942]
+index: 23, boundaries: [601,942]
+index: 24, boundaries: [703,942]
+index: 25, boundaries: [703,942]
+index: 26, boundaries: [830,878]
+index: 26, boundaries: [703,942]
+index: 27, boundaries: [747,942]
+index: 28, boundaries: [849,855]
+index: 28, boundaries: [747,942]
+index: 29, boundaries: [870,870]
+index: 29, boundaries: [747,942]
+index: 30, boundaries: [806,939]
+index: 30, boundaries: [747,921]
+index: 27, boundaries: [703,900]
+index: 24, boundaries: [601,892]
+index: 23, boundaries: [621,891]
+index: 22, boundaries: [514,889]
+index: 21, boundaries: [380,926]
+index: 10, boundaries: [308,868]
+index: 3, boundaries: [406,1022]
+index: 4, boundaries: [492,1007]
+index: 5, boundaries: [438,1007]
+index: 6, boundaries: [419,782]
+index: 6, boundaries: [438,1007]
+index: 7, boundaries: [447,980]
+index: 8, boundaries: [539,789]
+index: 8, boundaries: [447,980]
+index: 9, boundaries: [445,980]
+index: 10, boundaries: [639,980]
+index: 11, boundaries: [511,874]
+index: 11, boundaries: [639,980]
+index: 12, boundaries: [540,927]
+index: 12, boundaries: [639,980]
+index: 13, boundaries: [557,907]
+index: 13, boundaries: [639,980]
+index: 14, boundaries: [550,648]
+index: 14, boundaries: [639,980]
+index: 15, boundaries: [494,827]
+index: 15, boundaries: [639,980]
+index: 16, boundaries: [616,773]
+index: 16, boundaries: [639,980]
+index: 17, boundaries: [616,707]
+index: 17, boundaries: [639,980]
+index: 18, boundaries: [533,890]
+index: 18, boundaries: [639,980]
+index: 19, boundaries: [560,689]
+index: 19, boundaries: [639,980]
+index: 20, boundaries: [539,869]
+index: 20, boundaries: [639,980]
+index: 21, boundaries: [554,977]
+index: 22, boundaries: [665,977]
+index: 23, boundaries: [764,977]
+index: 24, boundaries: [778,977]
+index: 25, boundaries: [910,977]
+index: 26, boundaries: [897,973]
+index: 27, boundaries: [924,924]
+index: 27, boundaries: [897,960]
+index: 28, boundaries: [960,960]
+index: 28, boundaries: [897,897]
+index: 26, boundaries: [910,937]
+index: 25, boundaries: [778,938]
+index: 24, boundaries: [764,931]
+index: 23, boundaries: [665,930]
+index: 22, boundaries: [554,928]
+index: 21, boundaries: [639,965]
+index: 22, boundaries: [647,965]
+index: 23, boundaries: [627,965]
+index: 24, boundaries: [729,965]
+index: 25, boundaries: [856,898]
+index: 25, boundaries: [729,965]
+index: 26, boundaries: [845,965]
+index: 27, boundaries: [875,875]
+index: 27, boundaries: [845,965]
+index: 28, boundaries: [896,896]
+index: 28, boundaries: [845,965]
+index: 29, boundaries: [832,963]
+index: 30, boundaries: [850,963]
+index: 31, boundaries: [913,913]
+index: 31, boundaries: [850,910]
+index: 30, boundaries: [832,946]
+index: 31, boundaries: [886,946]
+index: 32, boundaries: [886,886]
+index: 31, boundaries: [832,885]
+index: 29, boundaries: [845,945]
+index: 30, boundaries: [809,945]
+index: 31, boundaries: [871,871]
+index: 31, boundaries: [809,945]
+index: 32, boundaries: [863,923]
+index: 32, boundaries: [809,905]
+index: 30, boundaries: [845,928]
+index: 26, boundaries: [729,923]
+index: 24, boundaries: [627,915]
+index: 23, boundaries: [647,915]
+index: 22, boundaries: [639,912]
+index: 10, boundaries: [445,906]
+index: 9, boundaries: [447,967]
+index: 10, boundaries: [497,967]
+index: 11, boundaries: [513,871]
+index: 11, boundaries: [497,967]
+index: 12, boundaries: [576,920]
+index: 12, boundaries: [497,967]
+index: 13, boundaries: [559,908]
+index: 13, boundaries: [497,967]
+index: 14, boundaries: [462,651]
+index: 14, boundaries: [497,967]
+index: 15, boundaries: [496,827]
+index: 15, boundaries: [497,967]
+index: 16, boundaries: [531,775]
+index: 16, boundaries: [497,967]
+index: 17, boundaries: [660,710]
+index: 17, boundaries: [497,967]
+index: 18, boundaries: [535,888]
+index: 18, boundaries: [497,967]
+index: 19, boundaries: [562,692]
+index: 19, boundaries: [497,967]
+index: 20, boundaries: [487,869]
+index: 20, boundaries: [497,967]
+index: 21, boundaries: [556,967]
+index: 22, boundaries: [615,967]
+index: 23, boundaries: [676,967]
+index: 24, boundaries: [780,967]
+index: 25, boundaries: [815,815]
+index: 25, boundaries: [780,967]
+index: 26, boundaries: [822,967]
+index: 27, boundaries: [935,962]
+index: 28, boundaries: [899,962]
+index: 29, boundaries: [962,962]
+index: 29, boundaries: [899,899]
+index: 28, boundaries: [935,935]
+index: 27, boundaries: [822,944]
+index: 28, boundaries: [912,912]
+index: 28, boundaries: [822,927]
+index: 26, boundaries: [780,923]
+index: 24, boundaries: [676,916]
+index: 23, boundaries: [615,916]
+index: 22, boundaries: [556,914]
+index: 21, boundaries: [497,951]
+index: 22, boundaries: [604,951]
+index: 23, boundaries: [629,951]
+index: 24, boundaries: [731,951]
+index: 25, boundaries: [738,738]
+index: 25, boundaries: [731,951]
+index: 26, boundaries: [900,900]
+index: 26, boundaries: [731,951]
+index: 27, boundaries: [753,951]
+index: 28, boundaries: [877,877]
+index: 28, boundaries: [753,951]
+index: 29, boundaries: [844,920]
+index: 29, boundaries: [753,951]
+index: 30, boundaries: [834,951]
+index: 31, boundaries: [834,948]
+index: 32, boundaries: [888,948]
+index: 33, boundaries: [888,888]
+index: 32, boundaries: [834,887]
+index: 31, boundaries: [798,935]
+index: 30, boundaries: [753,930]
+index: 27, boundaries: [731,909]
+index: 24, boundaries: [629,901]
+index: 23, boundaries: [604,900]
+index: 22, boundaries: [497,898]
+index: 10, boundaries: [447,892]
+index: 7, boundaries: [438,1007]
+index: 8, boundaries: [420,909]
+index: 8, boundaries: [438,1007]
+index: 9, boundaries: [436,1007]
+index: 10, boundaries: [436,1007]
+index: 11, boundaries: [525,939]
+index: 11, boundaries: [436,1007]
+index: 12, boundaries: [540,983]
+index: 13, boundaries: [557,914]
+index: 13, boundaries: [540,983]
+index: 14, boundaries: [550,655]
+index: 14, boundaries: [540,983]
+index: 15, boundaries: [494,833]
+index: 15, boundaries: [540,983]
+index: 16, boundaries: [616,779]
+index: 16, boundaries: [540,983]
+index: 17, boundaries: [616,714]
+index: 17, boundaries: [540,983]
+index: 18, boundaries: [533,896]
+index: 18, boundaries: [540,983]
+index: 19, boundaries: [560,696]
+index: 19, boundaries: [540,983]
+index: 20, boundaries: [539,875]
+index: 20, boundaries: [540,983]
+index: 21, boundaries: [554,982]
+index: 22, boundaries: [665,982]
+index: 23, boundaries: [764,982]
+index: 24, boundaries: [778,982]
+index: 25, boundaries: [910,982]
+index: 26, boundaries: [897,980]
+index: 27, boundaries: [924,924]
+index: 27, boundaries: [897,960]
+index: 28, boundaries: [960,960]
+index: 28, boundaries: [897,897]
+index: 26, boundaries: [910,937]
+index: 25, boundaries: [778,940]
+index: 26, boundaries: [891,918]
+index: 26, boundaries: [778,918]
+index: 24, boundaries: [764,933]
+index: 23, boundaries: [665,933]
+index: 22, boundaries: [554,931]
+index: 21, boundaries: [540,968]
+index: 22, boundaries: [647,968]
+index: 23, boundaries: [627,968]
+index: 24, boundaries: [729,968]
+index: 25, boundaries: [729,968]
+index: 26, boundaries: [856,904]
+index: 26, boundaries: [729,968]
+index: 27, boundaries: [773,968]
+index: 28, boundaries: [875,881]
+index: 28, boundaries: [773,968]
+index: 29, boundaries: [896,896]
+index: 29, boundaries: [773,968]
+index: 30, boundaries: [832,965]
+index: 31, boundaries: [850,965]
+index: 32, boundaries: [913,913]
+index: 32, boundaries: [850,910]
+index: 31, boundaries: [832,946]
+index: 32, boundaries: [886,946]
+index: 33, boundaries: [946,946]
+index: 33, boundaries: [886,886]
+index: 32, boundaries: [832,885]
+index: 30, boundaries: [773,947]
+index: 31, boundaries: [863,947]
+index: 32, boundaries: [871,871]
+index: 32, boundaries: [863,947]
+index: 33, boundaries: [863,925]
+index: 33, boundaries: [809,908]
+index: 31, boundaries: [773,931]
+index: 27, boundaries: [729,926]
+index: 24, boundaries: [627,918]
+index: 23, boundaries: [647,917]
+index: 22, boundaries: [540,915]
+index: 12, boundaries: [436,1007]
+index: 13, boundaries: [571,979]
+index: 14, boundaries: [569,621]
+index: 14, boundaries: [571,979]
+index: 15, boundaries: [535,807]
+index: 15, boundaries: [571,979]
+index: 16, boundaries: [742,750]
+index: 16, boundaries: [571,979]
+index: 17, boundaries: [635,679]
+index: 17, boundaries: [571,979]
+index: 18, boundaries: [532,871]
+index: 18, boundaries: [571,979]
+index: 19, boundaries: [582,665]
+index: 19, boundaries: [571,979]
+index: 20, boundaries: [594,850]
+index: 20, boundaries: [571,979]
+index: 21, boundaries: [582,969]
+index: 22, boundaries: [664,969]
+index: 23, boundaries: [747,969]
+index: 24, boundaries: [797,969]
+index: 25, boundaries: [929,969]
+index: 26, boundaries: [916,943]
+index: 27, boundaries: [943,943]
+index: 27, boundaries: [916,916]
+index: 26, boundaries: [929,956]
+index: 27, boundaries: [893,956]
+index: 28, boundaries: [956,956]
+index: 28, boundaries: [893,893]
+index: 27, boundaries: [929,929]
+index: 25, boundaries: [797,942]
+index: 26, boundaries: [910,937]
+index: 26, boundaries: [797,919]
+index: 24, boundaries: [747,934]
+index: 23, boundaries: [664,933]
+index: 22, boundaries: [582,931]
+index: 21, boundaries: [571,969]
+index: 22, boundaries: [585,969]
+index: 23, boundaries: [698,969]
+index: 24, boundaries: [728,969]
+index: 25, boundaries: [875,875]
+index: 25, boundaries: [728,969]
+index: 26, boundaries: [828,969]
+index: 27, boundaries: [831,831]
+index: 27, boundaries: [828,969]
+index: 28, boundaries: [888,888]
+index: 28, boundaries: [828,969]
+index: 29, boundaries: [902,967]
+index: 30, boundaries: [869,932]
+index: 30, boundaries: [902,950]
+index: 31, boundaries: [905,905]
+index: 31, boundaries: [902,902]
+index: 29, boundaries: [828,948]
+index: 30, boundaries: [828,942]
+index: 31, boundaries: [882,942]
+index: 32, boundaries: [942,942]
+index: 32, boundaries: [882,882]
+index: 31, boundaries: [828,881]
+index: 30, boundaries: [792,931]
+index: 26, boundaries: [728,926]
+index: 24, boundaries: [698,918]
+index: 23, boundaries: [585,918]
+index: 22, boundaries: [571,915]
+index: 13, boundaries: [436,1007]
+index: 14, boundaries: [468,793]
+index: 14, boundaries: [436,1007]
+index: 15, boundaries: [519,915]
+index: 15, boundaries: [436,1007]
+index: 16, boundaries: [557,910]
+index: 16, boundaries: [436,1007]
+index: 17, boundaries: [502,852]
+index: 17, boundaries: [436,1007]
+index: 18, boundaries: [547,958]
+index: 19, boundaries: [558,649]
+index: 19, boundaries: [547,958]
+index: 20, boundaries: [570,832]
+index: 20, boundaries: [547,958]
+index: 21, boundaries: [558,950]
+index: 22, boundaries: [640,950]
+index: 23, boundaries: [723,950]
+index: 24, boundaries: [773,950]
+index: 25, boundaries: [905,950]
+index: 26, boundaries: [892,919]
+index: 26, boundaries: [905,932]
+index: 25, boundaries: [773,920]
+index: 24, boundaries: [723,912]
+index: 23, boundaries: [640,912]
+index: 22, boundaries: [558,910]
+index: 21, boundaries: [547,947]
+index: 22, boundaries: [597,947]
+index: 23, boundaries: [674,947]
+index: 24, boundaries: [726,947]
+index: 25, boundaries: [851,858]
+index: 25, boundaries: [726,947]
+index: 26, boundaries: [804,947]
+index: 27, boundaries: [834,834]
+index: 27, boundaries: [804,947]
+index: 28, boundaries: [864,864]
+index: 28, boundaries: [804,947]
+index: 29, boundaries: [878,945]
+index: 30, boundaries: [845,945]
+index: 31, boundaries: [908,908]
+index: 31, boundaries: [845,905]
+index: 30, boundaries: [878,928]
+index: 29, boundaries: [804,926]
+index: 26, boundaries: [726,905]
+index: 24, boundaries: [674,897]
+index: 23, boundaries: [597,896]
+index: 22, boundaries: [547,894]
+index: 18, boundaries: [436,1007]
+index: 19, boundaries: [449,831]
+index: 19, boundaries: [436,1007]
+index: 20, boundaries: [551,949]
+index: 21, boundaries: [562,936]
+index: 21, boundaries: [551,941]
+index: 22, boundaries: [565,941]
+index: 23, boundaries: [626,941]
+index: 24, boundaries: [708,941]
+index: 25, boundaries: [765,834]
+index: 25, boundaries: [708,941]
+index: 26, boundaries: [772,939]
+index: 26, boundaries: [708,898]
+index: 24, boundaries: [626,890]
+index: 23, boundaries: [565,890]
+index: 22, boundaries: [551,887]
+index: 20, boundaries: [436,1007]
+index: 21, boundaries: [572,1007]
+index: 22, boundaries: [670,1007]
+index: 23, boundaries: [695,1007]
+index: 24, boundaries: [790,1007]
+index: 25, boundaries: [786,813]
+index: 25, boundaries: [790,1007]
+index: 26, boundaries: [789,961]
+index: 27, boundaries: [921,961]
+index: 28, boundaries: [908,935]
+index: 28, boundaries: [921,948]
+index: 29, boundaries: [885,948]
+index: 30, boundaries: [948,948]
+index: 30, boundaries: [885,885]
+index: 29, boundaries: [921,921]
+index: 27, boundaries: [789,934]
+index: 26, boundaries: [790,1007]
+index: 27, boundaries: [828,1007]
+index: 28, boundaries: [898,938]
+index: 28, boundaries: [828,1007]
+index: 29, boundaries: [955,986]
+index: 30, boundaries: [942,942]
+acting solution changed: value: 942, size: 258, quantity: 14
+index: 30, boundaries: [955,982]
+index: 31, boundaries: [919,982]
+index: 32, boundaries: [982,982]
+index: 32, boundaries: [919,919]
+index: 31, boundaries: [955,955]
+acting solution changed: value: 955, size: 256, quantity: 14
+index: 29, boundaries: [828,1007]
+index: 30, boundaries: [873,1007]
+index: 31, boundaries: [873,1002]
+index: 32, boundaries: [944,944]
+index: 32, boundaries: [873,996]
+index: 33, boundaries: [996,996]
+acting solution changed: value: 996, size: 258, quantity: 16
+index: 33, boundaries: [873,936]
+index: 31, boundaries: [855,991]
+index: 30, boundaries: [828,986]
+index: 27, boundaries: [790,965]
+index: 24, boundaries: [695,957]
+index: 23, boundaries: [670,956]
+index: 22, boundaries: [572,954]
+index: 21, boundaries: [436,991]
+index: 10, boundaries: [377,933]
+index: 9, boundaries: [438,993]
+index: 5, boundaries: [492,997]
+index: 6, boundaries: [387,813]
+index: 6, boundaries: [492,997]
+index: 7, boundaries: [466,972]
+index: 7, boundaries: [492,997]
+index: 8, boundaries: [533,916]
+index: 8, boundaries: [492,997]
+index: 9, boundaries: [492,997]
+index: 10, boundaries: [492,997]
+index: 11, boundaries: [401,934]
+index: 11, boundaries: [492,997]
+index: 12, boundaries: [464,974]
+index: 12, boundaries: [492,997]
+index: 13, boundaries: [447,975]
+index: 13, boundaries: [492,997]
+index: 14, boundaries: [402,825]
+index: 14, boundaries: [492,997]
+index: 15, boundaries: [446,916]
+index: 15, boundaries: [492,997]
+index: 16, boundaries: [516,924]
+index: 16, boundaries: [492,997]
+index: 17, boundaries: [468,887]
+index: 17, boundaries: [492,997]
+index: 18, boundaries: [423,953]
+index: 18, boundaries: [492,997]
+index: 19, boundaries: [424,854]
+index: 19, boundaries: [492,997]
+index: 20, boundaries: [514,947]
+index: 20, boundaries: [492,997]
+index: 21, boundaries: [451,997]
+index: 22, boundaries: [555,997]
+index: 23, boundaries: [757,997]
+index: 24, boundaries: [765,997]
+index: 25, boundaries: [797,886]
+index: 25, boundaries: [765,997]
+index: 26, boundaries: [800,967]
+index: 26, boundaries: [765,997]
+index: 27, boundaries: [762,997]
+index: 28, boundaries: [783,943]
+index: 28, boundaries: [762,997]
+index: 29, boundaries: [826,853]
+index: 29, boundaries: [762,997]
+index: 30, boundaries: [927,995]
+index: 30, boundaries: [762,997]
+index: 31, boundaries: [749,812]
+index: 31, boundaries: [762,997]
+index: 32, boundaries: [839,866]
+index: 32, boundaries: [762,997]
+index: 33, boundaries: [930,939]
+index: 33, boundaries: [762,997]
+index: 34, boundaries: [846,997]
+index: 35, boundaries: [846,997]
+index: 36, boundaries: [892,955]
+index: 36, boundaries: [846,997]
+index: 37, boundaries: [884,997]
+index: 38, boundaries: [944,944]
+index: 38, boundaries: [884,984]
+index: 37, boundaries: [846,956]
+index: 35, boundaries: [794,980]
+index: 34, boundaries: [762,974]
+index: 27, boundaries: [765,954]
+index: 24, boundaries: [757,946]
+index: 23, boundaries: [555,945]
+index: 22, boundaries: [451,943]
+index: 21, boundaries: [492,980]
+index: 10, boundaries: [397,923]
+index: 9, boundaries: [449,982]
+index: 4, boundaries: [406,1022]
+index: 5, boundaries: [446,1022]
+index: 6, boundaries: [382,843]
+index: 6, boundaries: [446,1022]
+index: 7, boundaries: [439,996]
+index: 7, boundaries: [446,1022]
+index: 8, boundaries: [487,945]
+index: 8, boundaries: [446,1022]
+index: 9, boundaries: [493,1022]
+index: 10, boundaries: [560,1022]
+index: 11, boundaries: [482,959]
+index: 11, boundaries: [560,1022]
+index: 12, boundaries: [437,999]
+index: 13, boundaries: [570,966]
+index: 13, boundaries: [437,999]
+index: 14, boundaries: [516,763]
+index: 14, boundaries: [437,999]
+index: 15, boundaries: [491,903]
+index: 15, boundaries: [437,999]
+index: 16, boundaries: [545,882]
+index: 16, boundaries: [437,999]
+index: 17, boundaries: [582,823]
+index: 17, boundaries: [437,999]
+index: 18, boundaries: [546,946]
+index: 18, boundaries: [437,999]
+index: 19, boundaries: [457,801]
+index: 19, boundaries: [437,999]
+index: 20, boundaries: [514,936]
+index: 20, boundaries: [437,999]
+index: 21, boundaries: [571,999]
+index: 22, boundaries: [678,999]
+index: 23, boundaries: [658,999]
+index: 24, boundaries: [760,999]
+index: 25, boundaries: [760,999]
+index: 26, boundaries: [887,935]
+index: 26, boundaries: [760,999]
+index: 27, boundaries: [804,999]
+index: 28, boundaries: [906,912]
+index: 28, boundaries: [804,999]
+index: 29, boundaries: [927,927]
+index: 29, boundaries: [804,999]
+index: 30, boundaries: [863,996]
+index: 30, boundaries: [804,978]
+index: 27, boundaries: [760,957]
+index: 24, boundaries: [658,949]
+index: 23, boundaries: [678,948]
+index: 22, boundaries: [571,946]
+index: 21, boundaries: [437,983]
+index: 12, boundaries: [560,1022]
+index: 13, boundaries: [492,1000]
+index: 14, boundaries: [499,735]
+index: 14, boundaries: [492,1000]
+index: 15, boundaries: [553,893]
+index: 15, boundaries: [492,1000]
+index: 16, boundaries: [604,857]
+index: 16, boundaries: [492,1000]
+index: 17, boundaries: [529,794]
+index: 17, boundaries: [492,1000]
+index: 18, boundaries: [529,941]
+index: 18, boundaries: [492,1000]
+index: 19, boundaries: [512,775]
+index: 19, boundaries: [492,1000]
+index: 20, boundaries: [488,929]
+index: 20, boundaries: [492,1000]
+index: 21, boundaries: [602,1000]
+index: 22, boundaries: [616,1000]
+index: 23, boundaries: [729,1000]
+index: 24, boundaries: [759,1000]
+index: 25, boundaries: [906,906]
+index: 25, boundaries: [759,1000]
+index: 26, boundaries: [859,1000]
+index: 27, boundaries: [862,862]
+index: 27, boundaries: [859,1000]
+index: 28, boundaries: [919,919]
+index: 28, boundaries: [859,1000]
+index: 29, boundaries: [933,998]
+index: 30, boundaries: [900,963]
+index: 30, boundaries: [933,981]
+index: 29, boundaries: [859,979]
+index: 26, boundaries: [759,957]
+index: 24, boundaries: [729,949]
+index: 23, boundaries: [616,949]
+index: 22, boundaries: [602,946]
+index: 21, boundaries: [492,984]
+index: 13, boundaries: [560,1022]
+index: 14, boundaries: [420,857]
+index: 14, boundaries: [560,1022]
+index: 15, boundaries: [413,941]
+index: 15, boundaries: [560,1022]
+index: 16, boundaries: [570,953]
+index: 16, boundaries: [560,1022]
+index: 17, boundaries: [486,920]
+index: 17, boundaries: [560,1022]
+index: 18, boundaries: [468,978]
+index: 18, boundaries: [560,1022]
+index: 19, boundaries: [469,883]
+index: 19, boundaries: [560,1022]
+index: 20, boundaries: [472,972]
+index: 20, boundaries: [560,1022]
+index: 21, boundaries: [467,1022]
+index: 22, boundaries: [600,1022]
+index: 23, boundaries: [712,1022]
+index: 24, boundaries: [774,1022]
+index: 25, boundaries: [803,924]
+index: 25, boundaries: [774,1022]
+index: 26, boundaries: [751,992]
+index: 26, boundaries: [774,1022]
+index: 27, boundaries: [816,1022]
+index: 28, boundaries: [828,969]
+index: 28, boundaries: [816,1022]
+index: 29, boundaries: [835,911]
+index: 29, boundaries: [816,1022]
+index: 30, boundaries: [885,1019]
+index: 31, boundaries: [959,1019]
+index: 32, boundaries: [926,989]
+index: 32, boundaries: [959,1002]
+index: 33, boundaries: [962,962]
+index: 33, boundaries: [959,959]
+index: 31, boundaries: [885,996]
+index: 30, boundaries: [816,1021]
+index: 31, boundaries: [848,857]
+index: 31, boundaries: [816,1021]
+index: 32, boundaries: [848,917]
+index: 32, boundaries: [816,1021]
+index: 33, boundaries: [939,975]
+index: 33, boundaries: [816,1021]
+index: 34, boundaries: [891,1021]
+index: 35, boundaries: [855,1021]
+index: 36, boundaries: [881,881]
+index: 36, boundaries: [855,1021]
+index: 37, boundaries: [901,964]
+index: 37, boundaries: [855,1021]
+index: 38, boundaries: [893,1021]
+index: 39, boundaries: [953,953]
+index: 39, boundaries: [893,995]
+index: 38, boundaries: [855,980]
+index: 35, boundaries: [891,1004]
+index: 36, boundaries: [871,871]
+index: 36, boundaries: [891,1004]
+index: 37, boundaries: [854,854]
+index: 37, boundaries: [891,1004]
+index: 38, boundaries: [934,982]
+index: 38, boundaries: [891,1004]
+index: 39, boundaries: [891,1004]
+index: 40, boundaries: [926,926]
+index: 40, boundaries: [891,971]
+index: 39, boundaries: [803,961]
+index: 34, boundaries: [816,998]
+index: 35, boundaries: [780,998]
+index: 36, boundaries: [911,911]
+index: 36, boundaries: [780,998]
+index: 37, boundaries: [894,894]
+index: 37, boundaries: [780,998]
+index: 38, boundaries: [860,974]
+index: 38, boundaries: [780,998]
+index: 39, boundaries: [868,998]
+index: 40, boundaries: [903,912]
+index: 40, boundaries: [868,952]
+index: 39, boundaries: [780,945]
+index: 35, boundaries: [816,980]
+index: 27, boundaries: [774,979]
+index: 24, boundaries: [712,971]
+index: 23, boundaries: [600,970]
+index: 22, boundaries: [467,968]
+index: 21, boundaries: [560,1005]
+index: 22, boundaries: [560,1005]
+index: 23, boundaries: [578,1005]
+index: 24, boundaries: [700,1005]
+index: 25, boundaries: [701,920]
+index: 25, boundaries: [700,1005]
+index: 26, boundaries: [717,976]
+index: 26, boundaries: [700,1005]
+index: 27, boundaries: [766,1005]
+index: 28, boundaries: [745,953]
+index: 28, boundaries: [766,1005]
+index: 29, boundaries: [770,923]
+index: 29, boundaries: [766,1005]
+index: 30, boundaries: [802,1005]
+index: 31, boundaries: [802,1005]
+index: 32, boundaries: [871,898]
+index: 32, boundaries: [802,1005]
+index: 33, boundaries: [825,1005]
+index: 34, boundaries: [915,1005]
+index: 35, boundaries: [923,923]
+index: 35, boundaries: [915,1005]
+index: 36, boundaries: [915,977]
+index: 36, boundaries: [861,965]
+index: 34, boundaries: [825,988]
+index: 33, boundaries: [802,983]
+index: 30, boundaries: [766,997]
+index: 31, boundaries: [711,858]
+index: 31, boundaries: [766,997]
+index: 32, boundaries: [783,934]
+index: 32, boundaries: [766,997]
+index: 33, boundaries: [838,965]
+index: 33, boundaries: [766,997]
+index: 34, boundaries: [837,997]
+index: 35, boundaries: [837,997]
+index: 36, boundaries: [887,887]
+index: 36, boundaries: [837,997]
+index: 37, boundaries: [867,912]
+index: 37, boundaries: [837,997]
+index: 38, boundaries: [832,985]
+index: 38, boundaries: [837,985]
+index: 35, boundaries: [792,978]
+index: 34, boundaries: [766,969]
+index: 27, boundaries: [700,961]
+index: 24, boundaries: [578,953]
+index: 23, boundaries: [560,952]
+index: 22, boundaries: [501,951]
+index: 10, boundaries: [493,947]
+index: 9, boundaries: [446,1007]
+index: 10, boundaries: [446,1007]
+index: 11, boundaries: [390,944]
+index: 11, boundaries: [446,1007]
+index: 12, boundaries: [439,985]
+index: 12, boundaries: [446,1007]
+index: 13, boundaries: [494,985]
+index: 13, boundaries: [446,1007]
+index: 14, boundaries: [449,845]
+index: 14, boundaries: [446,1007]
+index: 15, boundaries: [415,926]
+index: 15, boundaries: [446,1007]
+index: 16, boundaries: [527,941]
+index: 16, boundaries: [446,1007]
+index: 17, boundaries: [515,908]
+index: 17, boundaries: [446,1007]
+index: 18, boundaries: [470,964]
+index: 18, boundaries: [446,1007]
+index: 19, boundaries: [471,872]
+index: 19, boundaries: [446,1007]
+index: 20, boundaries: [438,957]
+index: 20, boundaries: [446,1007]
+index: 21, boundaries: [469,1007]
+index: 22, boundaries: [512,1007]
+index: 23, boundaries: [609,1007]
+index: 24, boundaries: [818,1007]
+index: 25, boundaries: [718,917]
+index: 25, boundaries: [818,1007]
+index: 26, boundaries: [721,977]
+index: 26, boundaries: [818,1007]
+index: 27, boundaries: [818,1007]
+index: 28, boundaries: [830,954]
+index: 28, boundaries: [818,1007]
+index: 29, boundaries: [873,909]
+index: 29, boundaries: [818,1007]
+index: 30, boundaries: [851,1006]
+index: 31, boundaries: [961,1004]
+index: 32, boundaries: [961,1004]
+index: 33, boundaries: [964,964]
+index: 33, boundaries: [961,961]
+index: 32, boundaries: [874,987]
+index: 31, boundaries: [851,985]
+index: 30, boundaries: [818,1006]
+index: 31, boundaries: [796,850]
+index: 31, boundaries: [818,1006]
+index: 32, boundaries: [886,917]
+index: 32, boundaries: [818,1006]
+index: 33, boundaries: [884,966]
+index: 33, boundaries: [818,1006]
+index: 34, boundaries: [796,1006]
+index: 35, boundaries: [893,1006]
+index: 36, boundaries: [873,873]
+index: 36, boundaries: [893,1006]
+index: 37, boundaries: [856,856]
+index: 37, boundaries: [893,1006]
+index: 38, boundaries: [936,984]
+index: 38, boundaries: [893,1006]
+index: 39, boundaries: [893,1006]
+index: 40, boundaries: [928,928]
+index: 40, boundaries: [893,973]
+index: 39, boundaries: [805,963]
+index: 35, boundaries: [796,989]
+index: 34, boundaries: [818,982]
+index: 27, boundaries: [767,964]
+index: 24, boundaries: [609,956]
+index: 23, boundaries: [512,955]
+index: 22, boundaries: [469,953]
+index: 21, boundaries: [446,990]
+index: 10, boundaries: [351,933]
+index: 5, boundaries: [406,1011]
+index: 6, boundaries: [404,845]
+index: 6, boundaries: [406,1011]
+index: 7, boundaries: [457,987]
+index: 7, boundaries: [406,1011]
+index: 8, boundaries: [447,938]
+index: 8, boundaries: [406,1011]
+index: 9, boundaries: [386,1011]
+index: 10, boundaries: [386,1011]
+index: 11, boundaries: [392,949]
+index: 11, boundaries: [386,1011]
+index: 12, boundaries: [455,990]
+index: 12, boundaries: [386,1011]
+index: 13, boundaries: [429,990]
+index: 13, boundaries: [386,1011]
+index: 14, boundaries: [518,859]
+index: 14, boundaries: [386,1011]
+index: 15, boundaries: [388,931]
+index: 15, boundaries: [386,1011]
+index: 16, boundaries: [497,950]
+index: 16, boundaries: [386,1011]
+index: 17, boundaries: [592,921]
+index: 17, boundaries: [386,1011]
+index: 18, boundaries: [414,969]
+index: 18, boundaries: [386,1011]
+index: 19, boundaries: [432,884]
+index: 19, boundaries: [386,1011]
+index: 20, boundaries: [409,962]
+index: 20, boundaries: [386,1011]
+index: 21, boundaries: [523,1011]
+index: 22, boundaries: [537,1011]
+index: 23, boundaries: [578,1011]
+index: 24, boundaries: [650,1011]
+index: 25, boundaries: [763,926]
+index: 25, boundaries: [650,1011]
+index: 26, boundaries: [694,982]
+index: 26, boundaries: [650,1011]
+index: 27, boundaries: [779,1011]
+index: 28, boundaries: [765,959]
+index: 28, boundaries: [779,1011]
+index: 29, boundaries: [843,930]
+index: 29, boundaries: [779,1011]
+index: 30, boundaries: [822,1011]
+index: 31, boundaries: [822,1011]
+index: 32, boundaries: [919,1011]
+index: 33, boundaries: [883,1011]
+index: 34, boundaries: [945,945]
+index: 34, boundaries: [883,1011]
+index: 35, boundaries: [937,997]
+index: 36, boundaries: [997,997]
+index: 36, boundaries: [937,937]
+index: 35, boundaries: [883,972]
+index: 33, boundaries: [919,994]
+index: 32, boundaries: [822,990]
+index: 30, boundaries: [779,1007]
+index: 31, boundaries: [766,863]
+index: 31, boundaries: [779,1007]
+index: 32, boundaries: [856,941]
+index: 32, boundaries: [779,1007]
+index: 33, boundaries: [824,971]
+index: 33, boundaries: [779,1007]
+index: 34, boundaries: [859,1007]
+index: 35, boundaries: [859,1007]
+index: 36, boundaries: [909,909]
+index: 36, boundaries: [859,1007]
+index: 37, boundaries: [892,892]
+index: 37, boundaries: [859,1007]
+index: 38, boundaries: [858,991]
+index: 38, boundaries: [859,1002]
+index: 39, boundaries: [859,1002]
+index: 40, boundaries: [901,1000]
+index: 41, boundaries: [999,999]
+index: 41, boundaries: [901,910]
+index: 40, boundaries: [859,963]
+index: 39, boundaries: [778,947]
+index: 35, boundaries: [814,988]
+index: 34, boundaries: [779,979]
+index: 27, boundaries: [650,968]
+index: 24, boundaries: [578,960]
+index: 23, boundaries: [537,959]
+index: 22, boundaries: [523,958]
+index: 21, boundaries: [386,993]
+index: 10, boundaries: [318,937]
+index: 9, boundaries: [406,997]
+index: 10, boundaries: [406,997]
+index: 11, boundaries: [421,935]
+index: 11, boundaries: [406,997]
+index: 12, boundaries: [457,975]
+index: 12, boundaries: [406,997]
+index: 13, boundaries: [431,976]
+index: 13, boundaries: [406,997]
+index: 14, boundaries: [376,846]
+index: 14, boundaries: [406,997]
+index: 15, boundaries: [343,917]
+index: 15, boundaries: [406,997]
+index: 16, boundaries: [403,936]
+index: 16, boundaries: [406,997]
+index: 17, boundaries: [442,909]
+index: 17, boundaries: [406,997]
+index: 18, boundaries: [407,954]
+index: 18, boundaries: [406,997]
+index: 19, boundaries: [434,869]
+index: 19, boundaries: [406,997]
+index: 20, boundaries: [411,948]
+index: 20, boundaries: [406,997]
+index: 21, boundaries: [480,997]
+index: 22, boundaries: [530,997]
+index: 23, boundaries: [580,997]
+index: 24, boundaries: [652,997]
+index: 25, boundaries: [671,912]
+index: 25, boundaries: [652,997]
+index: 26, boundaries: [696,968]
+index: 26, boundaries: [652,997]
+index: 27, boundaries: [781,997]
+index: 28, boundaries: [767,945]
+index: 28, boundaries: [781,997]
+index: 29, boundaries: [845,915]
+index: 29, boundaries: [781,997]
+index: 30, boundaries: [824,996]
+index: 30, boundaries: [781,990]
+index: 27, boundaries: [652,953]
+index: 24, boundaries: [580,945]
+index: 23, boundaries: [530,944]
+index: 22, boundaries: [480,943]
+index: 21, boundaries: [406,978]
+index: 10, boundaries: [320,922]
+index: 2, boundaries: [292,986]
+index: 1, boundaries: [274,1114]
+index: 2, boundaries: [350,1114]
+index: 3, boundaries: [418,1062]
+index: 4, boundaries: [540,1047]
+index: 5, boundaries: [477,1047]
+index: 6, boundaries: [365,811]
+index: 6, boundaries: [477,1047]
+index: 7, boundaries: [545,1018]
+index: 8, boundaries: [501,816]
+index: 8, boundaries: [545,1018]
+index: 9, boundaries: [600,1018]
+index: 10, boundaries: [600,1018]
+index: 11, boundaries: [561,903]
+index: 11, boundaries: [600,1018]
+index: 12, boundaries: [588,962]
+index: 12, boundaries: [600,1018]
+index: 13, boundaries: [607,937]
+index: 13, boundaries: [600,1018]
+index: 14, boundaries: [598,673]
+index: 14, boundaries: [600,1018]
+index: 15, boundaries: [600,856]
+index: 15, boundaries: [600,1018]
+index: 16, boundaries: [664,800]
+index: 16, boundaries: [600,1018]
+index: 17, boundaries: [664,731]
+index: 17, boundaries: [600,1018]
+index: 18, boundaries: [583,919]
+index: 18, boundaries: [600,1018]
+index: 19, boundaries: [611,716]
+index: 19, boundaries: [600,1018]
+index: 20, boundaries: [565,898]
+index: 20, boundaries: [600,1018]
+index: 21, boundaries: [647,1012]
+index: 22, boundaries: [661,1012]
+index: 23, boundaries: [776,1012]
+index: 24, boundaries: [913,1012]
+index: 25, boundaries: [958,1012]
+index: 26, boundaries: [945,972]
+index: 26, boundaries: [958,985]
+index: 25, boundaries: [913,978]
+index: 24, boundaries: [776,971]
+index: 23, boundaries: [661,970]
+index: 22, boundaries: [647,968]
+index: 21, boundaries: [600,1006]
+index: 22, boundaries: [650,1006]
+index: 23, boundaries: [763,1006]
+index: 24, boundaries: [779,1006]
+index: 25, boundaries: [904,925]
+index: 25, boundaries: [779,1006]
+index: 26, boundaries: [893,1006]
+index: 27, boundaries: [887,887]
+index: 27, boundaries: [893,1006]
+index: 28, boundaries: [944,944]
+index: 28, boundaries: [893,1006]
+index: 29, boundaries: [931,1003]
+index: 30, boundaries: [898,1003]
+index: 31, boundaries: [961,961]
+index: 31, boundaries: [898,958]
+index: 30, boundaries: [931,986]
+index: 29, boundaries: [893,985]
+index: 26, boundaries: [779,963]
+index: 24, boundaries: [763,955]
+index: 23, boundaries: [650,955]
+index: 22, boundaries: [600,952]
+index: 10, boundaries: [541,944]
+index: 9, boundaries: [545,1006]
+index: 10, boundaries: [545,1006]
+index: 11, boundaries: [509,903]
+index: 11, boundaries: [545,1006]
+index: 12, boundaries: [588,955]
+index: 12, boundaries: [545,1006]
+index: 13, boundaries: [555,937]
+index: 13, boundaries: [545,1006]
+index: 14, boundaries: [600,678]
+index: 14, boundaries: [545,1006]
+index: 15, boundaries: [512,856]
+index: 15, boundaries: [545,1006]
+index: 16, boundaries: [666,802]
+index: 16, boundaries: [545,1006]
+index: 17, boundaries: [666,737]
+index: 17, boundaries: [545,1006]
+index: 18, boundaries: [531,919]
+index: 18, boundaries: [545,1006]
+index: 19, boundaries: [523,719]
+index: 19, boundaries: [545,1006]
+index: 20, boundaries: [567,898]
+index: 20, boundaries: [545,1006]
+index: 21, boundaries: [559,1005]
+index: 22, boundaries: [663,1005]
+index: 23, boundaries: [796,1005]
+index: 24, boundaries: [810,1005]
+index: 25, boundaries: [960,1005]
+index: 26, boundaries: [983,1003]
+index: 27, boundaries: [947,947]
+index: 27, boundaries: [983,983]
+index: 26, boundaries: [960,960]
+index: 25, boundaries: [810,963]
+index: 24, boundaries: [796,956]
+index: 23, boundaries: [663,956]
+index: 22, boundaries: [559,954]
+index: 21, boundaries: [545,991]
+index: 10, boundaries: [486,933]
+index: 7, boundaries: [477,1047]
+index: 8, boundaries: [518,944]
+index: 8, boundaries: [477,1047]
+index: 9, boundaries: [509,1047]
+index: 10, boundaries: [509,1047]
+index: 11, boundaries: [573,977]
+index: 11, boundaries: [509,1047]
+index: 12, boundaries: [600,1021]
+index: 13, boundaries: [607,943]
+index: 13, boundaries: [600,1021]
+index: 14, boundaries: [598,681]
+index: 14, boundaries: [600,1021]
+index: 15, boundaries: [600,862]
+index: 15, boundaries: [600,1021]
+index: 16, boundaries: [664,807]
+index: 16, boundaries: [600,1021]
+index: 17, boundaries: [664,739]
+index: 17, boundaries: [600,1021]
+index: 18, boundaries: [583,925]
+index: 18, boundaries: [600,1021]
+index: 19, boundaries: [715,723]
+index: 19, boundaries: [600,1021]
+index: 20, boundaries: [565,904]
+index: 20, boundaries: [600,1021]
+index: 21, boundaries: [647,1016]
+index: 22, boundaries: [661,1016]
+index: 23, boundaries: [776,1016]
+index: 24, boundaries: [913,1016]
+index: 25, boundaries: [958,1016]
+index: 26, boundaries: [945,1008]
+index: 27, boundaries: [972,972]
+index: 27, boundaries: [945,1008]
+index: 28, boundaries: [945,945]
+index: 26, boundaries: [958,985]
+index: 25, boundaries: [913,981]
+index: 24, boundaries: [776,973]
+index: 23, boundaries: [661,973]
+index: 22, boundaries: [647,971]
+index: 21, boundaries: [600,1008]
+index: 22, boundaries: [650,1008]
+index: 23, boundaries: [763,1008]
+index: 24, boundaries: [777,1008]
+index: 25, boundaries: [904,932]
+index: 25, boundaries: [777,1008]
+index: 26, boundaries: [893,1008]
+index: 27, boundaries: [887,887]
+index: 27, boundaries: [893,1008]
+index: 28, boundaries: [944,944]
+index: 28, boundaries: [893,1008]
+index: 29, boundaries: [931,1006]
+index: 30, boundaries: [898,1006]
+index: 31, boundaries: [961,961]
+index: 31, boundaries: [898,958]
+index: 30, boundaries: [931,989]
+index: 29, boundaries: [893,987]
+index: 26, boundaries: [777,966]
+index: 24, boundaries: [763,958]
+index: 23, boundaries: [650,957]
+index: 22, boundaries: [600,955]
+index: 12, boundaries: [509,1047]
+index: 13, boundaries: [619,1017]
+index: 14, boundaries: [617,646]
+index: 14, boundaries: [619,1017]
+index: 15, boundaries: [583,835]
+index: 15, boundaries: [619,1017]
+index: 16, boundaries: [686,777]
+index: 16, boundaries: [619,1017]
+index: 17, boundaries: [683,704]
+index: 17, boundaries: [619,1017]
+index: 18, boundaries: [638,900]
+index: 18, boundaries: [619,1017]
+index: 19, boundaries: [630,690]
+index: 19, boundaries: [619,1017]
+index: 20, boundaries: [606,878]
+index: 20, boundaries: [619,1017]
+index: 21, boundaries: [630,1004]
+index: 22, boundaries: [680,1004]
+index: 23, boundaries: [777,1004]
+index: 24, boundaries: [977,1004]
+index: 25, boundaries: [977,1004]
+index: 26, boundaries: [964,964]
+index: 26, boundaries: [977,1004]
+index: 27, boundaries: [941,1004]
+index: 28, boundaries: [941,941]
+index: 27, boundaries: [977,977]
+index: 25, boundaries: [935,980]
+index: 24, boundaries: [777,972]
+index: 23, boundaries: [680,973]
+index: 22, boundaries: [630,967]
+index: 21, boundaries: [619,1009]
+index: 22, boundaries: [633,1009]
+index: 23, boundaries: [694,1009]
+index: 24, boundaries: [776,1009]
+index: 25, boundaries: [833,902]
+index: 25, boundaries: [776,1009]
+index: 26, boundaries: [840,1007]
+index: 27, boundaries: [840,1007]
+index: 28, boundaries: [950,1007]
+index: 29, boundaries: [917,980]
+index: 29, boundaries: [950,990]
+index: 28, boundaries: [840,985]
+index: 26, boundaries: [776,966]
+index: 24, boundaries: [694,958]
+index: 23, boundaries: [633,958]
+index: 22, boundaries: [619,955]
+index: 13, boundaries: [509,1047]
+index: 14, boundaries: [484,822]
+index: 14, boundaries: [509,1047]
+index: 15, boundaries: [531,953]
+index: 15, boundaries: [509,1047]
+index: 16, boundaries: [553,941]
+index: 16, boundaries: [509,1047]
+index: 17, boundaries: [550,881]
+index: 17, boundaries: [509,1047]
+index: 18, boundaries: [595,996]
+index: 18, boundaries: [509,1047]
+index: 19, boundaries: [529,860]
+index: 19, boundaries: [509,1047]
+index: 20, boundaries: [590,986]
+index: 20, boundaries: [509,1047]
+index: 21, boundaries: [611,1047]
+index: 22, boundaries: [718,1047]
+index: 23, boundaries: [743,1047]
+index: 24, boundaries: [802,1047]
+index: 25, boundaries: [834,834]
+index: 25, boundaries: [802,1047]
+index: 26, boundaries: [969,996]
+index: 26, boundaries: [802,1047]
+index: 27, boundaries: [844,1047]
+index: 28, boundaries: [946,973]
+index: 28, boundaries: [844,1047]
+index: 29, boundaries: [1003,1016]
+index: 30, boundaries: [1003,1016]
+index: 31, boundaries: [967,967]
+index: 31, boundaries: [1003,1003]
+acting solution changed: value: 1003, size: 259, quantity: 14
+index: 29, boundaries: [844,1047]
+index: 30, boundaries: [921,1047]
+index: 31, boundaries: [921,1044]
+index: 32, boundaries: [1044,1044]
+acting solution changed: value: 1044, size: 261, quantity: 16
+index: 32, boundaries: [921,983]
+index: 31, boundaries: [903,1031]
+index: 30, boundaries: [844,1026]
+index: 27, boundaries: [802,1005]
+index: 24, boundaries: [743,997]
+index: 23, boundaries: [718,996]
+index: 22, boundaries: [611,994]
+index: 21, boundaries: [509,1031]
+index: 10, boundaries: [427,973]
+index: 9, boundaries: [477,1033]
+index: 5, boundaries: [540,1037]
+index: 4, boundaries: [418,1062]
+index: 5, boundaries: [399,1062]
+index: 6, boundaries: [480,881]
+index: 6, boundaries: [399,1062]
+index: 7, boundaries: [465,1037]
+index: 7, boundaries: [399,1062]
+index: 8, boundaries: [539,983]
+index: 8, boundaries: [399,1062]
+index: 9, boundaries: [549,1062]
+index: 10, boundaries: [549,1062]
+index: 11, boundaries: [494,999]
+index: 11, boundaries: [549,1062]
+index: 12, boundaries: [557,1039]
+index: 12, boundaries: [549,1062]
+index: 13, boundaries: [540,1040]
+index: 13, boundaries: [549,1062]
+index: 14, boundaries: [468,895]
+index: 14, boundaries: [549,1062]
+index: 15, boundaries: [548,981]
+index: 15, boundaries: [549,1062]
+index: 16, boundaries: [573,991]
+index: 16, boundaries: [549,1062]
+index: 17, boundaries: [525,958]
+index: 17, boundaries: [549,1062]
+index: 18, boundaries: [516,1018]
+index: 18, boundaries: [549,1062]
+index: 19, boundaries: [481,921]
+index: 19, boundaries: [549,1062]
+index: 20, boundaries: [484,1012]
+index: 20, boundaries: [549,1062]
+index: 21, boundaries: [540,1062]
+index: 22, boundaries: [612,1062]
+index: 23, boundaries: [715,1062]
+index: 24, boundaries: [822,1062]
+index: 25, boundaries: [851,959]
+index: 25, boundaries: [822,1062]
+index: 26, boundaries: [799,1032]
+index: 26, boundaries: [822,1062]
+index: 27, boundaries: [828,1062]
+index: 28, boundaries: [840,1007]
+index: 28, boundaries: [828,1062]
+index: 29, boundaries: [883,910]
+index: 29, boundaries: [828,1062]
+index: 30, boundaries: [897,1059]
+index: 31, boundaries: [1010,1037]
+index: 31, boundaries: [897,1037]
+index: 30, boundaries: [828,1061]
+index: 31, boundaries: [806,889]
+index: 31, boundaries: [828,1061]
+index: 32, boundaries: [896,923]
+index: 32, boundaries: [828,1061]
+index: 33, boundaries: [987,1009]
+index: 33, boundaries: [828,1061]
+index: 34, boundaries: [903,1061]
+index: 35, boundaries: [903,1061]
+index: 36, boundaries: [929,929]
+index: 36, boundaries: [903,1061]
+index: 37, boundaries: [949,1012]
+index: 37, boundaries: [903,1061]
+index: 38, boundaries: [941,1061]
+index: 39, boundaries: [1001,1001]
+index: 39, boundaries: [941,1042]
+index: 38, boundaries: [903,1021]
+index: 35, boundaries: [851,1044]
+index: 34, boundaries: [828,1039]
+index: 27, boundaries: [822,1019]
+index: 24, boundaries: [715,1011]
+index: 23, boundaries: [612,1010]
+index: 22, boundaries: [540,1008]
+index: 21, boundaries: [549,1045]
+index: 22, boundaries: [599,1045]
+index: 23, boundaries: [604,1045]
+index: 24, boundaries: [712,1045]
+index: 25, boundaries: [717,960]
+index: 25, boundaries: [712,1045]
+index: 26, boundaries: [720,1016]
+index: 26, boundaries: [712,1045]
+index: 27, boundaries: [814,1045]
+index: 28, boundaries: [793,993]
+index: 28, boundaries: [814,1045]
+index: 29, boundaries: [869,964]
+index: 29, boundaries: [814,1045]
+index: 30, boundaries: [848,1045]
+index: 31, boundaries: [919,919]
+index: 31, boundaries: [848,1045]
+index: 32, boundaries: [945,1045]
+index: 33, boundaries: [909,1045]
+index: 34, boundaries: [971,971]
+index: 34, boundaries: [909,1045]
+index: 35, boundaries: [963,1023]
+index: 35, boundaries: [909,1005]
+index: 33, boundaries: [945,1028]
+index: 32, boundaries: [848,1023]
+index: 30, boundaries: [814,1039]
+index: 27, boundaries: [712,1002]
+index: 24, boundaries: [604,994]
+index: 23, boundaries: [599,993]
+index: 22, boundaries: [549,991]
+index: 10, boundaries: [454,987]
+index: 9, boundaries: [399,1047]
+index: 10, boundaries: [593,1047]
+index: 11, boundaries: [496,985]
+index: 11, boundaries: [593,1047]
+index: 12, boundaries: [465,1025]
+index: 12, boundaries: [593,1047]
+index: 13, boundaries: [506,1025]
+index: 13, boundaries: [593,1047]
+index: 14, boundaries: [461,883]
+index: 14, boundaries: [593,1047]
+index: 15, boundaries: [445,966]
+index: 15, boundaries: [593,1047]
+index: 16, boundaries: [575,979]
+index: 16, boundaries: [593,1047]
+index: 17, boundaries: [527,946]
+index: 17, boundaries: [593,1047]
+index: 18, boundaries: [518,1004]
+index: 18, boundaries: [593,1047]
+index: 19, boundaries: [510,910]
+index: 19, boundaries: [593,1047]
+index: 20, boundaries: [486,997]
+index: 20, boundaries: [593,1047]
+index: 21, boundaries: [508,1047]
+index: 22, boundaries: [632,1047]
+index: 23, boundaries: [717,1047]
+index: 24, boundaries: [815,1047]
+index: 25, boundaries: [853,952]
+index: 25, boundaries: [815,1047]
+index: 26, boundaries: [801,1017]
+index: 26, boundaries: [815,1047]
+index: 27, boundaries: [857,1047]
+index: 28, boundaries: [842,994]
+index: 28, boundaries: [857,1047]
+index: 29, boundaries: [921,941]
+index: 29, boundaries: [857,1047]
+index: 30, boundaries: [899,1046]
+index: 31, boundaries: [922,1044]
+index: 31, boundaries: [899,1025]
+index: 30, boundaries: [857,1046]
+index: 31, boundaries: [844,884]
+index: 31, boundaries: [857,1046]
+index: 32, boundaries: [934,947]
+index: 32, boundaries: [857,1046]
+index: 33, boundaries: [935,1002]
+index: 33, boundaries: [857,1046]
+index: 34, boundaries: [889,1046]
+index: 35, boundaries: [853,1046]
+index: 36, boundaries: [853,1046]
+index: 37, boundaries: [904,904]
+index: 37, boundaries: [853,1046]
+index: 38, boundaries: [984,1024]
+index: 38, boundaries: [853,1046]
+index: 39, boundaries: [921,1046]
+index: 40, boundaries: [976,976]
+index: 40, boundaries: [921,1018]
+index: 39, boundaries: [853,1006]
+index: 35, boundaries: [889,1029]
+index: 34, boundaries: [857,1024]
+index: 27, boundaries: [815,1004]
+index: 24, boundaries: [717,996]
+index: 23, boundaries: [632,996]
+index: 22, boundaries: [508,994]
+index: 21, boundaries: [593,1030]
+index: 10, boundaries: [399,973]
+index: 5, boundaries: [418,1051]
+index: 6, boundaries: [407,883]
+index: 6, boundaries: [418,1051]
+index: 7, boundaries: [496,1027]
+index: 7, boundaries: [418,1051]
+index: 8, boundaries: [459,978]
+index: 8, boundaries: [418,1051]
+index: 9, boundaries: [366,1051]
+index: 10, boundaries: [416,1051]
+index: 11, boundaries: [431,989]
+index: 11, boundaries: [416,1051]
+index: 12, boundaries: [467,1030]
+index: 12, boundaries: [416,1051]
+index: 13, boundaries: [477,1030]
+index: 13, boundaries: [416,1051]
+index: 14, boundaries: [479,897]
+index: 14, boundaries: [416,1051]
+index: 15, boundaries: [414,971]
+index: 15, boundaries: [416,1051]
+index: 16, boundaries: [545,990]
+index: 16, boundaries: [416,1051]
+index: 17, boundaries: [545,959]
+index: 17, boundaries: [416,1051]
+index: 18, boundaries: [453,1009]
+index: 18, boundaries: [416,1051]
+index: 19, boundaries: [480,923]
+index: 19, boundaries: [416,1051]
+index: 20, boundaries: [459,1002]
+index: 20, boundaries: [416,1051]
+index: 21, boundaries: [571,1051]
+index: 22, boundaries: [585,1051]
+index: 23, boundaries: [684,1051]
+index: 24, boundaries: [698,1051]
+index: 25, boundaries: [811,966]
+index: 25, boundaries: [698,1051]
+index: 26, boundaries: [830,1022]
+index: 26, boundaries: [698,1051]
+index: 27, boundaries: [839,1051]
+index: 28, boundaries: [815,999]
+index: 28, boundaries: [839,1051]
+index: 29, boundaries: [891,971]
+index: 29, boundaries: [839,1051]
+index: 30, boundaries: [872,1051]
+index: 31, boundaries: [931,1051]
+index: 32, boundaries: [931,1045]
+index: 33, boundaries: [985,1045]
+index: 34, boundaries: [1045,1045]
+index: 34, boundaries: [985,985]
+index: 33, boundaries: [931,984]
+index: 32, boundaries: [895,1034]
+index: 31, boundaries: [872,1030]
+index: 30, boundaries: [839,1049]
+index: 31, boundaries: [814,904]
+index: 31, boundaries: [839,1049]
+index: 32, boundaries: [907,979]
+index: 32, boundaries: [839,1049]
+index: 33, boundaries: [854,1010]
+index: 33, boundaries: [839,1049]
+index: 34, boundaries: [862,1049]
+index: 35, boundaries: [826,1049]
+index: 36, boundaries: [957,957]
+index: 36, boundaries: [826,1049]
+index: 37, boundaries: [940,940]
+index: 37, boundaries: [826,1049]
+index: 38, boundaries: [906,1020]
+index: 38, boundaries: [826,1047]
+index: 39, boundaries: [914,1047]
+index: 40, boundaries: [949,1047]
+index: 41, boundaries: [1047,1047]
+index: 41, boundaries: [949,958]
+index: 40, boundaries: [914,999]
+index: 39, boundaries: [826,992]
+index: 35, boundaries: [862,1030]
+index: 34, boundaries: [839,1021]
+index: 27, boundaries: [698,1008]
+index: 24, boundaries: [684,1000]
+index: 23, boundaries: [585,1000]
+index: 22, boundaries: [571,998]
+index: 21, boundaries: [416,1034]
+index: 10, boundaries: [366,977]
+index: 9, boundaries: [418,1037]
+index: 3, boundaries: [350,1114]
+index: 4, boundaries: [392,1101]
+index: 5, boundaries: [433,1101]
+index: 6, boundaries: [348,936]
+index: 6, boundaries: [433,1101]
+index: 7, boundaries: [554,1077]
+index: 8, boundaries: [595,996]
+index: 8, boundaries: [554,1077]
+index: 9, boundaries: [554,1077]
+index: 10, boundaries: [554,1077]
+index: 11, boundaries: [490,1014]
+index: 11, boundaries: [554,1077]
+index: 12, boundaries: [535,1054]
+index: 13, boundaries: [587,1017]
+index: 13, boundaries: [535,1054]
+index: 14, boundaries: [542,794]
+index: 14, boundaries: [535,1054]
+index: 15, boundaries: [580,949]
+index: 15, boundaries: [535,1054]
+index: 16, boundaries: [589,915]
+index: 16, boundaries: [535,1054]
+index: 17, boundaries: [608,853]
+index: 17, boundaries: [535,1054]
+index: 18, boundaries: [563,997]
+index: 18, boundaries: [535,1054]
+index: 19, boundaries: [591,834]
+index: 19, boundaries: [535,1054]
+index: 20, boundaries: [558,986]
+index: 20, boundaries: [535,1054]
+index: 21, boundaries: [672,1054]
+index: 22, boundaries: [722,1054]
+index: 23, boundaries: [756,1054]
+index: 24, boundaries: [838,1054]
+index: 25, boundaries: [931,965]
+index: 25, boundaries: [838,1054]
+index: 26, boundaries: [902,1054]
+index: 27, boundaries: [914,941]
+index: 27, boundaries: [902,1054]
+index: 28, boundaries: [971,971]
+index: 28, boundaries: [902,1054]
+index: 29, boundaries: [1012,1052]
+index: 30, boundaries: [1012,1052]
+index: 31, boundaries: [1015,1015]
+index: 31, boundaries: [1012,1012]
+index: 30, boundaries: [925,1035]
+index: 29, boundaries: [902,1033]
+index: 26, boundaries: [838,1012]
+index: 24, boundaries: [756,1004]
+index: 23, boundaries: [722,1003]
+index: 22, boundaries: [672,1001]
+index: 21, boundaries: [535,1039]
+index: 12, boundaries: [554,1077]
+index: 13, boundaries: [536,1055]
+index: 14, boundaries: [594,764]
+index: 14, boundaries: [536,1055]
+index: 15, boundaries: [563,937]
+index: 15, boundaries: [536,1055]
+index: 16, boundaries: [630,889]
+index: 16, boundaries: [536,1055]
+index: 17, boundaries: [660,823]
+index: 17, boundaries: [536,1055]
+index: 18, boundaries: [618,987]
+index: 18, boundaries: [536,1055]
+index: 19, boundaries: [556,805]
+index: 19, boundaries: [536,1055]
+index: 20, boundaries: [586,973]
+index: 20, boundaries: [536,1055]
+index: 21, boundaries: [646,1055]
+index: 22, boundaries: [660,1055]
+index: 23, boundaries: [773,1055]
+index: 24, boundaries: [897,1055]
+index: 25, boundaries: [914,914]
+index: 25, boundaries: [897,1055]
+index: 26, boundaries: [903,1054]
+index: 27, boundaries: [1034,1034]
+index: 27, boundaries: [903,1031]
+index: 26, boundaries: [897,1012]
+index: 24, boundaries: [773,1004]
+index: 23, boundaries: [660,1004]
+index: 22, boundaries: [646,1002]
+index: 21, boundaries: [536,1039]
+index: 13, boundaries: [554,1077]
+index: 14, boundaries: [464,905]
+index: 14, boundaries: [554,1077]
+index: 15, boundaries: [544,996]
+index: 15, boundaries: [554,1077]
+index: 16, boundaries: [614,1004]
+index: 16, boundaries: [554,1077]
+index: 17, boundaries: [530,967]
+index: 17, boundaries: [554,1077]
+index: 18, boundaries: [512,1033]
+index: 18, boundaries: [554,1077]
+index: 19, boundaries: [522,934]
+index: 19, boundaries: [554,1077]
+index: 20, boundaries: [576,1027]
+index: 20, boundaries: [554,1077]
+index: 21, boundaries: [536,1077]
+index: 22, boundaries: [644,1077]
+index: 23, boundaries: [855,1077]
+index: 24, boundaries: [863,1077]
+index: 25, boundaries: [904,966]
+index: 25, boundaries: [863,1077]
+index: 26, boundaries: [889,1047]
+index: 27, boundaries: [895,1046]
+index: 28, boundaries: [1026,1026]
+index: 28, boundaries: [895,1023]
+index: 27, boundaries: [889,1004]
+index: 26, boundaries: [863,1077]
+index: 27, boundaries: [824,1077]
+index: 28, boundaries: [872,1023]
+index: 28, boundaries: [824,1077]
+index: 29, boundaries: [933,933]
+index: 29, boundaries: [824,1077]
+index: 30, boundaries: [980,1075]
+index: 31, boundaries: [1060,1060]
+acting solution changed: value: 1060, size: 255, quantity: 16
+index: 31, boundaries: [980,1052]
+index: 30, boundaries: [824,1077]
+index: 31, boundaries: [892,892]
+index: 31, boundaries: [824,1077]
+index: 32, boundaries: [946,946]
+index: 32, boundaries: [824,1077]
+index: 33, boundaries: [983,1019]
+index: 33, boundaries: [824,1077]
+index: 34, boundaries: [901,1077]
+index: 35, boundaries: [901,1077]
+index: 36, boundaries: [1035,1035]
+index: 36, boundaries: [901,1077]
+index: 37, boundaries: [973,1077]
+index: 38, boundaries: [1024,1024]
+index: 38, boundaries: [973,1064]
+index: 39, boundaries: [979,979]
+index: 39, boundaries: [973,1063]
+index: 40, boundaries: [1062,1062]
+acting solution changed: value: 1062, size: 255, quantity: 16
+index: 40, boundaries: [973,973]
+index: 37, boundaries: [901,1036]
+index: 35, boundaries: [899,1060]
+index: 34, boundaries: [824,1054]
+index: 27, boundaries: [863,1034]
+index: 24, boundaries: [855,1026]
+index: 23, boundaries: [644,1025]
+index: 22, boundaries: [536,1023]
+index: 21, boundaries: [554,1060]
+index: 10, boundaries: [495,1003]
+index: 9, boundaries: [547,1062]
+index: 7, boundaries: [433,1101]
+index: 8, boundaries: [402,1029]
+index: 8, boundaries: [433,1101]
+index: 9, boundaries: [431,1101]
+index: 10, boundaries: [431,1101]
+index: 11, boundaries: [518,1040]
+index: 11, boundaries: [431,1101]
+index: 12, boundaries: [554,1080]
+index: 13, boundaries: [536,1057]
+index: 13, boundaries: [554,1080]
+index: 14, boundaries: [464,910]
+index: 14, boundaries: [554,1080]
+index: 15, boundaries: [553,998]
+index: 15, boundaries: [554,1080]
+index: 16, boundaries: [614,1007]
+index: 16, boundaries: [554,1080]
+index: 17, boundaries: [530,971]
+index: 17, boundaries: [554,1080]
+index: 18, boundaries: [512,1036]
+index: 18, boundaries: [554,1080]
+index: 19, boundaries: [522,938]
+index: 19, boundaries: [554,1080]
+index: 20, boundaries: [576,1029]
+index: 20, boundaries: [554,1080]
+index: 21, boundaries: [536,1080]
+index: 22, boundaries: [644,1080]
+index: 23, boundaries: [756,1080]
+index: 24, boundaries: [863,1080]
+index: 25, boundaries: [946,973]
+index: 25, boundaries: [863,1080]
+index: 26, boundaries: [889,1049]
+index: 26, boundaries: [863,1080]
+index: 27, boundaries: [869,1080]
+index: 28, boundaries: [872,1025]
+index: 28, boundaries: [869,1080]
+index: 29, boundaries: [933,933]
+index: 29, boundaries: [869,1080]
+index: 30, boundaries: [980,1077]
+index: 31, boundaries: [1060,1060]
+index: 31, boundaries: [980,1055]
+index: 30, boundaries: [869,1079]
+index: 31, boundaries: [892,898]
+index: 31, boundaries: [869,1079]
+index: 32, boundaries: [946,946]
+index: 32, boundaries: [869,1079]
+index: 33, boundaries: [983,1023]
+index: 33, boundaries: [869,1079]
+index: 34, boundaries: [901,1079]
+index: 35, boundaries: [901,1079]
+index: 36, boundaries: [1035,1035]
+index: 36, boundaries: [901,1079]
+index: 37, boundaries: [973,1079]
+index: 38, boundaries: [1024,1024]
+index: 38, boundaries: [973,1064]
+index: 39, boundaries: [979,979]
+index: 39, boundaries: [973,1063]
+index: 40, boundaries: [1062,1062]
+index: 40, boundaries: [973,973]
+index: 37, boundaries: [901,1039]
+index: 35, boundaries: [899,1062]
+index: 34, boundaries: [869,1057]
+index: 27, boundaries: [863,1037]
+index: 24, boundaries: [756,1029]
+index: 23, boundaries: [644,1028]
+index: 22, boundaries: [536,1026]
+index: 21, boundaries: [554,1063]
+index: 22, boundaries: [568,1063]
+index: 23, boundaries: [622,1063]
+index: 24, boundaries: [726,1063]
+index: 25, boundaries: [745,978]
+index: 25, boundaries: [726,1063]
+index: 26, boundaries: [761,1034]
+index: 26, boundaries: [726,1063]
+index: 27, boundaries: [810,1063]
+index: 28, boundaries: [789,1011]
+index: 28, boundaries: [810,1063]
+index: 29, boundaries: [919,982]
+index: 29, boundaries: [810,1063]
+index: 30, boundaries: [846,1062]
+index: 30, boundaries: [810,1058]
+index: 27, boundaries: [726,1020]
+index: 24, boundaries: [622,1012]
+index: 23, boundaries: [568,1011]
+index: 22, boundaries: [554,1009]
+index: 12, boundaries: [431,1101]
+index: 13, boundaries: [564,1081]
+index: 14, boundaries: [535,897]
+index: 14, boundaries: [564,1081]
+index: 15, boundaries: [575,996]
+index: 15, boundaries: [564,1081]
+index: 16, boundaries: [552,1003]
+index: 16, boundaries: [564,1081]
+index: 17, boundaries: [601,959]
+index: 17, boundaries: [564,1081]
+index: 18, boundaries: [591,1036]
+index: 18, boundaries: [564,1081]
+index: 19, boundaries: [584,928]
+index: 19, boundaries: [564,1081]
+index: 20, boundaries: [586,1029]
+index: 20, boundaries: [564,1081]
+index: 21, boundaries: [577,1081]
+index: 22, boundaries: [714,1081]
+index: 23, boundaries: [787,1081]
+index: 24, boundaries: [801,1081]
+index: 25, boundaries: [923,944]
+index: 25, boundaries: [801,1081]
+index: 26, boundaries: [872,1050]
+index: 26, boundaries: [801,1081]
+index: 27, boundaries: [931,1081]
+index: 28, boundaries: [942,1027]
+index: 28, boundaries: [931,1081]
+index: 29, boundaries: [999,1079]
+index: 30, boundaries: [1079,1079]
+acting solution changed: value: 1079, size: 261, quantity: 16
+index: 30, boundaries: [999,1056]
+index: 29, boundaries: [931,1081]
+index: 30, boundaries: [848,848]
+index: 30, boundaries: [931,1081]
+index: 31, boundaries: [1002,1002]
+index: 31, boundaries: [931,1081]
+index: 32, boundaries: [920,1081]
+index: 33, boundaries: [920,1081]
+index: 34, boundaries: [1054,1054]
+index: 34, boundaries: [920,1081]
+index: 35, boundaries: [992,1081]
+index: 36, boundaries: [1043,1043]
+index: 36, boundaries: [992,1081]
+index: 37, boundaries: [992,992]
+index: 35, boundaries: [920,1040]
+index: 33, boundaries: [898,1064]
+index: 32, boundaries: [931,1058]
+index: 27, boundaries: [801,1037]
+index: 24, boundaries: [787,1029]
+index: 23, boundaries: [714,1029]
+index: 22, boundaries: [577,1027]
+index: 21, boundaries: [564,1064]
+index: 13, boundaries: [431,1101]
+index: 14, boundaries: [518,951]
+index: 14, boundaries: [431,1101]
+index: 15, boundaries: [485,1022]
+index: 15, boundaries: [431,1101]
+index: 16, boundaries: [536,1041]
+index: 16, boundaries: [431,1101]
+index: 17, boundaries: [584,1014]
+index: 17, boundaries: [431,1101]
+index: 18, boundaries: [540,1059]
+index: 18, boundaries: [431,1101]
+index: 19, boundaries: [444,974]
+index: 19, boundaries: [431,1101]
+index: 20, boundaries: [508,1053]
+index: 20, boundaries: [431,1101]
+index: 21, boundaries: [664,1101]
+index: 22, boundaries: [672,1101]
+index: 23, boundaries: [652,1101]
+index: 24, boundaries: [785,1101]
+index: 25, boundaries: [790,1017]
+index: 25, boundaries: [785,1101]
+index: 26, boundaries: [793,1073]
+index: 26, boundaries: [785,1101]
+index: 27, boundaries: [791,1101]
+index: 28, boundaries: [900,1050]
+index: 28, boundaries: [791,1101]
+index: 29, boundaries: [855,1020]
+index: 29, boundaries: [791,1101]
+index: 30, boundaries: [921,1101]
+index: 31, boundaries: [874,874]
+index: 31, boundaries: [921,1101]
+index: 32, boundaries: [992,992]
+index: 32, boundaries: [921,1101]
+index: 33, boundaries: [924,1101]
+index: 34, boundaries: [1018,1101]
+index: 35, boundaries: [1080,1080]
+acting solution changed: value: 1080, size: 261, quantity: 16
+index: 35, boundaries: [1018,1101]
+index: 36, boundaries: [1018,1072]
+index: 36, boundaries: [946,1061]
+index: 34, boundaries: [924,1085]
+index: 35, boundaries: [990,1053]
+index: 35, boundaries: [924,1085]
+index: 36, boundaries: [982,1085]
+index: 37, boundaries: [1042,1042]
+index: 37, boundaries: [982,1080]
+index: 36, boundaries: [924,1044]
+index: 33, boundaries: [921,1079]
+index: 30, boundaries: [791,1093]
+index: 31, boundaries: [814,955]
+index: 31, boundaries: [791,1093]
+index: 32, boundaries: [868,1030]
+index: 32, boundaries: [791,1093]
+index: 33, boundaries: [941,1061]
+index: 33, boundaries: [791,1093]
+index: 34, boundaries: [913,1093]
+index: 35, boundaries: [913,1093]
+index: 36, boundaries: [918,981]
+index: 36, boundaries: [913,1093]
+index: 37, boundaries: [901,1009]
+index: 37, boundaries: [913,1093]
+index: 38, boundaries: [921,1082]
+index: 39, boundaries: [993,1082]
+index: 40, boundaries: [1044,1044]
+index: 40, boundaries: [993,1082]
+index: 41, boundaries: [993,993]
+index: 39, boundaries: [921,1041]
+index: 38, boundaries: [913,1080]
+index: 35, boundaries: [904,1074]
+index: 34, boundaries: [791,1065]
+index: 27, boundaries: [785,1058]
+index: 24, boundaries: [652,1050]
+index: 23, boundaries: [672,1049]
+index: 22, boundaries: [664,1047]
+index: 21, boundaries: [431,1083]
+index: 22, boundaries: [535,1083]
+index: 23, boundaries: [686,1083]
+index: 24, boundaries: [736,1083]
+index: 25, boundaries: [770,1001]
+index: 25, boundaries: [736,1083]
+index: 26, boundaries: [779,1056]
+index: 26, boundaries: [736,1083]
+index: 27, boundaries: [742,1083]
+index: 28, boundaries: [846,1033]
+index: 28, boundaries: [742,1083]
+index: 29, boundaries: [808,1005]
+index: 29, boundaries: [742,1083]
+index: 30, boundaries: [903,1083]
+index: 31, boundaries: [890,935]
+index: 31, boundaries: [903,1083]
+index: 32, boundaries: [980,1002]
+index: 32, boundaries: [903,1083]
+index: 33, boundaries: [978,1043]
+index: 33, boundaries: [903,1083]
+index: 34, boundaries: [890,1083]
+index: 35, boundaries: [890,1083]
+index: 36, boundaries: [940,940]
+index: 36, boundaries: [890,1083]
+index: 37, boundaries: [923,986]
+index: 37, boundaries: [890,1083]
+index: 38, boundaries: [943,1061]
+index: 38, boundaries: [890,1083]
+index: 39, boundaries: [935,1083]
+index: 40, boundaries: [1004,1004]
+index: 40, boundaries: [935,1042]
+index: 39, boundaries: [890,1034]
+index: 35, boundaries: [845,1066]
+index: 34, boundaries: [903,1057]
+index: 30, boundaries: [742,1063]
+index: 27, boundaries: [736,1036]
+index: 24, boundaries: [686,1028]
+index: 23, boundaries: [535,1025]
+index: 22, boundaries: [431,1026]
+index: 10, boundaries: [359,1027]
+index: 9, boundaries: [433,1087]
+index: 10, boundaries: [433,1087]
+index: 11, boundaries: [520,1025]
+index: 11, boundaries: [433,1087]
+index: 12, boundaries: [547,1065]
+index: 12, boundaries: [433,1087]
+index: 13, boundaries: [566,1066]
+index: 13, boundaries: [433,1087]
+index: 14, boundaries: [415,936]
+index: 14, boundaries: [433,1087]
+index: 15, boundaries: [442,1007]
+index: 15, boundaries: [433,1087]
+index: 16, boundaries: [538,1027]
+index: 16, boundaries: [433,1087]
+index: 17, boundaries: [481,1000]
+index: 17, boundaries: [433,1087]
+index: 18, boundaries: [542,1044]
+index: 18, boundaries: [433,1087]
+index: 19, boundaries: [446,960]
+index: 19, boundaries: [433,1087]
+index: 20, boundaries: [501,1038]
+index: 20, boundaries: [433,1087]
+index: 21, boundaries: [522,1087]
+index: 22, boundaries: [629,1087]
+index: 23, boundaries: [654,1087]
+index: 24, boundaries: [697,1087]
+index: 25, boundaries: [738,1002]
+index: 25, boundaries: [697,1087]
+index: 26, boundaries: [822,1058]
+index: 26, boundaries: [697,1087]
+index: 27, boundaries: [793,1087]
+index: 28, boundaries: [805,1035]
+index: 28, boundaries: [793,1087]
+index: 29, boundaries: [857,1007]
+index: 29, boundaries: [793,1087]
+index: 30, boundaries: [907,1087]
+index: 31, boundaries: [849,876]
+index: 31, boundaries: [907,1087]
+index: 32, boundaries: [907,1087]
+index: 33, boundaries: [940,1016]
+index: 33, boundaries: [907,1087]
+index: 34, boundaries: [894,1087]
+index: 35, boundaries: [926,1087]
+index: 36, boundaries: [992,1055]
+index: 36, boundaries: [926,1087]
+index: 37, boundaries: [984,1087]
+index: 38, boundaries: [1044,1044]
+index: 38, boundaries: [984,1082]
+index: 39, boundaries: [1082,1082]
+index: 39, boundaries: [984,993]
+index: 37, boundaries: [926,1046]
+index: 35, boundaries: [894,1070]
+index: 34, boundaries: [907,1064]
+index: 30, boundaries: [793,1076]
+index: 27, boundaries: [697,1043]
+index: 24, boundaries: [654,1035]
+index: 23, boundaries: [629,1034]
+index: 22, boundaries: [522,1032]
+index: 21, boundaries: [433,1068]
+index: 10, boundaries: [361,1012]
+index: 5, boundaries: [392,1090]
+index: 6, boundaries: [285,927]
+index: 6, boundaries: [392,1090]
+index: 7, boundaries: [432,1067]
+index: 7, boundaries: [392,1090]
+index: 8, boundaries: [433,1019]
+index: 8, boundaries: [392,1090]
+index: 9, boundaries: [474,1090]
+index: 10, boundaries: [474,1090]
+index: 11, boundaries: [490,1029]
+index: 11, boundaries: [474,1090]
+index: 12, boundaries: [430,1069]
+index: 12, boundaries: [474,1090]
+index: 13, boundaries: [491,1070]
+index: 13, boundaries: [474,1090]
+index: 14, boundaries: [384,941]
+index: 14, boundaries: [474,1090]
+index: 15, boundaries: [496,1011]
+index: 15, boundaries: [474,1090]
+index: 16, boundaries: [473,1031]
+index: 16, boundaries: [474,1090]
+index: 17, boundaries: [450,1004]
+index: 17, boundaries: [474,1090]
+index: 18, boundaries: [467,1049]
+index: 18, boundaries: [474,1090]
+index: 19, boundaries: [419,965]
+index: 19, boundaries: [474,1090]
+index: 20, boundaries: [570,1042]
+index: 20, boundaries: [474,1090]
+index: 21, boundaries: [489,1090]
+index: 22, boundaries: [599,1090]
+index: 23, boundaries: [708,1090]
+index: 24, boundaries: [722,1090]
+index: 25, boundaries: [711,1007]
+index: 25, boundaries: [722,1090]
+index: 26, boundaries: [891,1062]
+index: 26, boundaries: [722,1090]
+index: 27, boundaries: [744,1090]
+index: 28, boundaries: [868,1039]
+index: 28, boundaries: [744,1090]
+index: 29, boundaries: [830,1011]
+index: 29, boundaries: [744,1090]
+index: 30, boundaries: [880,1090]
+index: 31, boundaries: [912,930]
+index: 31, boundaries: [880,1090]
+index: 32, boundaries: [912,995]
+index: 32, boundaries: [880,1090]
+index: 33, boundaries: [1003,1048]
+index: 33, boundaries: [880,1090]
+index: 34, boundaries: [867,1090]
+index: 35, boundaries: [919,1090]
+index: 36, boundaries: [962,962]
+index: 36, boundaries: [919,1090]
+index: 37, boundaries: [945,945]
+index: 37, boundaries: [919,1090]
+index: 38, boundaries: [965,1068]
+index: 38, boundaries: [919,1090]
+index: 39, boundaries: [957,1090]
+index: 40, boundaries: [1017,1017]
+index: 40, boundaries: [957,1060]
+index: 39, boundaries: [919,1049]
+index: 35, boundaries: [867,1073]
+index: 34, boundaries: [880,1067]
+index: 30, boundaries: [744,1073]
+index: 27, boundaries: [722,1046]
+index: 24, boundaries: [708,1038]
+index: 23, boundaries: [599,1035]
+index: 22, boundaries: [489,1035]
+index: 21, boundaries: [474,1065]
+index: 10, boundaries: [392,1015]
+index: 9, boundaries: [392,1075]
+index: 4, boundaries: [350,1114]
+index: 5, boundaries: [446,1114]
+index: 6, boundaries: [398,952]
+index: 6, boundaries: [446,1114]
+index: 7, boundaries: [477,1091]
+index: 8, boundaries: [518,1018]
+index: 8, boundaries: [477,1091]
+index: 9, boundaries: [475,1091]
+index: 10, boundaries: [475,1091]
+index: 11, boundaries: [490,1029]
+index: 11, boundaries: [475,1091]
+index: 12, boundaries: [553,1070]
+index: 12, boundaries: [475,1091]
+index: 13, boundaries: [491,1070]
+index: 13, boundaries: [475,1091]
+index: 14, boundaries: [580,939]
+index: 14, boundaries: [475,1091]
+index: 15, boundaries: [473,1011]
+index: 15, boundaries: [475,1091]
+index: 16, boundaries: [595,1030]
+index: 16, boundaries: [475,1091]
+index: 17, boundaries: [654,1001]
+index: 17, boundaries: [475,1091]
+index: 18, boundaries: [512,1049]
+index: 18, boundaries: [475,1091]
+index: 19, boundaries: [494,964]
+index: 19, boundaries: [475,1091]
+index: 20, boundaries: [471,1042]
+index: 20, boundaries: [475,1091]
+index: 21, boundaries: [585,1091]
+index: 22, boundaries: [599,1091]
+index: 23, boundaries: [653,1091]
+index: 24, boundaries: [739,1091]
+index: 25, boundaries: [834,1006]
+index: 25, boundaries: [739,1091]
+index: 26, boundaries: [792,1062]
+index: 26, boundaries: [739,1091]
+index: 27, boundaries: [841,1091]
+index: 28, boundaries: [820,1039]
+index: 28, boundaries: [841,1091]
+index: 29, boundaries: [863,1010]
+index: 29, boundaries: [841,1091]
+index: 30, boundaries: [877,1091]
+index: 31, boundaries: [877,1091]
+index: 32, boundaries: [990,1091]
+index: 33, boundaries: [954,1091]
+index: 34, boundaries: [1025,1025]
+index: 34, boundaries: [954,1091]
+index: 35, boundaries: [1077,1077]
+index: 35, boundaries: [954,1052]
+index: 33, boundaries: [990,1074]
+index: 32, boundaries: [877,1070]
+index: 30, boundaries: [841,1087]
+index: 31, boundaries: [873,943]
+index: 31, boundaries: [841,1087]
+index: 32, boundaries: [876,1021]
+index: 32, boundaries: [841,1087]
+index: 33, boundaries: [913,1051]
+index: 33, boundaries: [841,1087]
+index: 34, boundaries: [921,1087]
+index: 35, boundaries: [921,1087]
+index: 36, boundaries: [926,989]
+index: 36, boundaries: [921,1087]
+index: 37, boundaries: [909,972]
+index: 37, boundaries: [921,1087]
+index: 38, boundaries: [929,1071]
+index: 38, boundaries: [921,1082]
+index: 39, boundaries: [921,1082]
+index: 40, boundaries: [990,1080]
+index: 40, boundaries: [921,1043]
+index: 39, boundaries: [876,1027]
+index: 35, boundaries: [912,1068]
+index: 34, boundaries: [841,1059]
+index: 27, boundaries: [739,1048]
+index: 24, boundaries: [653,1040]
+index: 23, boundaries: [599,1039]
+index: 22, boundaries: [585,1038]
+index: 21, boundaries: [475,1073]
+index: 10, boundaries: [389,1017]
+index: 9, boundaries: [477,1077]
+index: 7, boundaries: [446,1114]
+index: 8, boundaries: [544,1044]
+index: 8, boundaries: [446,1114]
+index: 9, boundaries: [394,1114]
+index: 10, boundaries: [444,1114]
+index: 11, boundaries: [412,1054]
+index: 11, boundaries: [444,1114]
+index: 12, boundaries: [475,1094]
+index: 13, boundaries: [536,1073]
+index: 13, boundaries: [475,1094]
+index: 14, boundaries: [481,942]
+index: 14, boundaries: [475,1094]
+index: 15, boundaries: [473,1014]
+index: 15, boundaries: [475,1094]
+index: 16, boundaries: [508,1033]
+index: 16, boundaries: [475,1094]
+index: 17, boundaries: [646,1005]
+index: 17, boundaries: [475,1094]
+index: 18, boundaries: [512,1051]
+index: 18, boundaries: [475,1094]
+index: 19, boundaries: [539,966]
+index: 19, boundaries: [475,1094]
+index: 20, boundaries: [471,1045]
+index: 20, boundaries: [475,1094]
+index: 21, boundaries: [585,1094]
+index: 22, boundaries: [599,1094]
+index: 23, boundaries: [653,1094]
+index: 24, boundaries: [757,1094]
+index: 25, boundaries: [776,1009]
+index: 25, boundaries: [757,1094]
+index: 26, boundaries: [792,1065]
+index: 26, boundaries: [757,1094]
+index: 27, boundaries: [841,1094]
+index: 28, boundaries: [820,1042]
+index: 28, boundaries: [841,1094]
+index: 29, boundaries: [950,1013]
+index: 29, boundaries: [841,1094]
+index: 30, boundaries: [877,1093]
+index: 31, boundaries: [973,973]
+index: 31, boundaries: [877,1093]
+index: 32, boundaries: [990,1093]
+index: 33, boundaries: [954,1093]
+index: 34, boundaries: [1025,1025]
+index: 34, boundaries: [954,1093]
+index: 35, boundaries: [1077,1077]
+index: 35, boundaries: [954,1054]
+index: 33, boundaries: [990,1077]
+index: 32, boundaries: [877,1072]
+index: 30, boundaries: [841,1089]
+index: 31, boundaries: [786,946]
+index: 31, boundaries: [841,1089]
+index: 32, boundaries: [876,1023]
+index: 32, boundaries: [841,1089]
+index: 33, boundaries: [913,1054]
+index: 33, boundaries: [841,1089]
+index: 34, boundaries: [921,1089]
+index: 35, boundaries: [921,1089]
+index: 36, boundaries: [926,989]
+index: 36, boundaries: [921,1089]
+index: 37, boundaries: [909,972]
+index: 37, boundaries: [921,1089]
+index: 38, boundaries: [929,1074]
+index: 38, boundaries: [921,1083]
+index: 39, boundaries: [921,1083]
+index: 40, boundaries: [990,1080]
+index: 40, boundaries: [921,1044]
+index: 39, boundaries: [876,1028]
+index: 35, boundaries: [912,1070]
+index: 34, boundaries: [841,1061]
+index: 27, boundaries: [757,1051]
+index: 24, boundaries: [653,1043]
+index: 23, boundaries: [599,1042]
+index: 22, boundaries: [585,1040]
+index: 21, boundaries: [475,1076]
+index: 12, boundaries: [444,1114]
+index: 13, boundaries: [458,1095]
+index: 14, boundaries: [548,938]
+index: 14, boundaries: [458,1095]
+index: 15, boundaries: [532,1014]
+index: 15, boundaries: [458,1095]
+index: 16, boundaries: [569,1034]
+index: 16, boundaries: [458,1095]
+index: 17, boundaries: [614,1000]
+index: 17, boundaries: [458,1095]
+index: 18, boundaries: [511,1052]
+index: 18, boundaries: [458,1095]
+index: 19, boundaries: [561,964]
+index: 19, boundaries: [458,1095]
+index: 20, boundaries: [483,1045]
+index: 20, boundaries: [458,1095]
+index: 21, boundaries: [595,1095]
+index: 22, boundaries: [609,1095]
+index: 23, boundaries: [708,1095]
+index: 24, boundaries: [818,1095]
+index: 25, boundaries: [817,1009]
+index: 25, boundaries: [818,1095]
+index: 26, boundaries: [820,1065]
+index: 26, boundaries: [818,1095]
+index: 27, boundaries: [908,1095]
+index: 28, boundaries: [839,1042]
+index: 28, boundaries: [908,1095]
+index: 29, boundaries: [972,1008]
+index: 29, boundaries: [908,1095]
+index: 30, boundaries: [896,1094]
+index: 31, boundaries: [955,1091]
+index: 32, boundaries: [973,1091]
+index: 33, boundaries: [1036,1036]
+index: 33, boundaries: [973,1033]
+index: 32, boundaries: [955,1073]
+index: 31, boundaries: [896,1073]
+index: 30, boundaries: [908,1093]
+index: 31, boundaries: [805,947]
+index: 31, boundaries: [908,1093]
+index: 32, boundaries: [985,1016]
+index: 32, boundaries: [908,1093]
+index: 33, boundaries: [983,1053]
+index: 33, boundaries: [908,1093]
+index: 34, boundaries: [895,1093]
+index: 35, boundaries: [895,1093]
+index: 36, boundaries: [945,1008]
+index: 36, boundaries: [895,1093]
+index: 37, boundaries: [928,991]
+index: 37, boundaries: [895,1093]
+index: 38, boundaries: [948,1071]
+index: 38, boundaries: [895,1093]
+index: 39, boundaries: [940,1093]
+index: 40, boundaries: [1009,1009]
+index: 40, boundaries: [940,1048]
+index: 39, boundaries: [895,1041]
+index: 35, boundaries: [850,1075]
+index: 34, boundaries: [908,1066]
+index: 27, boundaries: [818,1052]
+index: 24, boundaries: [708,1044]
+index: 23, boundaries: [609,1043]
+index: 22, boundaries: [595,1041]
+index: 21, boundaries: [458,1077]
+index: 13, boundaries: [444,1114]
+index: 14, boundaries: [413,966]
+index: 14, boundaries: [444,1114]
+index: 15, boundaries: [457,1036]
+index: 15, boundaries: [444,1114]
+index: 16, boundaries: [491,1056]
+index: 16, boundaries: [444,1114]
+index: 17, boundaries: [481,1029]
+index: 17, boundaries: [444,1114]
+index: 18, boundaries: [434,1073]
+index: 18, boundaries: [444,1114]
+index: 19, boundaries: [435,990]
+index: 19, boundaries: [444,1114]
+index: 20, boundaries: [525,1067]
+index: 20, boundaries: [444,1114]
+index: 21, boundaries: [462,1114]
+index: 22, boundaries: [566,1114]
+index: 23, boundaries: [717,1114]
+index: 24, boundaries: [767,1114]
+index: 25, boundaries: [801,1032]
+index: 25, boundaries: [767,1114]
+index: 26, boundaries: [810,1087]
+index: 27, boundaries: [900,1087]
+index: 28, boundaries: [831,1034]
+index: 28, boundaries: [900,1087]
+index: 29, boundaries: [964,1000]
+index: 29, boundaries: [900,1087]
+index: 30, boundaries: [888,1086]
+index: 31, boundaries: [947,1083]
+index: 32, boundaries: [965,1083]
+index: 33, boundaries: [1028,1028]
+index: 33, boundaries: [965,1025]
+index: 32, boundaries: [947,1065]
+index: 31, boundaries: [888,1065]
+index: 30, boundaries: [900,1085]
+index: 31, boundaries: [797,939]
+index: 31, boundaries: [900,1085]
+index: 32, boundaries: [977,1008]
+index: 32, boundaries: [900,1085]
+index: 33, boundaries: [975,1045]
+index: 33, boundaries: [900,1085]
+index: 34, boundaries: [887,1085]
+index: 35, boundaries: [887,1085]
+index: 36, boundaries: [937,1000]
+index: 36, boundaries: [887,1085]
+index: 37, boundaries: [920,983]
+index: 37, boundaries: [887,1085]
+index: 38, boundaries: [940,1063]
+index: 38, boundaries: [887,1085]
+index: 39, boundaries: [932,1085]
+index: 40, boundaries: [1001,1001]
+index: 40, boundaries: [932,1040]
+index: 39, boundaries: [887,1033]
+index: 35, boundaries: [842,1067]
+index: 34, boundaries: [900,1058]
+index: 27, boundaries: [810,1044]
+index: 26, boundaries: [767,1114]
+index: 27, boundaries: [773,1114]
+index: 28, boundaries: [877,1064]
+index: 28, boundaries: [773,1114]
+index: 29, boundaries: [839,1036]
+index: 29, boundaries: [773,1114]
+index: 30, boundaries: [934,1114]
+index: 31, boundaries: [921,966]
+index: 31, boundaries: [934,1114]
+index: 32, boundaries: [1011,1033]
+index: 32, boundaries: [934,1114]
+index: 33, boundaries: [1009,1074]
+index: 33, boundaries: [934,1114]
+index: 34, boundaries: [921,1114]
+index: 35, boundaries: [921,1114]
+index: 36, boundaries: [971,971]
+index: 36, boundaries: [921,1114]
+index: 37, boundaries: [954,1017]
+index: 37, boundaries: [921,1114]
+index: 38, boundaries: [974,1092]
+index: 39, boundaries: [1037,1037]
+index: 39, boundaries: [974,1034]
+index: 38, boundaries: [921,1114]
+index: 39, boundaries: [966,1114]
+index: 40, boundaries: [1035,1035]
+index: 40, boundaries: [966,1073]
+index: 39, boundaries: [921,1065]
+index: 35, boundaries: [876,1097]
+index: 36, boundaries: [1007,1007]
+index: 36, boundaries: [876,1097]
+index: 37, boundaries: [990,990]
+index: 37, boundaries: [876,1097]
+index: 38, boundaries: [956,1070]
+index: 38, boundaries: [876,1097]
+index: 39, boundaries: [964,1097]
+index: 40, boundaries: [999,1097]
+index: 41, boundaries: [999,1008]
+index: 40, boundaries: [964,1048]
+index: 39, boundaries: [876,1041]
+index: 34, boundaries: [934,1088]
+index: 35, boundaries: [934,1088]
+index: 36, boundaries: [984,984]
+index: 36, boundaries: [934,1088]
+index: 37, boundaries: [967,967]
+index: 37, boundaries: [934,1088]
+index: 38, boundaries: [987,1074]
+index: 38, boundaries: [934,1080]
+index: 35, boundaries: [889,1069]
+index: 30, boundaries: [773,1094]
+index: 31, boundaries: [762,970]
+index: 31, boundaries: [773,1094]
+index: 32, boundaries: [850,1047]
+index: 32, boundaries: [773,1094]
+index: 33, boundaries: [844,1076]
+index: 33, boundaries: [773,1094]
+index: 34, boundaries: [870,1094]
+index: 35, boundaries: [834,1094]
+index: 36, boundaries: [938,1030]
+index: 36, boundaries: [834,1094]
+index: 37, boundaries: [863,1026]
+index: 37, boundaries: [834,1094]
+index: 38, boundaries: [896,1094]
+index: 39, boundaries: [941,1094]
+index: 40, boundaries: [1010,1010]
+index: 40, boundaries: [941,1049]
+index: 39, boundaries: [896,1042]
+index: 38, boundaries: [834,1056]
+index: 35, boundaries: [870,1074]
+index: 34, boundaries: [773,1059]
+index: 27, boundaries: [767,1067]
+index: 24, boundaries: [717,1059]
+index: 23, boundaries: [566,1056]
+index: 22, boundaries: [462,1057]
+index: 21, boundaries: [444,1086]
+index: 22, boundaries: [555,1086]
+index: 23, boundaries: [616,1086]
+index: 24, boundaries: [630,1086]
+index: 25, boundaries: [751,1015]
+index: 25, boundaries: [630,1086]
+index: 26, boundaries: [699,1069]
+index: 26, boundaries: [630,1086]
+index: 27, boundaries: [759,1086]
+index: 28, boundaries: [776,1046]
+index: 28, boundaries: [759,1086]
+index: 29, boundaries: [828,1020]
+index: 29, boundaries: [759,1086]
+index: 30, boundaries: [797,1086]
+index: 31, boundaries: [762,952]
+index: 31, boundaries: [797,1086]
+index: 32, boundaries: [874,1029]
+index: 32, boundaries: [797,1086]
+index: 33, boundaries: [875,1059]
+index: 33, boundaries: [797,1086]
+index: 34, boundaries: [907,1086]
+index: 35, boundaries: [907,1086]
+index: 36, boundaries: [957,1010]
+index: 36, boundaries: [907,1086]
+index: 37, boundaries: [889,1003]
+index: 37, boundaries: [907,1086]
+index: 38, boundaries: [925,1078]
+index: 38, boundaries: [907,1065]
+index: 35, boundaries: [862,1067]
+index: 34, boundaries: [797,1058]
+index: 30, boundaries: [759,1061]
+index: 27, boundaries: [630,1037]
+index: 24, boundaries: [616,1029]
+index: 23, boundaries: [555,1026]
+index: 22, boundaries: [444,1027]
+index: 10, boundaries: [394,1039]
+index: 9, boundaries: [446,1099]
+index: 10, boundaries: [446,1099]
+index: 11, boundaries: [414,1039]
+index: 11, boundaries: [446,1099]
+index: 12, boundaries: [477,1079]
+index: 12, boundaries: [446,1099]
+index: 13, boundaries: [460,1080]
+index: 13, boundaries: [446,1099]
+index: 14, boundaries: [415,952]
+index: 14, boundaries: [446,1099]
+index: 15, boundaries: [459,1021]
+index: 15, boundaries: [446,1099]
+index: 16, boundaries: [520,1042]
+index: 16, boundaries: [446,1099]
+index: 17, boundaries: [436,1015]
+index: 17, boundaries: [446,1099]
+index: 18, boundaries: [436,1059]
+index: 18, boundaries: [446,1099]
+index: 19, boundaries: [428,975]
+index: 19, boundaries: [446,1099]
+index: 20, boundaries: [422,1052]
+index: 20, boundaries: [446,1099]
+index: 21, boundaries: [464,1099]
+index: 22, boundaries: [550,1099]
+index: 23, boundaries: [662,1099]
+index: 24, boundaries: [769,1099]
+index: 25, boundaries: [803,1017]
+index: 25, boundaries: [769,1099]
+index: 26, boundaries: [716,1072]
+index: 26, boundaries: [769,1099]
+index: 27, boundaries: [775,1099]
+index: 28, boundaries: [834,1049]
+index: 28, boundaries: [775,1099]
+index: 29, boundaries: [839,1022]
+index: 29, boundaries: [775,1099]
+index: 30, boundaries: [891,1099]
+index: 31, boundaries: [866,953]
+index: 31, boundaries: [891,1099]
+index: 32, boundaries: [959,1026]
+index: 32, boundaries: [891,1099]
+index: 33, boundaries: [906,1059]
+index: 33, boundaries: [891,1099]
+index: 34, boundaries: [914,1099]
+index: 35, boundaries: [878,1099]
+index: 36, boundaries: [1009,1009]
+index: 36, boundaries: [878,1099]
+index: 37, boundaries: [992,992]
+index: 37, boundaries: [878,1099]
+index: 38, boundaries: [958,1072]
+index: 38, boundaries: [878,1099]
+index: 39, boundaries: [966,1099]
+index: 40, boundaries: [1001,1099]
+index: 41, boundaries: [1001,1010]
+index: 40, boundaries: [966,1050]
+index: 39, boundaries: [878,1043]
+index: 35, boundaries: [914,1080]
+index: 34, boundaries: [891,1071]
+index: 30, boundaries: [775,1077]
+index: 27, boundaries: [769,1050]
+index: 24, boundaries: [662,1042]
+index: 23, boundaries: [550,1039]
+index: 22, boundaries: [464,1040]
+index: 21, boundaries: [446,1069]
+index: 10, boundaries: [351,1024]
+index: 5, boundaries: [350,1096]
+index: 6, boundaries: [409,942]
+index: 6, boundaries: [350,1096]
+index: 7, boundaries: [452,1080]
+index: 7, boundaries: [350,1096]
+index: 8, boundaries: [377,1033]
+index: 8, boundaries: [350,1096]
+index: 9, boundaries: [464,1096]
+index: 10, boundaries: [464,1096]
+index: 11, boundaries: [387,1043]
+index: 11, boundaries: [464,1096]
+index: 12, boundaries: [450,1083]
+index: 13, boundaries: [547,1062]
+index: 13, boundaries: [450,1083]
+index: 14, boundaries: [414,933]
+index: 14, boundaries: [450,1083]
+index: 15, boundaries: [504,1004]
+index: 15, boundaries: [450,1083]
+index: 16, boundaries: [461,1023]
+index: 16, boundaries: [450,1083]
+index: 17, boundaries: [480,997]
+index: 17, boundaries: [450,1083]
+index: 18, boundaries: [523,1041]
+index: 18, boundaries: [450,1083]
+index: 19, boundaries: [463,957]
+index: 19, boundaries: [450,1083]
+index: 20, boundaries: [527,1035]
+index: 20, boundaries: [450,1083]
+index: 21, boundaries: [461,1083]
+index: 22, boundaries: [598,1083]
+index: 23, boundaries: [671,1083]
+index: 24, boundaries: [685,1083]
+index: 25, boundaries: [807,999]
+index: 25, boundaries: [685,1083]
+index: 26, boundaries: [812,1054]
+index: 26, boundaries: [685,1083]
+index: 27, boundaries: [810,1083]
+index: 28, boundaries: [795,1031]
+index: 28, boundaries: [810,1083]
+index: 29, boundaries: [874,1003]
+index: 29, boundaries: [810,1083]
+index: 30, boundaries: [852,1083]
+index: 31, boundaries: [830,906]
+index: 31, boundaries: [852,1083]
+index: 32, boundaries: [920,947]
+index: 32, boundaries: [852,1083]
+index: 33, boundaries: [1011,1029]
+index: 33, boundaries: [852,1083]
+index: 34, boundaries: [927,1083]
+index: 35, boundaries: [927,1083]
+index: 36, boundaries: [927,1083]
+index: 37, boundaries: [973,1036]
+index: 37, boundaries: [927,1083]
+index: 38, boundaries: [965,1083]
+index: 39, boundaries: [1025,1025]
+index: 39, boundaries: [965,1065]
+index: 38, boundaries: [927,1042]
+index: 35, boundaries: [875,1066]
+index: 34, boundaries: [852,1060]
+index: 30, boundaries: [810,1069]
+index: 27, boundaries: [685,1039]
+index: 24, boundaries: [671,1031]
+index: 23, boundaries: [598,1030]
+index: 22, boundaries: [461,1028]
+index: 21, boundaries: [450,1061]
+index: 12, boundaries: [464,1096]
+index: 13, boundaries: [411,1084]
+index: 14, boundaries: [415,934]
+index: 14, boundaries: [411,1084]
+index: 15, boundaries: [442,1005]
+index: 15, boundaries: [411,1084]
+index: 16, boundaries: [538,1024]
+index: 16, boundaries: [411,1084]
+index: 17, boundaries: [481,997]
+index: 17, boundaries: [411,1084]
+index: 18, boundaries: [542,1042]
+index: 18, boundaries: [411,1084]
+index: 19, boundaries: [446,957]
+index: 19, boundaries: [411,1084]
+index: 20, boundaries: [501,1036]
+index: 20, boundaries: [411,1084]
+index: 21, boundaries: [522,1084]
+index: 22, boundaries: [629,1084]
+index: 23, boundaries: [645,1084]
+index: 24, boundaries: [697,1084]
+index: 25, boundaries: [738,999]
+index: 25, boundaries: [697,1084]
+index: 26, boundaries: [822,1055]
+index: 26, boundaries: [697,1084]
+index: 27, boundaries: [775,1084]
+index: 28, boundaries: [805,1032]
+index: 28, boundaries: [775,1084]
+index: 29, boundaries: [857,1004]
+index: 29, boundaries: [775,1084]
+index: 30, boundaries: [907,1084]
+index: 31, boundaries: [849,876]
+index: 31, boundaries: [907,1084]
+index: 32, boundaries: [940,1009]
+index: 32, boundaries: [907,1084]
+index: 33, boundaries: [926,1084]
+index: 34, boundaries: [926,1084]
+index: 35, boundaries: [992,1055]
+index: 35, boundaries: [926,1084]
+index: 36, boundaries: [984,1084]
+index: 37, boundaries: [1044,1044]
+index: 37, boundaries: [984,1082]
+index: 38, boundaries: [1082,1082]
+index: 38, boundaries: [984,993]
+index: 36, boundaries: [926,1044]
+index: 34, boundaries: [894,1067]
+index: 33, boundaries: [907,1062]
+index: 30, boundaries: [775,1074]
+index: 27, boundaries: [697,1040]
+index: 24, boundaries: [645,1032]
+index: 23, boundaries: [629,1031]
+index: 22, boundaries: [522,1030]
+index: 21, boundaries: [411,1065]
+index: 13, boundaries: [464,1096]
+index: 14, boundaries: [433,956]
+index: 14, boundaries: [464,1096]
+index: 15, boundaries: [426,1026]
+index: 15, boundaries: [464,1096]
+index: 16, boundaries: [490,1046]
+index: 16, boundaries: [464,1096]
+index: 17, boundaries: [499,1019]
+index: 17, boundaries: [464,1096]
+index: 18, boundaries: [409,1063]
+index: 18, boundaries: [464,1096]
+index: 19, boundaries: [446,979]
+index: 19, boundaries: [464,1096]
+index: 20, boundaries: [391,1056]
+index: 20, boundaries: [464,1096]
+index: 21, boundaries: [505,1096]
+index: 22, boundaries: [519,1096]
+index: 23, boundaries: [602,1096]
+index: 24, boundaries: [739,1096]
+index: 25, boundaries: [728,1021]
+index: 25, boundaries: [739,1096]
+index: 26, boundaries: [689,1076]
+index: 26, boundaries: [739,1096]
+index: 27, boundaries: [793,1096]
+index: 28, boundaries: [744,1053]
+index: 28, boundaries: [793,1096]
+index: 29, boundaries: [805,1026]
+index: 29, boundaries: [793,1096]
+index: 30, boundaries: [801,1096]
+index: 31, boundaries: [806,958]
+index: 31, boundaries: [801,1096]
+index: 32, boundaries: [878,1034]
+index: 32, boundaries: [801,1096]
+index: 33, boundaries: [875,1065]
+index: 33, boundaries: [801,1096]
+index: 34, boundaries: [932,1096]
+index: 35, boundaries: [932,1096]
+index: 36, boundaries: [982,982]
+index: 36, boundaries: [932,1096]
+index: 37, boundaries: [962,1012]
+index: 37, boundaries: [932,1096]
+index: 38, boundaries: [927,1085]
+index: 39, boundaries: [985,1085]
+index: 40, boundaries: [1045,1045]
+index: 40, boundaries: [985,1083]
+index: 41, boundaries: [1083,1083]
+index: 41, boundaries: [985,994]
+index: 39, boundaries: [927,1045]
+index: 38, boundaries: [932,1082]
+index: 39, boundaries: [932,1082]
+index: 40, boundaries: [974,1076]
+index: 40, boundaries: [932,1043]
+index: 39, boundaries: [851,1027]
+index: 35, boundaries: [887,1077]
+index: 34, boundaries: [801,1068]
+index: 30, boundaries: [793,1072]
+index: 27, boundaries: [739,1047]
+index: 24, boundaries: [602,1039]
+index: 23, boundaries: [519,1036]
+index: 22, boundaries: [505,1037]
+index: 21, boundaries: [464,1066]
+index: 10, boundaries: [405,1021]
+index: 9, boundaries: [350,1079]
+index: 2, boundaries: [274,1066]
+index: 0, boundaries: [140,1089]
+index: 1, boundaries: [158,1014]
+index: 1, boundaries: [140,1089]
+index: 2, boundaries: [337,1089]
+index: 3, boundaries: [331,1054]
+index: 3, boundaries: [337,1089]
+index: 4, boundaries: [317,1088]
+index: 5, boundaries: [484,1088]
+index: 6, boundaries: [393,931]
+index: 6, boundaries: [484,1088]
+index: 7, boundaries: [355,1070]
+index: 7, boundaries: [484,1088]
+index: 8, boundaries: [448,1022]
+index: 8, boundaries: [484,1088]
+index: 9, boundaries: [484,1088]
+index: 10, boundaries: [484,1088]
+index: 11, boundaries: [362,1032]
+index: 11, boundaries: [484,1088]
+index: 12, boundaries: [421,1072]
+index: 12, boundaries: [484,1088]
+index: 13, boundaries: [480,1073]
+index: 13, boundaries: [484,1088]
+index: 14, boundaries: [408,945]
+index: 14, boundaries: [484,1088]
+index: 15, boundaries: [401,1015]
+index: 15, boundaries: [484,1088]
+index: 16, boundaries: [522,1035]
+index: 16, boundaries: [484,1088]
+index: 17, boundaries: [474,1009]
+index: 17, boundaries: [484,1088]
+index: 18, boundaries: [456,1052]
+index: 18, boundaries: [484,1088]
+index: 19, boundaries: [466,968]
+index: 19, boundaries: [484,1088]
+index: 20, boundaries: [424,1045]
+index: 20, boundaries: [484,1088]
+index: 21, boundaries: [480,1088]
+index: 22, boundaries: [494,1088]
+index: 23, boundaries: [577,1088]
+index: 24, boundaries: [813,1088]
+index: 25, boundaries: [760,1010]
+index: 25, boundaries: [813,1088]
+index: 26, boundaries: [718,1065]
+index: 26, boundaries: [813,1088]
+index: 27, boundaries: [813,1088]
+index: 28, boundaries: [824,1042]
+index: 28, boundaries: [813,1088]
+index: 29, boundaries: [780,1015]
+index: 29, boundaries: [813,1088]
+index: 30, boundaries: [881,1088]
+index: 31, boundaries: [781,946]
+index: 31, boundaries: [881,1088]
+index: 32, boundaries: [958,1023]
+index: 32, boundaries: [881,1088]
+index: 33, boundaries: [908,1054]
+index: 33, boundaries: [881,1088]
+index: 34, boundaries: [916,1088]
+index: 35, boundaries: [916,1088]
+index: 36, boundaries: [921,984]
+index: 36, boundaries: [916,1088]
+index: 37, boundaries: [904,967]
+index: 37, boundaries: [916,1088]
+index: 38, boundaries: [996,1074]
+index: 38, boundaries: [916,1080]
+index: 35, boundaries: [907,1069]
+index: 34, boundaries: [881,1060]
+index: 30, boundaries: [813,1065]
+index: 27, boundaries: [726,1039]
+index: 24, boundaries: [577,1031]
+index: 23, boundaries: [494,1028]
+index: 22, boundaries: [480,1029]
+index: 21, boundaries: [484,1058]
+index: 10, boundaries: [389,1013]
+index: 9, boundaries: [441,1071]
+index: 5, boundaries: [317,1068]
+index: 4, boundaries: [337,1089]
+index: 5, boundaries: [312,1089]
+index: 6, boundaries: [314,945]
+index: 6, boundaries: [312,1089]
+index: 7, boundaries: [440,1082]
+index: 8, boundaries: [451,1012]
+index: 8, boundaries: [440,1082]
+index: 9, boundaries: [411,1082]
+index: 10, boundaries: [411,1082]
+index: 11, boundaries: [406,1022]
+index: 11, boundaries: [411,1082]
+index: 12, boundaries: [469,1062]
+index: 12, boundaries: [411,1082]
+index: 13, boundaries: [452,1063]
+index: 13, boundaries: [411,1082]
+index: 14, boundaries: [380,935]
+index: 14, boundaries: [411,1082]
+index: 15, boundaries: [460,1004]
+index: 15, boundaries: [411,1082]
+index: 16, boundaries: [485,1025]
+index: 16, boundaries: [411,1082]
+index: 17, boundaries: [437,998]
+index: 17, boundaries: [411,1082]
+index: 18, boundaries: [428,1042]
+index: 18, boundaries: [411,1082]
+index: 19, boundaries: [393,958]
+index: 19, boundaries: [411,1082]
+index: 20, boundaries: [396,1035]
+index: 20, boundaries: [411,1082]
+index: 21, boundaries: [452,1082]
+index: 22, boundaries: [524,1082]
+index: 23, boundaries: [627,1082]
+index: 24, boundaries: [734,1082]
+index: 25, boundaries: [768,1000]
+index: 25, boundaries: [734,1082]
+index: 26, boundaries: [708,1055]
+index: 26, boundaries: [734,1082]
+index: 27, boundaries: [740,1082]
+index: 28, boundaries: [835,1032]
+index: 28, boundaries: [740,1082]
+index: 29, boundaries: [797,1005]
+index: 29, boundaries: [740,1082]
+index: 30, boundaries: [892,1082]
+index: 31, boundaries: [789,936]
+index: 31, boundaries: [892,1082]
+index: 32, boundaries: [969,1009]
+index: 32, boundaries: [892,1082]
+index: 33, boundaries: [880,1042]
+index: 33, boundaries: [892,1082]
+index: 34, boundaries: [915,1082]
+index: 35, boundaries: [879,1082]
+index: 36, boundaries: [929,992]
+index: 36, boundaries: [879,1082]
+index: 37, boundaries: [912,975]
+index: 37, boundaries: [879,1082]
+index: 38, boundaries: [932,1055]
+index: 38, boundaries: [879,1082]
+index: 39, boundaries: [924,1082]
+index: 40, boundaries: [993,1082]
+index: 41, boundaries: [993,993]
+index: 40, boundaries: [924,1033]
+index: 39, boundaries: [879,1026]
+index: 35, boundaries: [915,1063]
+index: 34, boundaries: [892,1054]
+index: 30, boundaries: [740,1060]
+index: 27, boundaries: [734,1033]
+index: 24, boundaries: [627,1025]
+index: 23, boundaries: [524,1022]
+index: 22, boundaries: [452,1023]
+index: 21, boundaries: [411,1052]
+index: 10, boundaries: [352,1007]
+index: 9, boundaries: [440,1065]
+index: 7, boundaries: [312,1089]
+index: 8, boundaries: [368,1037]
+index: 8, boundaries: [312,1089]
+index: 9, boundaries: [378,1089]
+index: 10, boundaries: [378,1089]
+index: 11, boundaries: [375,1045]
+index: 11, boundaries: [378,1089]
+index: 12, boundaries: [411,1084]
+index: 13, boundaries: [452,1066]
+index: 13, boundaries: [411,1084]
+index: 14, boundaries: [380,937]
+index: 14, boundaries: [411,1084]
+index: 15, boundaries: [460,1007]
+index: 15, boundaries: [411,1084]
+index: 16, boundaries: [530,1027]
+index: 16, boundaries: [411,1084]
+index: 17, boundaries: [446,1001]
+index: 17, boundaries: [411,1084]
+index: 18, boundaries: [428,1044]
+index: 18, boundaries: [411,1084]
+index: 19, boundaries: [429,961]
+index: 19, boundaries: [411,1084]
+index: 20, boundaries: [396,1038]
+index: 20, boundaries: [411,1084]
+index: 21, boundaries: [452,1084]
+index: 22, boundaries: [560,1084]
+index: 23, boundaries: [627,1084]
+index: 24, boundaries: [734,1084]
+index: 25, boundaries: [768,1003]
+index: 25, boundaries: [734,1084]
+index: 26, boundaries: [708,1058]
+index: 26, boundaries: [734,1084]
+index: 27, boundaries: [740,1084]
+index: 28, boundaries: [787,1035]
+index: 28, boundaries: [740,1084]
+index: 29, boundaries: [833,1008]
+index: 29, boundaries: [740,1084]
+index: 30, boundaries: [892,1084]
+index: 31, boundaries: [876,939]
+index: 31, boundaries: [892,1084]
+index: 32, boundaries: [969,1014]
+index: 32, boundaries: [892,1084]
+index: 33, boundaries: [880,1045]
+index: 33, boundaries: [892,1084]
+index: 34, boundaries: [915,1084]
+index: 35, boundaries: [879,1084]
+index: 36, boundaries: [929,992]
+index: 36, boundaries: [879,1084]
+index: 37, boundaries: [912,975]
+index: 37, boundaries: [879,1084]
+index: 38, boundaries: [932,1055]
+index: 38, boundaries: [879,1082]
+index: 39, boundaries: [924,1082]
+index: 40, boundaries: [993,1082]
+index: 41, boundaries: [1082,1082]
+acting solution changed: value: 1082, size: 260, quantity: 16
+index: 41, boundaries: [993,993]
+index: 40, boundaries: [924,1034]
+index: 39, boundaries: [879,1027]
+index: 35, boundaries: [915,1065]
+index: 34, boundaries: [892,1056]
+index: 30, boundaries: [740,1062]
+index: 27, boundaries: [734,1035]
+index: 24, boundaries: [627,1027]
+index: 23, boundaries: [560,1024]
+index: 22, boundaries: [452,1025]
+index: 21, boundaries: [411,1054]
+index: 12, boundaries: [378,1089]
+index: 13, boundaries: [421,1086]
+index: 14, boundaries: [392,938]
+index: 14, boundaries: [421,1086]
+index: 15, boundaries: [434,1008]
+index: 15, boundaries: [421,1086]
+index: 16, boundaries: [468,1028]
+index: 16, boundaries: [421,1086]
+index: 17, boundaries: [458,1001]
+index: 17, boundaries: [421,1086]
+index: 18, boundaries: [498,1045]
+index: 18, boundaries: [421,1086]
+index: 19, boundaries: [403,961]
+index: 19, boundaries: [421,1086]
+index: 20, boundaries: [457,1039]
+index: 20, boundaries: [421,1086]
+index: 21, boundaries: [511,1086]
+index: 22, boundaries: [525,1086]
+index: 23, boundaries: [694,1086]
+index: 24, boundaries: [744,1086]
+index: 25, boundaries: [742,1004]
+index: 25, boundaries: [744,1086]
+index: 26, boundaries: [778,1058]
+index: 26, boundaries: [744,1086]
+index: 27, boundaries: [750,1086]
+index: 28, boundaries: [854,1035]
+index: 28, boundaries: [750,1086]
+index: 29, boundaries: [814,1008]
+index: 29, boundaries: [750,1086]
+index: 30, boundaries: [911,1086]
+index: 31, boundaries: [898,934]
+index: 31, boundaries: [911,1086]
+index: 32, boundaries: [988,1001]
+index: 32, boundaries: [911,1086]
+index: 33, boundaries: [899,1046]
+index: 33, boundaries: [911,1086]
+index: 34, boundaries: [898,1086]
+index: 35, boundaries: [898,1086]
+index: 36, boundaries: [948,948]
+index: 36, boundaries: [898,1086]
+index: 37, boundaries: [931,994]
+index: 37, boundaries: [898,1086]
+index: 38, boundaries: [951,1064]
+index: 38, boundaries: [898,1086]
+index: 39, boundaries: [943,1086]
+index: 40, boundaries: [1003,1003]
+index: 40, boundaries: [943,1049]
+index: 39, boundaries: [898,1040]
+index: 35, boundaries: [853,1069]
+index: 34, boundaries: [911,1061]
+index: 30, boundaries: [750,1067]
+index: 27, boundaries: [744,1040]
+index: 24, boundaries: [694,1032]
+index: 23, boundaries: [525,1029]
+index: 22, boundaries: [511,1030]
+index: 21, boundaries: [421,1059]
+index: 13, boundaries: [378,1089]
+index: 14, boundaries: [329,959]
+index: 14, boundaries: [378,1089]
+index: 15, boundaries: [417,1028]
+index: 15, boundaries: [378,1089]
+index: 16, boundaries: [452,1049]
+index: 16, boundaries: [378,1089]
+index: 17, boundaries: [395,1023]
+index: 17, boundaries: [378,1089]
+index: 18, boundaries: [397,1064]
+index: 18, boundaries: [378,1089]
+index: 19, boundaries: [360,983]
+index: 19, boundaries: [378,1089]
+index: 20, boundaries: [440,1058]
+index: 20, boundaries: [378,1089]
+index: 21, boundaries: [515,1089]
+index: 22, boundaries: [529,1089]
+index: 23, boundaries: [597,1089]
+index: 24, boundaries: [611,1089]
+index: 25, boundaries: [717,1024]
+index: 25, boundaries: [611,1089]
+index: 26, boundaries: [736,1078]
+index: 26, boundaries: [611,1089]
+index: 27, boundaries: [689,1089]
+index: 28, boundaries: [719,1055]
+index: 28, boundaries: [689,1089]
+index: 29, boundaries: [797,1029]
+index: 29, boundaries: [689,1089]
+index: 30, boundaries: [778,1089]
+index: 31, boundaries: [765,962]
+index: 31, boundaries: [778,1089]
+index: 32, boundaries: [855,1039]
+index: 32, boundaries: [778,1089]
+index: 33, boundaries: [892,1069]
+index: 33, boundaries: [778,1089]
+index: 34, boundaries: [837,1089]
+index: 35, boundaries: [837,1089]
+index: 36, boundaries: [887,1023]
+index: 36, boundaries: [837,1089]
+index: 37, boundaries: [866,1019]
+index: 37, boundaries: [837,1089]
+index: 38, boundaries: [899,1087]
+index: 39, boundaries: [944,1087]
+index: 40, boundaries: [1004,1004]
+index: 40, boundaries: [944,1050]
+index: 39, boundaries: [899,1041]
+index: 38, boundaries: [837,1056]
+index: 35, boundaries: [801,1070]
+index: 34, boundaries: [778,1057]
+index: 30, boundaries: [689,1063]
+index: 27, boundaries: [611,1040]
+index: 24, boundaries: [597,1032]
+index: 23, boundaries: [529,1028]
+index: 22, boundaries: [515,1030]
+index: 21, boundaries: [378,1057]
+index: 10, boundaries: [310,1014]
+index: 9, boundaries: [312,1072]
+index: 5, boundaries: [337,1070]
+index: 2, boundaries: [140,1040]
+running time: 00:00:00.2440250
+
+------------BnB Summary------------
+fractional = 1114
+solution = value: 1082, size: 260, quantity: 16
+
+###################################
+Items that were chosen:
+ID = 2	Size = 24 	Value = 98 	
+ID = 5	Size = 16 	Value = 52 	
+ID = 9	Size = 4 	Value = 25 	
+ID = 10	Size = 1 	Value = 77 	
+ID = 12	Size = 28 	Value = 51 	
+ID = 21	Size = 22 	Value = 74 	
+ID = 22	Size = 9 	Value = 77 	
+ID = 23	Size = 14 	Value = 88 	
+ID = 24	Size = 10 	Value = 77 	
+ID = 27	Size = 10 	Value = 69 	
+ID = 30	Size = 37 	Value = 96 	
+ID = 34	Size = 11 	Value = 50 	
+ID = 35	Size = 4 	Value = 27 	
+ID = 39	Size = 9 	Value = 63 	
+ID = 40	Size = 24 	Value = 60 	
+ID = 42	Size = 37 	Value = 98 	
+**************************************
+Items that were NOT chosen:
+ID = 0	Size = 33 	Value = 93 	
+ID = 38	Size = 35 	Value = 71 	
+ID = 13	Size = 35 	Value = 70 	
+ID = 4	Size = 22 	Value = 43 	
+ID = 33	Size = 52 	Value = 96 	
+ID = 26	Size = 35 	Value = 62 	
+ID = 7	Size = 29 	Value = 51 	
+ID = 16	Size = 59 	Value = 94 	
+ID = 32	Size = 63 	Value = 95 	
+ID = 3	Size = 48 	Value = 71 	
+ID = 18	Size = 34 	Value = 46 	
+ID = 17	Size = 68 	Value = 91 	
+ID = 29	Size = 62 	Value = 82 	
+ID = 20	Size = 38 	Value = 50 	
+ID = 8	Size = 53 	Value = 66 	
+ID = 36	Size = 59 	Value = 68 	
+ID = 28	Size = 35 	Value = 39 	
+ID = 25	Size = 55 	Value = 59 	
+ID = 37	Size = 54 	Value = 51 	
+ID = 47	Size = 64 	Value = 56 	
+ID = 11	Size = 33 	Value = 24 	
+ID = 15	Size = 41 	Value = 27 	
+ID = 19	Size = 63 	Value = 38 	
+ID = 1	Size = 45 	Value = 23 	
+ID = 48	Size = 52 	Value = 25 	
+ID = 44	Size = 60 	Value = 25 	
+ID = 14	Size = 67 	Value = 25 	
+ID = 41	Size = 42 	Value = 15 	
+ID = 43	Size = 58 	Value = 20 	
+ID = 49	Size = 64 	Value = 18 	
+ID = 45	Size = 32 	Value = 9 	
+ID = 6	Size = 66 	Value = 8 	
+ID = 46	Size = 45 	Value = 5 	
+ID = 31	Size = 58 	Value = 5 	
+
+@@@@@@@ Now using Genetic
+@@@@@@@ try #3:
+
+-----------
+Generation #0:
+max solution = value: 567, size: 229, quantity: 8
+Average Fitness = 316.54
+min solution = value: 55, size: 228, quantity: 4
+Standard daviation: 10.1222033627028
+-----------
+
+
+-----------
+Generation #1:
+max solution = value: 564, size: 220, quantity: 8
+Average Fitness = 348.16
+min solution = value: 161, size: 176, quantity: 4
+Standard daviation: 9.93581766310467
+-----------
+
+
+-----------
+Generation #2:
+max solution = value: 564, size: 220, quantity: 8
+Average Fitness = 344.75
+min solution = value: 156, size: 222, quantity: 4
+Standard daviation: 9.83793800541715
+-----------
+
+
+-----------
+Generation #3:
+max solution = value: 559, size: 224, quantity: 10
+Average Fitness = 352.15
+min solution = value: 173, size: 223, quantity: 4
+Standard daviation: 9.52051413670363
+-----------
+
+
+-----------
+**Alpha has changed**
+Generation #4:
+max solution = value: 580, size: 226, quantity: 8
+Average Fitness = 373.74
+min solution = value: 168, size: 200, quantity: 4
+Standard daviation: 9.65753080795604
+-----------
+
+
+-----------
+**Alpha has changed**
+Generation #5:
+max solution = value: 600, size: 261, quantity: 10
+Average Fitness = 381.6
+min solution = value: 103, size: 217, quantity: 4
+Standard daviation: 9.7728897150813
+-----------
+
+
+-----------
+Generation #6:
+max solution = value: 600, size: 261, quantity: 10
+Average Fitness = 388.6
+min solution = value: 44, size: 195, quantity: 4
+Standard daviation: 10.322546219197
+-----------
+
+
+-----------
+**Alpha has changed**
+Generation #7:
+max solution = value: 638, size: 247, quantity: 12
+Average Fitness = 373.37
+min solution = value: 44, size: 195, quantity: 4
+Standard daviation: 10.3974383302112
+-----------
+
+
+-----------
+**Alpha has changed**
+Generation #8:
+max solution = value: 669, size: 234, quantity: 10
+Average Fitness = 382.24
+min solution = value: 135, size: 159, quantity: 4
+Standard daviation: 10.2878285924665
+-----------
+
+
+-----------
+Generation #9:
+max solution = value: 669, size: 234, quantity: 10
+Average Fitness = 402.37
+min solution = value: 165, size: 194, quantity: 4
+Standard daviation: 9.99730019473329
+-----------
+
+
+-----------
+Generation #10:
+max solution = value: 651, size: 237, quantity: 10
+Average Fitness = 404.92
+min solution = value: 126, size: 223, quantity: 4
+Standard daviation: 10.2400866601159
+-----------
+
+
+-----------
+Generation #11:
+max solution = value: 662, size: 257, quantity: 10
+Average Fitness = 404.82
+min solution = value: 131, size: 162, quantity: 4
+Standard daviation: 10.9686597349791
+-----------
+
+
+-----------
+**Alpha has changed**
+Generation #12:
+max solution = value: 704, size: 257, quantity: 10
+Average Fitness = 400.28
+min solution = value: 136, size: 139, quantity: 4
+Standard daviation: 10.895520849484
+-----------
+
+
+-----------
+Generation #13:
+max solution = value: 674, size: 189, quantity: 8
+Average Fitness = 408.51
+min solution = value: 179, size: 208, quantity: 4
+Standard daviation: 10.6076009753249
+-----------
+
+
+-----------
+**Alpha has changed**
+Generation #14:
+max solution = value: 742, size: 257, quantity: 12
+Average Fitness = 416.88
+min solution = value: 106, size: 191, quantity: 4
+Standard daviation: 11.4810752693399
+-----------
+
+
+-----------
+Generation #15:
+max solution = value: 586, size: 240, quantity: 8
+Average Fitness = 402.44
+min solution = value: 96, size: 200, quantity: 4
+Standard daviation: 10.8634003011828
+-----------
+
+
+-----------
+**Alpha has changed**
+Generation #16:
+max solution = value: 748, size: 235, quantity: 10
+Average Fitness = 422.35
+min solution = value: 134, size: 176, quantity: 4
+Standard daviation: 10.5298743932664
+-----------
+
+
+-----------
+Generation #17:
+max solution = value: 707, size: 259, quantity: 10
+Average Fitness = 399.57
+min solution = value: 116, size: 223, quantity: 4
+Standard daviation: 10.4636071043386
+-----------
+
+
+-----------
+Generation #18:
+max solution = value: 648, size: 227, quantity: 8
+Average Fitness = 405.87
+min solution = value: 83, size: 212, quantity: 4
+Standard daviation: 10.6463430855686
+-----------
+
+
+-----------
+Generation #19:
+max solution = value: 634, size: 257, quantity: 10
+Average Fitness = 398.1
+min solution = value: 116, size: 223, quantity: 4
+Standard daviation: 10.2968447275412
+-----------
+
+
+-----------
+Generation #20:
+max solution = value: 655, size: 240, quantity: 8
+Average Fitness = 405.71
+min solution = value: 103, size: 181, quantity: 4
+Standard daviation: 10.3588459565435
+-----------
+
+
+-----------
+Generation #21:
+max solution = value: 673, size: 225, quantity: 10
+Average Fitness = 413.18
+min solution = value: 160, size: 217, quantity: 4
+Standard daviation: 10.155778474786
+-----------
+
+
+-----------
+Generation #22:
+max solution = value: 669, size: 261, quantity: 10
+Average Fitness = 397.63
+min solution = value: 162, size: 195, quantity: 4
+Standard daviation: 10.2332548867857
+-----------
+
+
+-----------
+Generation #23:
+max solution = value: 669, size: 261, quantity: 10
+Average Fitness = 411.48
+min solution = value: 220, size: 160, quantity: 4
+Standard daviation: 10.4082716788388
+-----------
+
+
+-----------
+Generation #24:
+max solution = value: 669, size: 261, quantity: 10
+Average Fitness = 420.09
+min solution = value: 200, size: 151, quantity: 4
+Standard daviation: 10.6007420089865
+-----------
+
+
+-----------
+Generation #25:
+max solution = value: 649, size: 234, quantity: 10
+Average Fitness = 420.68
+min solution = value: 126, size: 188, quantity: 4
+Standard daviation: 10.1417885232859
+-----------
+
+
+-----------
+Generation #26:
+max solution = value: 670, size: 235, quantity: 10
+Average Fitness = 427.83
+min solution = value: 191, size: 194, quantity: 4
+Standard daviation: 10.3771162932347
+-----------
+
+
+-----------
+Generation #27:
+max solution = value: 638, size: 229, quantity: 8
+Average Fitness = 433.58
+min solution = value: 134, size: 202, quantity: 4
+Standard daviation: 10.8428483944927
+-----------
+
+
+-----------
+**Alpha has changed**
+Generation #28:
+max solution = value: 762, size: 220, quantity: 10
+Average Fitness = 442.76
+min solution = value: 155, size: 187, quantity: 4
+Standard daviation: 11.0138073565263
+-----------
+
+
+-----------
+Generation #29:
+max solution = value: 762, size: 220, quantity: 10
+Average Fitness = 455.5
+min solution = value: 215, size: 197, quantity: 4
+Standard daviation: 10.8064429756791
+-----------
+
+
+-----------
+**Alpha has changed**
+Generation #30:
+max solution = value: 775, size: 191, quantity: 10
+Average Fitness = 435.72
+min solution = value: 97, size: 195, quantity: 4
+Standard daviation: 10.880805381111
+-----------
+
+
+-----------
+Generation #31:
+max solution = value: 716, size: 257, quantity: 10
+Average Fitness = 413.83
+min solution = value: 158, size: 216, quantity: 4
+Standard daviation: 10.6493025791864
+-----------
+
+
+-----------
+Generation #32:
+max solution = value: 680, size: 247, quantity: 10
+Average Fitness = 444.23
+min solution = value: 199, size: 223, quantity: 6
+Standard daviation: 10.8205042736417
+-----------
+
+
+-----------
+**Alpha has changed**
+Generation #33:
+max solution = value: 804, size: 260, quantity: 12
+Average Fitness = 432.11
+min solution = value: 199, size: 223, quantity: 6
+Standard daviation: 10.5827363459321
+-----------
+
+
+-----------
+Generation #34:
+max solution = value: 660, size: 223, quantity: 10
+Average Fitness = 424.06
+min solution = value: 149, size: 184, quantity: 4
+Standard daviation: 10.6968892704954
+-----------
+
+
+-----------
+Generation #35:
+max solution = value: 714, size: 244, quantity: 10
+Average Fitness = 458.35
+min solution = value: 209, size: 240, quantity: 6
+Standard daviation: 10.9488735187805
+-----------
+
+
+-----------
+Generation #36:
+max solution = value: 741, size: 233, quantity: 10
+Average Fitness = 471.9
+min solution = value: 188, size: 197, quantity: 4
+Standard daviation: 10.8811167411866
+-----------
+
+
+-----------
+Generation #37:
+max solution = value: 741, size: 233, quantity: 10
+Average Fitness = 467.09
+min solution = value: 151, size: 236, quantity: 4
+Standard daviation: 11.1481411562015
+-----------
+
+
+-----------
+**Alpha has changed**
+Generation #38:
+max solution = value: 816, size: 239, quantity: 12
+Average Fitness = 484.79
+min solution = value: 184, size: 205, quantity: 4
+Standard daviation: 10.7448741447898
+-----------
+
+
+-----------
+Generation #39:
+max solution = value: 644, size: 231, quantity: 10
+Average Fitness = 475.15
+min solution = value: 104, size: 230, quantity: 4
+Standard daviation: 9.5181487790297
+-----------
+
+
+-----------
+Generation #40:
+max solution = value: 683, size: 260, quantity: 10
+Average Fitness = 454.64
+min solution = value: 104, size: 230, quantity: 4
+Standard daviation: 10.6139804946414
+-----------
+
+
+-----------
+Generation #41:
+max solution = value: 742, size: 231, quantity: 12
+Average Fitness = 447.26
+min solution = value: 144, size: 200, quantity: 4
+Standard daviation: 10.3595243638951
+-----------
+
+
+-----------
+Generation #42:
+max solution = value: 713, size: 210, quantity: 10
+Average Fitness = 440.83
+min solution = value: 182, size: 196, quantity: 4
+Standard daviation: 10.3442198552196
+-----------
+
+
+-----------
+Generation #43:
+max solution = value: 734, size: 231, quantity: 12
+Average Fitness = 429.42
+min solution = value: 112, size: 242, quantity: 4
+Standard daviation: 11.5549723756849
+-----------
+
+
+-----------
+Generation #44:
+max solution = value: 721, size: 234, quantity: 10
+Average Fitness = 438.68
+min solution = value: 143, size: 224, quantity: 4
+Standard daviation: 11.502293269358
+-----------
+
+
+-----------
+Generation #45:
+max solution = value: 784, size: 243, quantity: 10
+Average Fitness = 465.19
+min solution = value: 149, size: 185, quantity: 4
+Standard daviation: 11.2714745142802
+-----------
+
+
+-----------
+Generation #46:
+max solution = value: 784, size: 243, quantity: 10
+Average Fitness = 464.19
+min solution = value: 131, size: 188, quantity: 4
+Standard daviation: 11.7298131526314
+-----------
+
+
+-----------
+Generation #47:
+max solution = value: 784, size: 243, quantity: 10
+Average Fitness = 480.4
+min solution = value: 180, size: 200, quantity: 4
+Standard daviation: 11.4248473244408
+-----------
+
+
+-----------
+**Alpha has changed**
+Generation #48:
+max solution = value: 831, size: 237, quantity: 12
+Average Fitness = 480.09
+min solution = value: 161, size: 205, quantity: 4
+Standard daviation: 11.9422432808426
+-----------
+
+
+-----------
+Generation #49:
+max solution = value: 788, size: 245, quantity: 12
+Average Fitness = 476.52
+min solution = value: 183, size: 201, quantity: 4
+Standard daviation: 11.3808247565814
+-----------
+
+
+-----------
+Generation #50:
+max solution = value: 817, size: 258, quantity: 10
+Average Fitness = 491.82
+min solution = value: 243, size: 225, quantity: 6
+Standard daviation: 11.2729720354903
+-----------
+
+
+-----------
+**Alpha has changed**
+Generation #51:
+max solution = value: 835, size: 245, quantity: 12
+Average Fitness = 504.41
+min solution = value: 132, size: 235, quantity: 4
+Standard daviation: 11.878558729603
+-----------
+
+
+-----------
+Generation #52:
+max solution = value: 817, size: 258, quantity: 10
+Average Fitness = 508.99
+min solution = value: 132, size: 235, quantity: 4
+Standard daviation: 12.1590949592771
+-----------
+
+
+-----------
+Generation #53:
+max solution = value: 817, size: 258, quantity: 10
+Average Fitness = 502.27
+min solution = value: 201, size: 185, quantity: 4
+Standard daviation: 11.6576307110423
+-----------
+
+
+-----------
+Generation #54:
+max solution = value: 817, size: 259, quantity: 10
+Average Fitness = 500.3
+min solution = value: 110, size: 172, quantity: 4
+Standard daviation: 11.5848502332467
+-----------
+
+
+-----------
+Generation #55:
+max solution = value: 795, size: 257, quantity: 10
+Average Fitness = 492.09
+min solution = value: 118, size: 195, quantity: 4
+Standard daviation: 11.4828062867012
+-----------
+
+
+-----------
+Generation #56:
+max solution = value: 795, size: 257, quantity: 10
+Average Fitness = 508.71
+min solution = value: 186, size: 207, quantity: 4
+Standard daviation: 10.9570716207406
+-----------
+
+
+-----------
+Generation #57:
+max solution = value: 732, size: 260, quantity: 12
+Average Fitness = 493.63
+min solution = value: 85, size: 176, quantity: 4
+Standard daviation: 10.8013012479561
+-----------
+
+
+-----------
+Generation #58:
+max solution = value: 732, size: 260, quantity: 12
+Average Fitness = 512.78
+min solution = value: 297, size: 240, quantity: 6
+Standard daviation: 10.2053767921247
+-----------
+
+
+-----------
+Generation #59:
+max solution = value: 828, size: 261, quantity: 12
+Average Fitness = 500.91
+min solution = value: 258, size: 248, quantity: 6
+Standard daviation: 10.7335862566058
+-----------
+
+
+-----------
+Generation #60:
+max solution = value: 744, size: 203, quantity: 10
+Average Fitness = 492.93
+min solution = value: 257, size: 163, quantity: 6
+Standard daviation: 10.6433601774634
+-----------
+
+
+-----------
+Generation #61:
+max solution = value: 747, size: 234, quantity: 10
+Average Fitness = 489.2
+min solution = value: 135, size: 202, quantity: 4
+Standard daviation: 11.0400313082295
+-----------
+
+
+-----------
+Generation #62:
+max solution = value: 782, size: 259, quantity: 12
+Average Fitness = 482.81
+min solution = value: 206, size: 141, quantity: 4
+Standard daviation: 10.518176671547
+-----------
+
+
+-----------
+Generation #63:
+max solution = value: 738, size: 218, quantity: 10
+Average Fitness = 485.8
+min solution = value: 113, size: 172, quantity: 4
+Standard daviation: 11.0111824599294
+-----------
+
+
+-----------
+**Alpha has changed**
+Generation #64:
+max solution = value: 912, size: 241, quantity: 12
+Average Fitness = 473.67
+min solution = value: 251, size: 154, quantity: 4
+Standard daviation: 11.000134911648
+-----------
+
+
+-----------
+Generation #65:
+max solution = value: 912, size: 241, quantity: 12
+Average Fitness = 505.7
+min solution = value: 201, size: 196, quantity: 6
+Standard daviation: 11.7168604092585
+-----------
+
+
+-----------
+Generation #66:
+max solution = value: 912, size: 241, quantity: 12
+Average Fitness = 514.13
+min solution = value: 206, size: 192, quantity: 4
+Standard daviation: 11.1781136529026
+-----------
+
+
+-----------
+Generation #67:
+max solution = value: 912, size: 241, quantity: 12
+Average Fitness = 515.21
+min solution = value: 88, size: 206, quantity: 4
+Standard daviation: 11.7786100238957
+-----------
+
+
+-----------
+Generation #68:
+max solution = value: 823, size: 260, quantity: 12
+Average Fitness = 508.23
+min solution = value: 189, size: 183, quantity: 4
+Standard daviation: 11.3428175999522
+-----------
+
+
+-----------
+Generation #69:
+max solution = value: 786, size: 251, quantity: 10
+Average Fitness = 514.33
+min solution = value: 276, size: 215, quantity: 6
+Standard daviation: 10.6332707315919
+-----------
+
+
+-----------
+Generation #70:
+max solution = value: 786, size: 251, quantity: 10
+Average Fitness = 513.94
+min solution = value: 222, size: 193, quantity: 6
+Standard daviation: 10.9268758585913
+-----------
+
+
+-----------
+Generation #71:
+max solution = value: 783, size: 230, quantity: 10
+Average Fitness = 509.42
+min solution = value: 270, size: 192, quantity: 6
+Standard daviation: 9.99053799317473
+-----------
+
+
+-----------
+Generation #72:
+max solution = value: 783, size: 230, quantity: 10
+Average Fitness = 522.24
+min solution = value: 219, size: 240, quantity: 6
+Standard daviation: 10.4615603661889
+-----------
+
+
+-----------
+Generation #73:
+max solution = value: 802, size: 247, quantity: 10
+Average Fitness = 515.03
+min solution = value: 160, size: 232, quantity: 4
+Standard daviation: 10.9013240068071
+-----------
+
+
+-----------
+Generation #74:
+max solution = value: 758, size: 251, quantity: 10
+Average Fitness = 513.56
+min solution = value: 222, size: 213, quantity: 4
+Standard daviation: 10.8233912013852
+-----------
+
+
+-----------
+Generation #75:
+max solution = value: 784, size: 260, quantity: 10
+Average Fitness = 511.18
+min solution = value: 194, size: 179, quantity: 4
+Standard daviation: 11.1403842995088
+-----------
+
+
+-----------
+Generation #76:
+max solution = value: 845, size: 256, quantity: 12
+Average Fitness = 511.93
+min solution = value: 141, size: 203, quantity: 4
+Standard daviation: 11.7301841570767
+-----------
+
+
+-----------
+Generation #77:
+max solution = value: 845, size: 256, quantity: 12
+Average Fitness = 520.5
+min solution = value: 131, size: 217, quantity: 4
+Standard daviation: 11.3172902505101
+-----------
+
+
+-----------
+Generation #78:
+max solution = value: 752, size: 239, quantity: 12
+Average Fitness = 510.72
+min solution = value: 171, size: 220, quantity: 4
+Standard daviation: 11.3957459834177
+-----------
+
+
+-----------
+Generation #79:
+max solution = value: 752, size: 239, quantity: 12
+Average Fitness = 515.72
+min solution = value: 226, size: 180, quantity: 4
+Standard daviation: 10.4240811849365
+-----------
+
+
+-----------
+Generation #80:
+max solution = value: 750, size: 239, quantity: 12
+Average Fitness = 492.79
+min solution = value: 214, size: 234, quantity: 6
+Standard daviation: 10.4929194127397
+-----------
+
+
+-----------
+Generation #81:
+max solution = value: 739, size: 260, quantity: 10
+Average Fitness = 505.62
+min solution = value: 151, size: 230, quantity: 4
+Standard daviation: 11.4317695833284
+-----------
+
+
+-----------
+Generation #82:
+max solution = value: 738, size: 223, quantity: 12
+Average Fitness = 496.74
+min solution = value: 177, size: 233, quantity: 4
+Standard daviation: 11.2063809277081
+-----------
+
+
+-----------
+Generation #83:
+max solution = value: 720, size: 254, quantity: 10
+Average Fitness = 489.21
+min solution = value: 193, size: 168, quantity: 4
+Standard daviation: 10.4185711143724
+-----------
+
+
+-----------
+Generation #84:
+max solution = value: 765, size: 254, quantity: 10
+Average Fitness = 477.34
+min solution = value: 194, size: 192, quantity: 4
+Standard daviation: 10.4341575342653
+-----------
+
+
+-----------
+Generation #85:
+max solution = value: 761, size: 256, quantity: 10
+Average Fitness = 484.02
+min solution = value: 194, size: 192, quantity: 4
+Standard daviation: 11.1060334164182
+-----------
+
+
+-----------
+Generation #86:
+max solution = value: 761, size: 256, quantity: 10
+Average Fitness = 494.22
+min solution = value: 158, size: 166, quantity: 4
+Standard daviation: 11.2395508301613
+-----------
+
+
+-----------
+Generation #87:
+max solution = value: 761, size: 256, quantity: 10
+Average Fitness = 480.69
+min solution = value: 152, size: 205, quantity: 4
+Standard daviation: 11.2819840630488
+-----------
+
+
+-----------
+Generation #88:
+max solution = value: 759, size: 255, quantity: 10
+Average Fitness = 484.79
+min solution = value: 191, size: 212, quantity: 4
+Standard daviation: 10.9998398488198
+-----------
+
+
+-----------
+Generation #89:
+max solution = value: 762, size: 240, quantity: 12
+Average Fitness = 508.8
+min solution = value: 182, size: 234, quantity: 4
+Standard daviation: 10.834879422374
+-----------
+
+
+-----------
+Generation #90:
+max solution = value: 803, size: 225, quantity: 12
+Average Fitness = 531.78
+min solution = value: 161, size: 195, quantity: 4
+Standard daviation: 10.8909670345104
+-----------
+
+
+-----------
+Generation #91:
+max solution = value: 828, size: 230, quantity: 12
+Average Fitness = 545.24
+min solution = value: 166, size: 234, quantity: 4
+Standard daviation: 10.7747660000268
+-----------
+
+
+-----------
+Generation #92:
+max solution = value: 803, size: 255, quantity: 12
+Average Fitness = 539.13
+min solution = value: 276, size: 230, quantity: 8
+Standard daviation: 10.9355943592051
+-----------
+
+
+-----------
+Generation #93:
+max solution = value: 755, size: 254, quantity: 10
+Average Fitness = 536.47
+min solution = value: 289, size: 235, quantity: 6
+Standard daviation: 10.078512217549
+-----------
+
+
+-----------
+Generation #94:
+max solution = value: 769, size: 241, quantity: 10
+Average Fitness = 508.94
+min solution = value: 239, size: 209, quantity: 4
+Standard daviation: 9.65682536040545
+-----------
+
+
+-----------
+Generation #95:
+max solution = value: 755, size: 239, quantity: 10
+Average Fitness = 515.67
+min solution = value: 214, size: 238, quantity: 4
+Standard daviation: 10.1028275926897
+-----------
+
+
+-----------
+Generation #96:
+max solution = value: 768, size: 256, quantity: 10
+Average Fitness = 518.29
+min solution = value: 220, size: 229, quantity: 4
+Standard daviation: 10.1960684136857
+-----------
+
+
+-----------
+Generation #97:
+max solution = value: 762, size: 255, quantity: 10
+Average Fitness = 504.89
+min solution = value: 262, size: 197, quantity: 4
+Standard daviation: 10.1711511714161
+-----------
+
+
+-----------
+Generation #98:
+max solution = value: 771, size: 242, quantity: 10
+Average Fitness = 468.55
+min solution = value: 204, size: 195, quantity: 4
+Standard daviation: 10.7262488547303
+-----------
+
+
+-----------
+Generation #99:
+max solution = value: 712, size: 223, quantity: 10
+Average Fitness = 473.45
+min solution = value: 253, size: 236, quantity: 6
+Standard daviation: 10.8874380333489
+-----------
+
+running time: 00:00:00.7130657
+
+------------Genetic Summary------------
+fractional = 1114
+solution = value: 912, size: 241, quantity: 12
+ numberOfGenerations = 99
+*Genetic* 
+Percentage Of Mutation: 5%
+number of generations: 99
+stopping condition determined by: KnapsackProblem.GeneticPack.MockReaper
+
+###################################
+Items that were chosen:
+ID = 34	Size = 11 	Value = 50 	
+ID = 27	Size = 10 	Value = 69 	
+ID = 38	Size = 35 	Value = 71 	
+ID = 23	Size = 14 	Value = 88 	
+ID = 30	Size = 37 	Value = 96 	
+ID = 10	Size = 1 	Value = 77 	
+ID = 7	Size = 29 	Value = 51 	
+ID = 24	Size = 10 	Value = 77 	
+ID = 22	Size = 9 	Value = 77 	
+ID = 40	Size = 24 	Value = 60 	
+ID = 2	Size = 24 	Value = 98 	
+ID = 42	Size = 37 	Value = 98 	
+**************************************
+Items that were NOT chosen:
+ID = 0	Size = 33 	Value = 93 	
+ID = 1	Size = 45 	Value = 23 	
+ID = 3	Size = 48 	Value = 71 	
+ID = 4	Size = 22 	Value = 43 	
+ID = 5	Size = 16 	Value = 52 	
+ID = 6	Size = 66 	Value = 8 	
+ID = 8	Size = 53 	Value = 66 	
+ID = 9	Size = 4 	Value = 25 	
+ID = 11	Size = 33 	Value = 24 	
+ID = 12	Size = 28 	Value = 51 	
+ID = 13	Size = 35 	Value = 70 	
+ID = 14	Size = 67 	Value = 25 	
+ID = 15	Size = 41 	Value = 27 	
+ID = 16	Size = 59 	Value = 94 	
+ID = 17	Size = 68 	Value = 91 	
+ID = 18	Size = 34 	Value = 46 	
+ID = 19	Size = 63 	Value = 38 	
+ID = 20	Size = 38 	Value = 50 	
+ID = 21	Size = 22 	Value = 74 	
+ID = 25	Size = 55 	Value = 59 	
+ID = 26	Size = 35 	Value = 62 	
+ID = 28	Size = 35 	Value = 39 	
+ID = 29	Size = 62 	Value = 82 	
+ID = 31	Size = 58 	Value = 5 	
+ID = 32	Size = 63 	Value = 95 	
+ID = 33	Size = 52 	Value = 96 	
+ID = 35	Size = 4 	Value = 27 	
+ID = 36	Size = 59 	Value = 68 	
+ID = 37	Size = 54 	Value = 51 	
+ID = 39	Size = 9 	Value = 63 	
+ID = 41	Size = 42 	Value = 15 	
+ID = 43	Size = 58 	Value = 20 	
+ID = 44	Size = 60 	Value = 25 	
+ID = 45	Size = 32 	Value = 9 	
+ID = 46	Size = 45 	Value = 5 	
+ID = 47	Size = 64 	Value = 56 	
+ID = 48	Size = 52 	Value = 25 	
+ID = 49	Size = 64 	Value = 18 	
+

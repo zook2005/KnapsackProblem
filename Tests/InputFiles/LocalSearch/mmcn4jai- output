@@ -1,0 +1,1123 @@
+@@@@@@@ try #1: Now using local search:
+	InitializeEmpty
+	NeighborhoodGenerators: AddTwo,OnePerOne,ThreePerOne,TwoPerTow,OnePerThree
+	ChooseFirst
+	ShuffleSortingPolicy
+	Cycle: 1 out of: 2
+		initial value: 0
+		Local search, step 1: value: 49, size: 30, quantity: 2
+			Items added: ID = 52	Size = 25 	Value = 13 	,ID = 105	Size = 5 	Value = 36 	 
+			Items removed: 
+		Local search, step 2: value: 97, size: 87, quantity: 4
+			Items added: ID = 62	Size = 35 	Value = 33 	,ID = 102	Size = 22 	Value = 15 	 
+			Items removed: 
+		Local search, step 3: value: 169, size: 158, quantity: 6
+			Items added: ID = 113	Size = 30 	Value = 29 	,ID = 57	Size = 41 	Value = 43 	 
+			Items removed: 
+		Local search, step 4: value: 213, size: 210, quantity: 8
+			Items added: ID = 92	Size = 11 	Value = 12 	,ID = 69	Size = 41 	Value = 32 	 
+			Items removed: 
+		Local search, step 5: value: 246, size: 297, quantity: 10
+			Items added: ID = 78	Size = 46 	Value = 19 	,ID = 38	Size = 41 	Value = 14 	 
+			Items removed: 
+		Local search, step 6: value: 270, size: 340, quantity: 12
+			Items added: ID = 23	Size = 41 	Value = 4 	,ID = 29	Size = 2 	Value = 20 	 
+			Items removed: 
+		Local search, step 7: value: 290, size: 388, quantity: 14
+			Items added: ID = 98	Size = 21 	Value = 17 	,ID = 76	Size = 27 	Value = 3 	 
+			Items removed: 
+		Local search, step 8: value: 360, size: 438, quantity: 16
+			Items added: ID = 22	Size = 8 	Value = 31 	,ID = 20	Size = 42 	Value = 39 	 
+			Items removed: 
+		Local search, step 9: value: 392, size: 526, quantity: 18
+			Items added: ID = 42	Size = 46 	Value = 18 	,ID = 48	Size = 42 	Value = 14 	 
+			Items removed: 
+		Local search, step 10: value: 450, size: 547, quantity: 20
+			Items added: ID = 106	Size = 11 	Value = 42 	,ID = 95	Size = 10 	Value = 16 	 
+			Items removed: 
+		Local search, step 11: value: 496, size: 569, quantity: 22
+			Items added: ID = 54	Size = 12 	Value = 44 	,ID = 109	Size = 10 	Value = 2 	 
+			Items removed: 
+		Local search, step 12: value: 531, size: 632, quantity: 24
+			Items added: ID = 66	Size = 28 	Value = 19 	,ID = 4	Size = 35 	Value = 16 	 
+			Items removed: 
+		Local search, step 13: value: 580, size: 708, quantity: 26
+			Items added: ID = 118	Size = 41 	Value = 6 	,ID = 68	Size = 35 	Value = 43 	 
+			Items removed: 
+		Local search, step 14: value: 616, size: 762, quantity: 28
+			Items added: ID = 60	Size = 26 	Value = 4 	,ID = 84	Size = 28 	Value = 32 	 
+			Items removed: 
+		Local search, step 15: value: 628, size: 775, quantity: 30
+			Items added: ID = 90	Size = 4 	Value = 12 	,ID = 5	Size = 9 	Value = 0 	 
+			Items removed: 
+		Local search, step 16: value: 701, size: 837, quantity: 32
+			Items added: ID = 24	Size = 35 	Value = 36 	,ID = 64	Size = 27 	Value = 37 	 
+			Items removed: 
+		Local search, step 17: value: 712, size: 859, quantity: 34
+			Items added: ID = 14	Size = 8 	Value = 2 	,ID = 88	Size = 14 	Value = 9 	 
+			Items removed: 
+		Local search, step 18: value: 764, size: 899, quantity: 36
+			Items added: ID = 11	Size = 1 	Value = 46 	,ID = 53	Size = 39 	Value = 6 	 
+			Items removed: 
+		Local search, step 19: value: 825, size: 939, quantity: 38
+			Items added: ID = 21	Size = 1 	Value = 33 	,ID = 16	Size = 39 	Value = 28 	 
+			Items removed: 
+		Local search, step 20: value: 891, size: 959, quantity: 40
+			Items added: ID = 108	Size = 7 	Value = 30 	,ID = 13	Size = 13 	Value = 36 	 
+			Items removed: 
+		Local search, step 21: value: 955, size: 978, quantity: 42
+			Items added: ID = 15	Size = 16 	Value = 21 	,ID = 91	Size = 3 	Value = 43 	 
+			Items removed: 
+		Local search, step 22: value: 1003, size: 980, quantity: 44
+			Items added: ID = 83	Size = 1 	Value = 24 	,ID = 93	Size = 1 	Value = 24 	 
+			Items removed: 
+		Local search, step 23: value: 1038, size: 982, quantity: 46
+			Items added: ID = 41	Size = 1 	Value = 18 	,ID = 104	Size = 1 	Value = 17 	 
+			Items removed: 
+		Local search, step 24: value: 1047, size: 982, quantity: 46
+			Items added: ID = 46	Size = 25 	Value = 22 	 
+			Items removed: ID = 52	Size = 25 	Value = 13 	
+		Local search, step 25: value: 1054, size: 981, quantity: 46
+			Items added: ID = 115	Size = 4 	Value = 43 	 
+			Items removed: ID = 105	Size = 5 	Value = 36 	
+		Local search, step 26: value: 1054, size: 952, quantity: 46
+			Items added: ID = 44	Size = 6 	Value = 33 	 
+			Items removed: ID = 62	Size = 35 	Value = 33 	
+		Local search, step 27: value: 1075, size: 982, quantity: 48
+			Items added: ID = 52	Size = 25 	Value = 13 	,ID = 30	Size = 5 	Value = 8 	 
+			Items removed: 
+		Local search, step 28: value: 1106, size: 978, quantity: 48
+			Items added: ID = 61	Size = 18 	Value = 46 	 
+			Items removed: ID = 102	Size = 22 	Value = 15 	
+		Local search, step 29: value: 1185, size: 982, quantity: 50
+			Items added: ID = 25	Size = 3 	Value = 45 	,ID = 32	Size = 1 	Value = 34 	 
+			Items removed: 
+		Local search, step 30: value: 1192, size: 957, quantity: 50
+			Items added: ID = 105	Size = 5 	Value = 36 	 
+			Items removed: ID = 113	Size = 30 	Value = 29 	
+		Local search, step 31: value: 1216, size: 982, quantity: 52
+			Items added: ID = 102	Size = 22 	Value = 15 	,ID = 80	Size = 3 	Value = 9 	 
+			Items removed: 
+		Local search, step 32: value: 1217, size: 973, quantity: 52
+			Items added: ID = 0	Size = 32 	Value = 44 	 
+			Items removed: ID = 57	Size = 41 	Value = 43 	
+		Local search, step 33: value: 1241, size: 974, quantity: 52
+			Items added: ID = 35	Size = 12 	Value = 36 	 
+			Items removed: ID = 92	Size = 11 	Value = 12 	
+		Local search, step 34: value: 1242, size: 968, quantity: 52
+			Items added: ID = 62	Size = 35 	Value = 33 	 
+			Items removed: ID = 69	Size = 41 	Value = 32 	
+		Local search, step 35: value: 1257, size: 980, quantity: 54
+			Items added: ID = 6	Size = 6 	Value = 9 	,ID = 36	Size = 6 	Value = 6 	 
+			Items removed: 
+		Local search, step 36: value: 1263, size: 977, quantity: 54
+			Items added: ID = 45	Size = 43 	Value = 25 	 
+			Items removed: ID = 78	Size = 46 	Value = 19 	
+		Local search, step 37: value: 1268, size: 982, quantity: 54
+			Items added: ID = 78	Size = 46 	Value = 19 	 
+			Items removed: ID = 38	Size = 41 	Value = 14 	
+		Local search, step 38: value: 1278, size: 982, quantity: 54
+			Items added: ID = 38	Size = 41 	Value = 14 	 
+			Items removed: ID = 23	Size = 41 	Value = 4 	
+		Local search, step 39: value: 1291, size: 972, quantity: 54
+			Items added: ID = 63	Size = 11 	Value = 30 	 
+			Items removed: ID = 98	Size = 21 	Value = 17 	
+		Local search, step 40: value: 1295, size: 974, quantity: 54
+			Items added: ID = 87	Size = 4 	Value = 24 	 
+			Items removed: ID = 29	Size = 2 	Value = 20 	
+		Local search, step 41: value: 1321, size: 981, quantity: 54
+			Items added: ID = 59	Size = 34 	Value = 29 	 
+			Items removed: ID = 76	Size = 27 	Value = 3 	
+		Local search, step 42: value: 1335, size: 980, quantity: 54
+			Items added: ID = 117	Size = 7 	Value = 45 	 
+			Items removed: ID = 22	Size = 8 	Value = 31 	
+		Local search, step 43: value: 1339, size: 979, quantity: 54
+			Items added: ID = 57	Size = 41 	Value = 43 	 
+			Items removed: ID = 20	Size = 42 	Value = 39 	
+		Local search, step 44: value: 1353, size: 974, quantity: 54
+			Items added: ID = 69	Size = 41 	Value = 32 	 
+			Items removed: ID = 42	Size = 46 	Value = 18 	
+		Local search, step 45: value: 1357, size: 978, quantity: 54
+			Items added: ID = 42	Size = 46 	Value = 18 	 
+			Items removed: ID = 48	Size = 42 	Value = 14 	
+		Local search, step 46: value: 1361, size: 970, quantity: 54
+			Items added: ID = 29	Size = 2 	Value = 20 	 
+			Items removed: ID = 95	Size = 10 	Value = 16 	
+		Local search, step 47: value: 1362, size: 979, quantity: 54
+			Items added: ID = 51	Size = 19 	Value = 3 	 
+			Items removed: ID = 109	Size = 10 	Value = 2 	
+		Local search, step 48: value: 1372, size: 981, quantity: 54
+			Items added: ID = 113	Size = 30 	Value = 29 	 
+			Items removed: ID = 66	Size = 28 	Value = 19 	
+		Local search, step 49: value: 1375, size: 974, quantity: 54
+			Items added: ID = 66	Size = 28 	Value = 19 	 
+			Items removed: ID = 4	Size = 35 	Value = 16 	
+		Local search, step 50: value: 1383, size: 975, quantity: 54
+			Items added: ID = 48	Size = 42 	Value = 14 	 
+			Items removed: ID = 118	Size = 41 	Value = 6 	
+		Local search, step 51: value: 1385, size: 969, quantity: 54
+			Items added: ID = 73	Size = 29 	Value = 45 	 
+			Items removed: ID = 68	Size = 35 	Value = 43 	
+		Local search, step 52: value: 1388, size: 979, quantity: 54
+			Items added: ID = 1	Size = 36 	Value = 7 	 
+			Items removed: ID = 60	Size = 26 	Value = 4 	
+		Local search, step 53: value: 1393, size: 974, quantity: 54
+			Items added: ID = 27	Size = 23 	Value = 37 	 
+			Items removed: ID = 84	Size = 28 	Value = 32 	
+		Local search, step 54: value: 1397, size: 980, quantity: 54
+			Items added: ID = 95	Size = 10 	Value = 16 	 
+			Items removed: ID = 90	Size = 4 	Value = 12 	
+		Local search, step 55: value: 1399, size: 981, quantity: 54
+			Items added: ID = 109	Size = 10 	Value = 2 	 
+			Items removed: ID = 5	Size = 9 	Value = 0 	
+		Local search, step 56: value: 1405, size: 964, quantity: 54
+			Items added: ID = 101	Size = 18 	Value = 42 	 
+			Items removed: ID = 24	Size = 35 	Value = 36 	
+		Local search, step 57: value: 1417, size: 977, quantity: 56
+			Items added: ID = 5	Size = 9 	Value = 0 	,ID = 90	Size = 4 	Value = 12 	 
+			Items removed: 
+		Local search, step 58: value: 1418, size: 966, quantity: 56
+			Items added: ID = 79	Size = 16 	Value = 38 	 
+			Items removed: ID = 64	Size = 27 	Value = 37 	
+		Local search, step 59: value: 1452, size: 982, quantity: 58
+			Items added: ID = 85	Size = 8 	Value = 10 	,ID = 33	Size = 8 	Value = 24 	 
+			Items removed: 
+		Local search, step 60: value: 1481, size: 982, quantity: 58
+			Items added: ID = 22	Size = 8 	Value = 31 	 
+			Items removed: ID = 14	Size = 8 	Value = 2 	
+		Local search, step 61: value: 1484, size: 979, quantity: 58
+			Items added: ID = 92	Size = 11 	Value = 12 	 
+			Items removed: ID = 88	Size = 14 	Value = 9 	
+		Local search, step 62: value: 1517, size: 982, quantity: 58
+			Items added: ID = 20	Size = 42 	Value = 39 	 
+			Items removed: ID = 53	Size = 39 	Value = 6 	
+		Local search, step 63: value: 1521, size: 971, quantity: 58
+			Items added: ID = 84	Size = 28 	Value = 32 	 
+			Items removed: ID = 16	Size = 39 	Value = 28 	
+		Local search, step 64: value: 1524, size: 982, quantity: 58
+			Items added: ID = 114	Size = 18 	Value = 33 	 
+			Items removed: ID = 108	Size = 7 	Value = 30 	
+		Local search, step 65: value: 1533, size: 973, quantity: 58
+			Items added: ID = 108	Size = 7 	Value = 30 	 
+			Items removed: ID = 15	Size = 16 	Value = 21 	
+		Local search, step 66: value: 1539, size: 981, quantity: 58
+			Items added: ID = 119	Size = 21 	Value = 42 	 
+			Items removed: ID = 13	Size = 13 	Value = 36 	
+		Local search, step 67: value: 1543, size: 981, quantity: 58
+			Items added: ID = 7	Size = 25 	Value = 26 	 
+			Items removed: ID = 46	Size = 25 	Value = 22 	
+		Local search, step 68: value: 1547, size: 977, quantity: 58
+			Items added: ID = 98	Size = 21 	Value = 17 	 
+			Items removed: ID = 52	Size = 25 	Value = 13 	
+		Local search, step 69: value: 1559, size: 981, quantity: 58
+			Items added: ID = 89	Size = 9 	Value = 20 	 
+			Items removed: ID = 30	Size = 5 	Value = 8 	
+		Local search, step 70: value: 1565, size: 975, quantity: 58
+			Items added: ID = 15	Size = 16 	Value = 21 	 
+			Items removed: ID = 102	Size = 22 	Value = 15 	
+		Local search, step 71: value: 1566, size: 982, quantity: 58
+			Items added: ID = 58	Size = 8 	Value = 25 	 
+			Items removed: ID = 83	Size = 1 	Value = 24 	
+		Local search, step 72: value: 1572, size: 982, quantity: 58
+			Items added: ID = 83	Size = 1 	Value = 24 	 
+			Items removed: ID = 41	Size = 1 	Value = 18 	
+		Local search, step 73: value: 1573, size: 982, quantity: 58
+			Items added: ID = 41	Size = 1 	Value = 18 	 
+			Items removed: ID = 104	Size = 1 	Value = 17 	
+		Local search, step 74: value: 1581, size: 980, quantity: 58
+			Items added: ID = 104	Size = 1 	Value = 17 	 
+			Items removed: ID = 80	Size = 3 	Value = 9 	
+		Local search, step 75: value: 1584, size: 980, quantity: 58
+			Items added: ID = 24	Size = 35 	Value = 36 	 
+			Items removed: ID = 62	Size = 35 	Value = 33 	
+		Local search, step 76: value: 1595, size: 981, quantity: 58
+			Items added: ID = 12	Size = 7 	Value = 20 	 
+			Items removed: ID = 6	Size = 6 	Value = 9 	
+		Local search, step 77: value: 1597, size: 980, quantity: 58
+			Items added: ID = 30	Size = 5 	Value = 8 	 
+			Items removed: ID = 36	Size = 6 	Value = 6 	
+		Local search, step 78: value: 1600, size: 976, quantity: 58
+			Items added: ID = 16	Size = 39 	Value = 28 	 
+			Items removed: ID = 45	Size = 43 	Value = 25 	
+		Local search, step 79: value: 1606, size: 981, quantity: 58
+			Items added: ID = 10	Size = 17 	Value = 42 	 
+			Items removed: ID = 35	Size = 12 	Value = 36 	
+		Local search, step 80: value: 1609, size: 960, quantity: 58
+			Items added: ID = 46	Size = 25 	Value = 22 	 
+			Items removed: ID = 78	Size = 46 	Value = 19 	
+		Local search, step 81: value: 1620, size: 982, quantity: 60
+			Items added: ID = 88	Size = 14 	Value = 9 	,ID = 14	Size = 8 	Value = 2 	 
+			Items removed: 
+		Local search, step 82: value: 1622, size: 976, quantity: 60
+			Items added: ID = 4	Size = 35 	Value = 16 	 
+			Items removed: ID = 38	Size = 41 	Value = 14 	
+		Local search, step 83: value: 1625, size: 982, quantity: 60
+			Items added: ID = 35	Size = 12 	Value = 36 	 
+			Items removed: ID = 44	Size = 6 	Value = 33 	
+		Local search, step 84: value: 1628, size: 977, quantity: 60
+			Items added: ID = 44	Size = 6 	Value = 33 	 
+			Items removed: ID = 63	Size = 11 	Value = 30 	
+		Local search, step 85: value: 1629, size: 971, quantity: 60
+			Items added: ID = 74	Size = 28 	Value = 30 	 
+			Items removed: ID = 59	Size = 34 	Value = 29 	
+		Local search, step 86: value: 1644, size: 980, quantity: 62
+			Items added: ID = 36	Size = 6 	Value = 6 	,ID = 80	Size = 3 	Value = 9 	 
+			Items removed: 
+		Local search, step 87: value: 1644, size: 974, quantity: 62
+			Items added: ID = 68	Size = 35 	Value = 43 	 
+			Items removed: ID = 57	Size = 41 	Value = 43 	
+		Local search, step 88: value: 1650, size: 981, quantity: 62
+			Items added: ID = 63	Size = 11 	Value = 30 	 
+			Items removed: ID = 87	Size = 4 	Value = 24 	
+		Local search, step 89: value: 1651, size: 975, quantity: 62
+			Items added: ID = 62	Size = 35 	Value = 33 	 
+			Items removed: ID = 69	Size = 41 	Value = 32 	
+		Local search, step 90: value: 1652, size: 975, quantity: 62
+			Items added: ID = 78	Size = 46 	Value = 19 	 
+			Items removed: ID = 42	Size = 46 	Value = 18 	
+		Local search, step 91: value: 1656, size: 977, quantity: 62
+			Items added: ID = 87	Size = 4 	Value = 24 	 
+			Items removed: ID = 29	Size = 2 	Value = 20 	
+		Local search, step 92: value: 1667, size: 973, quantity: 62
+			Items added: ID = 82	Size = 15 	Value = 14 	 
+			Items removed: ID = 51	Size = 19 	Value = 3 	
+		Local search, step 93: value: 1696, size: 981, quantity: 64
+			Items added: ID = 6	Size = 6 	Value = 9 	,ID = 29	Size = 2 	Value = 20 	 
+			Items removed: 
+		Local search, step 94: value: 1704, size: 978, quantity: 64
+			Items added: ID = 64	Size = 27 	Value = 37 	 
+			Items removed: ID = 113	Size = 30 	Value = 29 	
+		Local search, step 95: value: 1709, size: 975, quantity: 64
+			Items added: ID = 37	Size = 25 	Value = 24 	 
+			Items removed: ID = 66	Size = 28 	Value = 19 	
+		Local search, step 96: value: 1709, size: 974, quantity: 64
+			Items added: ID = 38	Size = 41 	Value = 14 	 
+			Items removed: ID = 48	Size = 42 	Value = 14 	
+		Local search, step 97: value: 1716, size: 980, quantity: 64
+			Items added: ID = 48	Size = 42 	Value = 14 	 
+			Items removed: ID = 1	Size = 36 	Value = 7 	
+		Local search, step 98: value: 1719, size: 981, quantity: 64
+			Items added: ID = 17	Size = 24 	Value = 40 	 
+			Items removed: ID = 27	Size = 23 	Value = 37 	
+		Local search, step 99: value: 1719, size: 980, quantity: 64
+			Items added: ID = 43	Size = 9 	Value = 2 	 
+			Items removed: ID = 109	Size = 10 	Value = 2 	
+		Local search, step 100: value: 1721, size: 981, quantity: 64
+			Items added: ID = 109	Size = 10 	Value = 2 	 
+			Items removed: ID = 5	Size = 9 	Value = 0 	
+		Local search, step 101: value: 1725, size: 980, quantity: 64
+			Items added: ID = 57	Size = 41 	Value = 43 	 
+			Items removed: ID = 20	Size = 42 	Value = 39 	
+		Local search, step 102: value: 1749, size: 982, quantity: 64
+			Items added: ID = 13	Size = 13 	Value = 36 	 
+			Items removed: ID = 92	Size = 11 	Value = 12 	
+		Local search, step 103: value: 1751, size: 981, quantity: 64
+			Items added: ID = 47	Size = 27 	Value = 34 	 
+			Items removed: ID = 84	Size = 28 	Value = 32 	
+		Local search, step 104: value: 1754, size: 977, quantity: 64
+			Items added: ID = 26	Size = 14 	Value = 36 	 
+			Items removed: ID = 114	Size = 18 	Value = 33 	
+		Local search, step 105: value: 1761, size: 982, quantity: 64
+			Items added: ID = 110	Size = 15 	Value = 23 	 
+			Items removed: ID = 95	Size = 10 	Value = 16 	
+		Local search, step 106: value: 1761, size: 972, quantity: 64
+			Items added: ID = 18	Size = 15 	Value = 26 	 
+			Items removed: ID = 7	Size = 25 	Value = 26 	
+		Local search, step 107: value: 1765, size: 978, quantity: 64
+			Items added: ID = 95	Size = 10 	Value = 16 	 
+			Items removed: ID = 90	Size = 4 	Value = 12 	
+		Local search, step 108: value: 1767, size: 974, quantity: 64
+			Items added: ID = 90	Size = 4 	Value = 12 	 
+			Items removed: ID = 85	Size = 8 	Value = 10 	
+		Local search, step 109: value: 1769, size: 981, quantity: 64
+			Items added: ID = 66	Size = 28 	Value = 19 	 
+			Items removed: ID = 98	Size = 21 	Value = 17 	
+		Local search, step 110: value: 1780, size: 982, quantity: 64
+			Items added: ID = 116	Size = 17 	Value = 32 	 
+			Items removed: ID = 15	Size = 16 	Value = 21 	
+		Local search, step 111: value: 1781, size: 982, quantity: 64
+			Items added: ID = 107	Size = 35 	Value = 37 	 
+			Items removed: ID = 24	Size = 35 	Value = 36 	
+		Local search, step 112: value: 1782, size: 977, quantity: 64
+			Items added: ID = 59	Size = 34 	Value = 29 	 
+			Items removed: ID = 16	Size = 39 	Value = 28 	
+		Local search, step 113: value: 1784, size: 980, quantity: 64
+			Items added: ID = 85	Size = 8 	Value = 10 	 
+			Items removed: ID = 30	Size = 5 	Value = 8 	
+		Local search, step 114: value: 1788, size: 980, quantity: 64
+			Items added: ID = 7	Size = 25 	Value = 26 	 
+			Items removed: ID = 46	Size = 25 	Value = 22 	
+		Local search, step 115: value: 1791, size: 977, quantity: 64
+			Items added: ID = 92	Size = 11 	Value = 12 	 
+			Items removed: ID = 88	Size = 14 	Value = 9 	
+		Local search, step 116: value: 1797, size: 974, quantity: 64
+			Items added: ID = 30	Size = 5 	Value = 8 	 
+			Items removed: ID = 14	Size = 8 	Value = 2 	
+		Local search, step 117: value: 1798, size: 981, quantity: 64
+			Items added: ID = 15	Size = 16 	Value = 21 	 
+			Items removed: ID = 89	Size = 9 	Value = 20 	
+		Local search, step 118: value: 1802, size: 979, quantity: 64
+			Items added: ID = 49	Size = 33 	Value = 20 	 
+			Items removed: ID = 4	Size = 35 	Value = 16 	
+		Local search, step 119: value: 1804, size: 979, quantity: 64
+			Items added: ID = 84	Size = 28 	Value = 32 	 
+			Items removed: ID = 74	Size = 28 	Value = 30 	
+		Local search, step 120: value: 1818, size: 982, quantity: 64
+			Items added: ID = 89	Size = 9 	Value = 20 	 
+			Items removed: ID = 36	Size = 6 	Value = 6 	
+		Local search, step 121: value: 1821, size: 982, quantity: 64
+			Items added: ID = 24	Size = 35 	Value = 36 	 
+			Items removed: ID = 62	Size = 35 	Value = 33 	
+		Local search, step 122: value: 1827, size: 979, quantity: 64
+			Items added: ID = 45	Size = 43 	Value = 25 	 
+			Items removed: ID = 78	Size = 46 	Value = 19 	
+		Local search, step 123: value: 1846, size: 982, quantity: 64
+			Items added: ID = 114	Size = 18 	Value = 33 	 
+			Items removed: ID = 82	Size = 15 	Value = 14 	
+		Local search, step 124: value: 1846, size: 978, quantity: 64
+			Items added: ID = 27	Size = 23 	Value = 37 	 
+			Items removed: ID = 64	Size = 27 	Value = 37 	
+		Local search, step 125: value: 1852, size: 981, quantity: 64
+			Items added: ID = 74	Size = 28 	Value = 30 	 
+			Items removed: ID = 37	Size = 25 	Value = 24 	
+		Local search, step 126: value: 1866, size: 979, quantity: 64
+			Items added: ID = 16	Size = 39 	Value = 28 	 
+			Items removed: ID = 38	Size = 41 	Value = 14 	
+		Local search, step 127: value: 1866, size: 978, quantity: 64
+			Items added: ID = 38	Size = 41 	Value = 14 	 
+			Items removed: ID = 48	Size = 42 	Value = 14 	
+		Local search, step 128: value: 1866, size: 977, quantity: 64
+			Items added: ID = 14	Size = 8 	Value = 2 	 
+			Items removed: ID = 43	Size = 9 	Value = 2 	
+		Local search, step 129: value: 1866, size: 976, quantity: 64
+			Items added: ID = 43	Size = 9 	Value = 2 	 
+			Items removed: ID = 109	Size = 10 	Value = 2 	
+		Local search, step 130: value: 1869, size: 976, quantity: 64
+			Items added: ID = 64	Size = 27 	Value = 37 	 
+			Items removed: ID = 47	Size = 27 	Value = 34 	
+		Local search, step 131: value: 1870, size: 975, quantity: 64
+			Items added: ID = 81	Size = 27 	Value = 20 	 
+			Items removed: ID = 66	Size = 28 	Value = 19 	
+		Local search, step 132: value: 1885, size: 982, quantity: 64
+			Items added: ID = 112	Size = 22 	Value = 38 	 
+			Items removed: ID = 110	Size = 15 	Value = 23 	
+		Local search, step 133: value: 1885, size: 978, quantity: 64
+			Items added: ID = 113	Size = 30 	Value = 29 	 
+			Items removed: ID = 59	Size = 34 	Value = 29 	
+		Local search, step 134: value: 1886, size: 982, quantity: 64
+			Items added: ID = 65	Size = 29 	Value = 27 	 
+			Items removed: ID = 7	Size = 25 	Value = 26 	
+		Local search, step 135: value: 1888, size: 981, quantity: 64
+			Items added: ID = 110	Size = 15 	Value = 23 	 
+			Items removed: ID = 15	Size = 16 	Value = 21 	
+		Local search, step 136: value: 1897, size: 982, quantity: 64
+			Items added: ID = 59	Size = 34 	Value = 29 	 
+			Items removed: ID = 49	Size = 33 	Value = 20 	
+		Local search, step 137: value: 1899, size: 981, quantity: 64
+			Items added: ID = 47	Size = 27 	Value = 34 	 
+			Items removed: ID = 84	Size = 28 	Value = 32 	
+		Local search, step 138: value: 1906, size: 979, quantity: 64
+			Items added: ID = 69	Size = 41 	Value = 32 	 
+			Items removed: ID = 45	Size = 43 	Value = 25 	
+		Local search, step 139: value: 1908, size: 979, quantity: 64
+			Items added: ID = 84	Size = 28 	Value = 32 	 
+			Items removed: ID = 74	Size = 28 	Value = 30 	
+		Local search, step 140: value: 1911, size: 973, quantity: 64
+			Items added: ID = 34	Size = 33 	Value = 31 	 
+			Items removed: ID = 16	Size = 39 	Value = 28 	
+		Local search, step 141: value: 1912, size: 982, quantity: 64
+			Items added: ID = 15	Size = 16 	Value = 21 	 
+			Items removed: ID = 12	Size = 7 	Value = 20 	
+		Local search, step 142: value: 1916, size: 979, quantity: 64
+			Items added: ID = 12	Size = 7 	Value = 20 	 
+			Items removed: ID = 95	Size = 10 	Value = 16 	
+		Local search, step 143: value: 1922, size: 981, quantity: 64
+			Items added: ID = 95	Size = 10 	Value = 16 	 
+			Items removed: ID = 85	Size = 8 	Value = 10 	
+		Local search, step 144: value: 1925, size: 981, quantity: 64
+			Items added: ID = 2	Size = 41 	Value = 17 	 
+			Items removed: ID = 38	Size = 41 	Value = 14 	
+		Local search, step 145: value: 1929, size: 979, quantity: 64
+			Items added: ID = 36	Size = 6 	Value = 6 	 
+			Items removed: ID = 14	Size = 8 	Value = 2 	
+		Local search, step 146: value: 1930, size: 981, quantity: 64
+			Items added: ID = 85	Size = 8 	Value = 10 	 
+			Items removed: ID = 6	Size = 6 	Value = 9 	
+		Local search, step 147: value: 1931, size: 982, quantity: 64
+			Items added: ID = 6	Size = 6 	Value = 9 	 
+			Items removed: ID = 30	Size = 5 	Value = 8 	
+		Local search, step 148: value: 1931, size: 981, quantity: 64
+			Items added: ID = 14	Size = 8 	Value = 2 	 
+			Items removed: ID = 43	Size = 9 	Value = 2 	
+		Local search, step 149: value: 1933, size: 979, quantity: 64
+			Items added: ID = 46	Size = 25 	Value = 22 	 
+			Items removed: ID = 81	Size = 27 	Value = 20 	
+		Local search, step 150: value: 1934, size: 977, quantity: 64
+			Items added: ID = 74	Size = 28 	Value = 30 	 
+			Items removed: ID = 113	Size = 30 	Value = 29 	
+		Local search, step 151: value: 1936, size: 981, quantity: 64
+			Items added: ID = 82	Size = 15 	Value = 14 	 
+			Items removed: ID = 92	Size = 11 	Value = 12 	
+		Local search, step 152: value: 1938, size: 982, quantity: 64
+			Items added: ID = 113	Size = 30 	Value = 29 	 
+			Items removed: ID = 65	Size = 29 	Value = 27 	
+		Local search, step 153: value: 1939, size: 976, quantity: 64
+			Items added: ID = 62	Size = 35 	Value = 33 	 
+			Items removed: ID = 69	Size = 41 	Value = 32 	
+		Local search, step 154: value: 1940, size: 981, quantity: 64
+			Items added: ID = 42	Size = 46 	Value = 18 	 
+			Items removed: ID = 2	Size = 41 	Value = 17 	
+		Local search, step 155: value: 1942, size: 980, quantity: 64
+			Items added: ID = 30	Size = 5 	Value = 8 	 
+			Items removed: ID = 36	Size = 6 	Value = 6 	
+		Local search, step 156: value: 1946, size: 978, quantity: 64
+			Items added: ID = 36	Size = 6 	Value = 6 	 
+			Items removed: ID = 14	Size = 8 	Value = 2 	
+		Local search, step 157: value: 1948, size: 981, quantity: 64
+			Items added: ID = 92	Size = 11 	Value = 12 	 
+			Items removed: ID = 85	Size = 8 	Value = 10 	
+		Local search, step 158: value: 1950, size: 981, quantity: 64
+			Items added: ID = 37	Size = 25 	Value = 24 	 
+			Items removed: ID = 46	Size = 25 	Value = 22 	
+		Local search, step 159: value: 1951, size: 981, quantity: 64
+			Items added: ID = 78	Size = 46 	Value = 19 	 
+			Items removed: ID = 42	Size = 46 	Value = 18 	
+		Local search, step 160: value: 1953, size: 981, quantity: 64
+			Items added: ID = 7	Size = 25 	Value = 26 	 
+			Items removed: ID = 37	Size = 25 	Value = 24 	
+		Local search, step 161: value: 1953, size: 963, quantity: 64
+			Items added: ID = 66	Size = 28 	Value = 19 	 
+			Items removed: ID = 78	Size = 46 	Value = 19 	
+		Local search, step 162: value: 1955, size: 982, quantity: 66
+			Items added: ID = 109	Size = 10 	Value = 2 	,ID = 5	Size = 9 	Value = 0 	 
+			Items removed: 
+		Local search, step 163: value: 1956, size: 981, quantity: 66
+			Items added: ID = 81	Size = 27 	Value = 20 	 
+			Items removed: ID = 66	Size = 28 	Value = 19 	
+		Local search, step 164: value: 1956, size: 980, quantity: 66
+			Items added: ID = 43	Size = 9 	Value = 2 	 
+			Items removed: ID = 109	Size = 10 	Value = 2 	
+		Local search, step 165: value: 1957, size: 982, quantity: 66
+			Items added: ID = 85	Size = 8 	Value = 10 	 
+			Items removed: ID = 6	Size = 6 	Value = 9 	
+		Local search, step 166: value: 1960, size: 982, quantity: 66
+			Items added: ID = 6	Size = 6 	Value = 9 	 
+			Items removed: ID = 36	Size = 6 	Value = 6 	
+		Local search, step 167: value: 1966, size: 979, quantity: 66
+			Items added: ID = 36	Size = 6 	Value = 6 	 
+			Items removed: ID = 5	Size = 9 	Value = 0 	
+		Local search, step 168: value: 1968, size: 977, quantity: 66
+			Items added: ID = 46	Size = 25 	Value = 22 	 
+			Items removed: ID = 81	Size = 27 	Value = 20 	
+		Local search, step 169: value: 1969, size: 981, quantity: 66
+			Items added: ID = 65	Size = 29 	Value = 27 	 
+			Items removed: ID = 7	Size = 25 	Value = 26 	
+		Local search, step 170: value: 1969, size: 980, quantity: 66
+			Items added: ID = 14	Size = 8 	Value = 2 	 
+			Items removed: ID = 43	Size = 9 	Value = 2 	
+		Local search, step 171: value: 1971, size: 980, quantity: 66
+			Items added: ID = 37	Size = 25 	Value = 24 	 
+			Items removed: ID = 46	Size = 25 	Value = 22 	
+		Local search, step 172: value: 1973, size: 980, quantity: 66
+			Items added: ID = 7	Size = 25 	Value = 26 	 
+			Items removed: ID = 37	Size = 25 	Value = 24 	
+		Local search, step 173: value: 1974, size: 982, quantity: 64
+			Items added: ID = 98	Size = 21 	Value = 17 	 
+			Items removed: ID = 30	Size = 5 	Value = 8 	,ID = 36	Size = 6 	Value = 6 	,ID = 14	Size = 8 	Value = 2 	
+		Local search, step 174: value: 1974, size: 981, quantity: 64
+			Items added: ID = 30	Size = 5 	Value = 8 	,ID = 28	Size = 43 	Value = 35 	 
+			Items removed: ID = 59	Size = 34 	Value = 29 	,ID = 82	Size = 15 	Value = 14 	
+		Local search, step 175: value: 1978, size: 980, quantity: 64
+			Items added: ID = 20	Size = 42 	Value = 39 	 
+			Items removed: ID = 28	Size = 43 	Value = 35 	
+		Local search, step 176: value: 1979, size: 982, quantity: 64
+			Items added: ID = 82	Size = 15 	Value = 14 	,ID = 94	Size = 25 	Value = 26 	 
+			Items removed: ID = 34	Size = 33 	Value = 31 	,ID = 30	Size = 5 	Value = 8 	
+		Local search, step 177: value: 1980, size: 980, quantity: 64
+			Items added: ID = 30	Size = 5 	Value = 8 	,ID = 46	Size = 25 	Value = 22 	 
+			Items removed: ID = 92	Size = 11 	Value = 12 	,ID = 98	Size = 21 	Value = 17 	
+		Local search, step 178: value: 1982, size: 980, quantity: 64
+			Items added: ID = 37	Size = 25 	Value = 24 	 
+			Items removed: ID = 46	Size = 25 	Value = 22 	
+		Local search, step 179: value: 1982, size: 979, quantity: 64
+			Items added: ID = 92	Size = 11 	Value = 12 	,ID = 34	Size = 33 	Value = 31 	 
+			Items removed: ID = 113	Size = 30 	Value = 29 	,ID = 82	Size = 15 	Value = 14 	
+		Local search, step 180: value: 1984, size: 980, quantity: 64
+			Items added: ID = 113	Size = 30 	Value = 29 	 
+			Items removed: ID = 65	Size = 29 	Value = 27 	
+	res: 1984
+
+	Cycle: 2 out of: 2
+		initial value: 0
+		Local search, step 1: value: 57, size: 68, quantity: 2
+			Items added: ID = 107	Size = 35 	Value = 37 	,ID = 49	Size = 33 	Value = 20 	 
+			Items removed: 
+		Local search, step 2: value: 115, size: 128, quantity: 4
+			Items added: ID = 56	Size = 43 	Value = 26 	,ID = 116	Size = 17 	Value = 32 	 
+			Items removed: 
+		Local search, step 3: value: 176, size: 186, quantity: 6
+			Items added: ID = 18	Size = 15 	Value = 26 	,ID = 28	Size = 43 	Value = 35 	 
+			Items removed: 
+		Local search, step 4: value: 198, size: 237, quantity: 8
+			Items added: ID = 118	Size = 41 	Value = 6 	,ID = 95	Size = 10 	Value = 16 	 
+			Items removed: 
+		Local search, step 5: value: 233, size: 314, quantity: 10
+			Items added: ID = 3	Size = 44 	Value = 4 	,ID = 34	Size = 33 	Value = 31 	 
+			Items removed: 
+		Local search, step 6: value: 296, size: 362, quantity: 12
+			Items added: ID = 57	Size = 41 	Value = 43 	,ID = 12	Size = 7 	Value = 20 	 
+			Items removed: 
+		Local search, step 7: value: 337, size: 411, quantity: 14
+			Items added: ID = 60	Size = 26 	Value = 4 	,ID = 27	Size = 23 	Value = 37 	 
+			Items removed: 
+		Local search, step 8: value: 360, size: 456, quantity: 16
+			Items added: ID = 48	Size = 42 	Value = 14 	,ID = 80	Size = 3 	Value = 9 	 
+			Items removed: 
+		Local search, step 9: value: 437, size: 503, quantity: 18
+			Items added: ID = 54	Size = 12 	Value = 44 	,ID = 62	Size = 35 	Value = 33 	 
+			Items removed: 
+		Local search, step 10: value: 455, size: 581, quantity: 20
+			Items added: ID = 23	Size = 41 	Value = 4 	,ID = 72	Size = 37 	Value = 14 	 
+			Items removed: 
+		Local search, step 11: value: 496, size: 644, quantity: 22
+			Items added: ID = 47	Size = 27 	Value = 34 	,ID = 1	Size = 36 	Value = 7 	 
+			Items removed: 
+		Local search, step 12: value: 556, size: 707, quantity: 24
+			Items added: ID = 10	Size = 17 	Value = 42 	,ID = 42	Size = 46 	Value = 18 	 
+			Items removed: 
+		Local search, step 13: value: 604, size: 755, quantity: 26
+			Items added: ID = 73	Size = 29 	Value = 45 	,ID = 51	Size = 19 	Value = 3 	 
+			Items removed: 
+		Local search, step 14: value: 654, size: 775, quantity: 28
+			Items added: ID = 90	Size = 4 	Value = 12 	,ID = 79	Size = 16 	Value = 38 	 
+			Items removed: 
+		Local search, step 15: value: 697, size: 824, quantity: 30
+			Items added: ID = 86	Size = 31 	Value = 1 	,ID = 101	Size = 18 	Value = 42 	 
+			Items removed: 
+		Local search, step 16: value: 731, size: 887, quantity: 32
+			Items added: ID = 71	Size = 38 	Value = 8 	,ID = 7	Size = 25 	Value = 26 	 
+			Items removed: 
+		Local search, step 17: value: 767, size: 916, quantity: 34
+			Items added: ID = 75	Size = 27 	Value = 16 	,ID = 29	Size = 2 	Value = 20 	 
+			Items removed: 
+		Local search, step 18: value: 827, size: 961, quantity: 36
+			Items added: ID = 115	Size = 4 	Value = 43 	,ID = 2	Size = 41 	Value = 17 	 
+			Items removed: 
+		Local search, step 19: value: 867, size: 976, quantity: 38
+			Items added: ID = 85	Size = 8 	Value = 10 	,ID = 108	Size = 7 	Value = 30 	 
+			Items removed: 
+		Local search, step 20: value: 909, size: 978, quantity: 40
+			Items added: ID = 83	Size = 1 	Value = 24 	,ID = 41	Size = 1 	Value = 18 	 
+			Items removed: 
+		Local search, step 21: value: 989, size: 980, quantity: 42
+			Items added: ID = 32	Size = 1 	Value = 34 	,ID = 11	Size = 1 	Value = 46 	 
+			Items removed: 
+		Local search, step 22: value: 1030, size: 982, quantity: 44
+			Items added: ID = 104	Size = 1 	Value = 17 	,ID = 93	Size = 1 	Value = 24 	 
+			Items removed: 
+		Local search, step 23: value: 1038, size: 954, quantity: 44
+			Items added: ID = 117	Size = 7 	Value = 45 	 
+			Items removed: ID = 107	Size = 35 	Value = 37 	
+		Local search, step 24: value: 1079, size: 982, quantity: 46
+			Items added: ID = 50	Size = 24 	Value = 17 	,ID = 87	Size = 4 	Value = 24 	 
+			Items removed: 
+		Local search, step 25: value: 1089, size: 977, quantity: 46
+			Items added: ID = 74	Size = 28 	Value = 30 	 
+			Items removed: ID = 49	Size = 33 	Value = 20 	
+		Local search, step 26: value: 1167, size: 981, quantity: 48
+			Items added: ID = 25	Size = 3 	Value = 45 	,ID = 21	Size = 1 	Value = 33 	 
+			Items removed: 
+		Local search, step 27: value: 1174, size: 982, quantity: 48
+			Items added: ID = 31	Size = 44 	Value = 33 	 
+			Items removed: ID = 56	Size = 43 	Value = 26 	
+		Local search, step 28: value: 1178, size: 977, quantity: 48
+			Items added: ID = 35	Size = 12 	Value = 36 	 
+			Items removed: ID = 116	Size = 17 	Value = 32 	
+		Local search, step 29: value: 1183, size: 970, quantity: 48
+			Items added: ID = 22	Size = 8 	Value = 31 	 
+			Items removed: ID = 18	Size = 15 	Value = 26 	
+		Local search, step 30: value: 1252, size: 981, quantity: 50
+			Items added: ID = 44	Size = 6 	Value = 33 	,ID = 105	Size = 5 	Value = 36 	 
+			Items removed: 
+		Local search, step 31: value: 1254, size: 973, quantity: 50
+			Items added: ID = 107	Size = 35 	Value = 37 	 
+			Items removed: ID = 28	Size = 43 	Value = 35 	
+		Local search, step 32: value: 1305, size: 981, quantity: 52
+			Items added: ID = 30	Size = 5 	Value = 8 	,ID = 91	Size = 3 	Value = 43 	 
+			Items removed: 
+		Local search, step 33: value: 1315, size: 975, quantity: 52
+			Items added: ID = 4	Size = 35 	Value = 16 	 
+			Items removed: ID = 118	Size = 41 	Value = 6 	
+		Local search, step 34: value: 1325, size: 980, quantity: 52
+			Items added: ID = 18	Size = 15 	Value = 26 	 
+			Items removed: ID = 95	Size = 10 	Value = 16 	
+		Local search, step 35: value: 1327, size: 977, quantity: 52
+			Items added: ID = 118	Size = 41 	Value = 6 	 
+			Items removed: ID = 3	Size = 44 	Value = 4 	
+		Local search, step 36: value: 1328, size: 972, quantity: 52
+			Items added: ID = 84	Size = 28 	Value = 32 	 
+			Items removed: ID = 34	Size = 33 	Value = 31 	
+		Local search, step 37: value: 1328, size: 966, quantity: 52
+			Items added: ID = 68	Size = 35 	Value = 43 	 
+			Items removed: ID = 57	Size = 41 	Value = 43 	
+		Local search, step 38: value: 1353, size: 982, quantity: 54
+			Items added: ID = 95	Size = 10 	Value = 16 	,ID = 6	Size = 6 	Value = 9 	 
+			Items removed: 
+		Local search, step 39: value: 1375, size: 981, quantity: 54
+			Items added: ID = 94	Size = 25 	Value = 26 	 
+			Items removed: ID = 60	Size = 26 	Value = 4 	
+		Local search, step 40: value: 1379, size: 982, quantity: 54
+			Items added: ID = 33	Size = 8 	Value = 24 	 
+			Items removed: ID = 12	Size = 7 	Value = 20 	
+		Local search, step 41: value: 1384, size: 980, quantity: 54
+			Items added: ID = 119	Size = 21 	Value = 42 	 
+			Items removed: ID = 27	Size = 23 	Value = 37 	
+		Local search, step 42: value: 1384, size: 979, quantity: 54
+			Items added: ID = 38	Size = 41 	Value = 14 	 
+			Items removed: ID = 48	Size = 42 	Value = 14 	
+		Local search, step 43: value: 1388, size: 971, quantity: 54
+			Items added: ID = 64	Size = 27 	Value = 37 	 
+			Items removed: ID = 62	Size = 35 	Value = 33 	
+		Local search, step 44: value: 1415, size: 982, quantity: 54
+			Items added: ID = 26	Size = 14 	Value = 36 	 
+			Items removed: ID = 80	Size = 3 	Value = 9 	
+		Local search, step 45: value: 1431, size: 974, quantity: 54
+			Items added: ID = 49	Size = 33 	Value = 20 	 
+			Items removed: ID = 23	Size = 41 	Value = 4 	
+		Local search, step 46: value: 1433, size: 980, quantity: 54
+			Items added: ID = 61	Size = 18 	Value = 46 	 
+			Items removed: ID = 54	Size = 12 	Value = 44 	
+		Local search, step 47: value: 1450, size: 976, quantity: 54
+			Items added: ID = 34	Size = 33 	Value = 31 	 
+			Items removed: ID = 72	Size = 37 	Value = 14 	
+		Local search, step 48: value: 1453, size: 972, quantity: 54
+			Items added: ID = 27	Size = 23 	Value = 37 	 
+			Items removed: ID = 47	Size = 27 	Value = 34 	
+		Local search, step 49: value: 1482, size: 982, quantity: 56
+			Items added: ID = 80	Size = 3 	Value = 9 	,ID = 12	Size = 7 	Value = 20 	 
+			Items removed: 
+		Local search, step 50: value: 1482, size: 972, quantity: 56
+			Items added: ID = 40	Size = 26 	Value = 7 	 
+			Items removed: ID = 1	Size = 36 	Value = 7 	
+		Local search, step 51: value: 1482, size: 966, quantity: 56
+			Items added: ID = 106	Size = 11 	Value = 42 	 
+			Items removed: ID = 10	Size = 17 	Value = 42 	
+		Local search, step 52: value: 1490, size: 982, quantity: 58
+			Items added: ID = 109	Size = 10 	Value = 2 	,ID = 36	Size = 6 	Value = 6 	 
+			Items removed: 
+		Local search, step 53: value: 1498, size: 979, quantity: 58
+			Items added: ID = 56	Size = 43 	Value = 26 	 
+			Items removed: ID = 42	Size = 46 	Value = 18 	
+		Local search, step 54: value: 1527, size: 977, quantity: 58
+			Items added: ID = 116	Size = 17 	Value = 32 	 
+			Items removed: ID = 51	Size = 19 	Value = 3 	
+		Local search, step 55: value: 1535, size: 982, quantity: 58
+			Items added: ID = 89	Size = 9 	Value = 20 	 
+			Items removed: ID = 90	Size = 4 	Value = 12 	
+		Local search, step 56: value: 1541, size: 978, quantity: 58
+			Items added: ID = 54	Size = 12 	Value = 44 	 
+			Items removed: ID = 79	Size = 16 	Value = 38 	
+		Local search, step 57: value: 1544, size: 973, quantity: 58
+			Items added: ID = 60	Size = 26 	Value = 4 	 
+			Items removed: ID = 86	Size = 31 	Value = 1 	
+		Local search, step 58: value: 1544, size: 972, quantity: 58
+			Items added: ID = 10	Size = 17 	Value = 42 	 
+			Items removed: ID = 101	Size = 18 	Value = 42 	
+		Local search, step 59: value: 1550, size: 976, quantity: 58
+			Items added: ID = 48	Size = 42 	Value = 14 	 
+			Items removed: ID = 71	Size = 38 	Value = 8 	
+		Local search, step 60: value: 1558, size: 978, quantity: 58
+			Items added: ID = 47	Size = 27 	Value = 34 	 
+			Items removed: ID = 7	Size = 25 	Value = 26 	
+		Local search, step 61: value: 1568, size: 976, quantity: 58
+			Items added: ID = 7	Size = 25 	Value = 26 	 
+			Items removed: ID = 75	Size = 27 	Value = 16 	
+		Local search, step 62: value: 1573, size: 982, quantity: 58
+			Items added: ID = 58	Size = 8 	Value = 25 	 
+			Items removed: ID = 29	Size = 2 	Value = 20 	
+		Local search, step 63: value: 1585, size: 975, quantity: 58
+			Items added: ID = 59	Size = 34 	Value = 29 	 
+			Items removed: ID = 2	Size = 41 	Value = 17 	
+		Local search, step 64: value: 1617, size: 981, quantity: 60
+			Items added: ID = 90	Size = 4 	Value = 12 	,ID = 29	Size = 2 	Value = 20 	 
+			Items removed: 
+		Local search, step 65: value: 1636, size: 970, quantity: 60
+			Items added: ID = 13	Size = 13 	Value = 36 	 
+			Items removed: ID = 50	Size = 24 	Value = 17 	
+		Local search, step 66: value: 1640, size: 977, quantity: 60
+			Items added: ID = 82	Size = 15 	Value = 14 	 
+			Items removed: ID = 85	Size = 8 	Value = 10 	
+		Local search, step 67: value: 1640, size: 960, quantity: 60
+			Items added: ID = 63	Size = 11 	Value = 30 	 
+			Items removed: ID = 74	Size = 28 	Value = 30 	
+		Local search, step 68: value: 1659, size: 982, quantity: 62
+			Items added: ID = 85	Size = 8 	Value = 10 	,ID = 88	Size = 14 	Value = 9 	 
+			Items removed: 
+		Local search, step 69: value: 1661, size: 981, quantity: 62
+			Items added: ID = 28	Size = 43 	Value = 35 	 
+			Items removed: ID = 31	Size = 44 	Value = 33 	
+		Local search, step 70: value: 1668, size: 978, quantity: 62
+			Items added: ID = 0	Size = 32 	Value = 44 	 
+			Items removed: ID = 107	Size = 35 	Value = 37 	
+		Local search, step 71: value: 1670, size: 982, quantity: 62
+			Items added: ID = 79	Size = 16 	Value = 38 	 
+			Items removed: ID = 35	Size = 12 	Value = 36 	
+		Local search, step 72: value: 1687, size: 982, quantity: 62
+			Items added: ID = 62	Size = 35 	Value = 33 	 
+			Items removed: ID = 4	Size = 35 	Value = 16 	
+		Local search, step 73: value: 1697, size: 979, quantity: 62
+			Items added: ID = 35	Size = 12 	Value = 36 	 
+			Items removed: ID = 18	Size = 15 	Value = 26 	
+		Local search, step 74: value: 1699, size: 976, quantity: 62
+			Items added: ID = 71	Size = 38 	Value = 8 	 
+			Items removed: ID = 118	Size = 41 	Value = 6 	
+		Local search, step 75: value: 1703, size: 982, quantity: 62
+			Items added: ID = 92	Size = 11 	Value = 12 	 
+			Items removed: ID = 30	Size = 5 	Value = 8 	
+		Local search, step 76: value: 1709, size: 976, quantity: 62
+			Items added: ID = 112	Size = 22 	Value = 38 	 
+			Items removed: ID = 84	Size = 28 	Value = 32 	
+		Local search, step 77: value: 1716, size: 981, quantity: 62
+			Items added: ID = 110	Size = 15 	Value = 23 	 
+			Items removed: ID = 95	Size = 10 	Value = 16 	
+		Local search, step 78: value: 1723, size: 974, quantity: 62
+			Items added: ID = 114	Size = 18 	Value = 33 	 
+			Items removed: ID = 94	Size = 25 	Value = 26 	
+		Local search, step 79: value: 1730, size: 978, quantity: 62
+			Items added: ID = 95	Size = 10 	Value = 16 	 
+			Items removed: ID = 6	Size = 6 	Value = 9 	
+		Local search, step 80: value: 1730, size: 975, quantity: 62
+			Items added: ID = 101	Size = 18 	Value = 42 	 
+			Items removed: ID = 119	Size = 21 	Value = 42 	
+		Local search, step 81: value: 1732, size: 982, quantity: 62
+			Items added: ID = 18	Size = 15 	Value = 26 	 
+			Items removed: ID = 33	Size = 8 	Value = 24 	
+		Local search, step 82: value: 1732, size: 978, quantity: 62
+			Items added: ID = 72	Size = 37 	Value = 14 	 
+			Items removed: ID = 38	Size = 41 	Value = 14 	
+		Local search, step 83: value: 1737, size: 972, quantity: 62
+			Items added: ID = 119	Size = 21 	Value = 42 	 
+			Items removed: ID = 64	Size = 27 	Value = 37 	
+		Local search, step 84: value: 1743, size: 979, quantity: 62
+			Items added: ID = 33	Size = 8 	Value = 24 	 
+			Items removed: ID = 41	Size = 1 	Value = 18 	
+		Local search, step 85: value: 1744, size: 979, quantity: 62
+			Items added: ID = 41	Size = 1 	Value = 18 	 
+			Items removed: ID = 104	Size = 1 	Value = 17 	
+		Local search, step 86: value: 1749, size: 978, quantity: 62
+			Items added: ID = 103	Size = 32 	Value = 25 	 
+			Items removed: ID = 49	Size = 33 	Value = 20 	
+		Local search, step 87: value: 1755, size: 980, quantity: 62
+			Items added: ID = 107	Size = 35 	Value = 37 	 
+			Items removed: ID = 34	Size = 33 	Value = 31 	
+		Local search, step 88: value: 1758, size: 981, quantity: 62
+			Items added: ID = 17	Size = 24 	Value = 40 	 
+			Items removed: ID = 27	Size = 23 	Value = 37 	
+		Local search, step 89: value: 1766, size: 979, quantity: 62
+			Items added: ID = 104	Size = 1 	Value = 17 	 
+			Items removed: ID = 80	Size = 3 	Value = 9 	
+		Local search, step 90: value: 1774, size: 975, quantity: 62
+			Items added: ID = 102	Size = 22 	Value = 15 	 
+			Items removed: ID = 40	Size = 26 	Value = 7 	
+		Local search, step 91: value: 1781, size: 971, quantity: 62
+			Items added: ID = 6	Size = 6 	Value = 9 	 
+			Items removed: ID = 109	Size = 10 	Value = 2 	
+		Local search, step 92: value: 1798, size: 979, quantity: 64
+			Items added: ID = 30	Size = 5 	Value = 8 	,ID = 80	Size = 3 	Value = 9 	 
+			Items removed: 
+		Local search, step 93: value: 1805, size: 980, quantity: 64
+			Items added: ID = 31	Size = 44 	Value = 33 	 
+			Items removed: ID = 56	Size = 43 	Value = 26 	
+		Local search, step 94: value: 1808, size: 980, quantity: 64
+			Items added: ID = 40	Size = 26 	Value = 7 	 
+			Items removed: ID = 60	Size = 26 	Value = 4 	
+		Local search, step 95: value: 1808, size: 979, quantity: 64
+			Items added: ID = 38	Size = 41 	Value = 14 	 
+			Items removed: ID = 48	Size = 42 	Value = 14 	
+		Local search, step 96: value: 1811, size: 979, quantity: 64
+			Items added: ID = 64	Size = 27 	Value = 37 	 
+			Items removed: ID = 47	Size = 27 	Value = 34 	
+		Local search, step 97: value: 1815, size: 982, quantity: 64
+			Items added: ID = 74	Size = 28 	Value = 30 	 
+			Items removed: ID = 7	Size = 25 	Value = 26 	
+		Local search, step 98: value: 1817, size: 981, quantity: 64
+			Items added: ID = 34	Size = 33 	Value = 31 	 
+			Items removed: ID = 59	Size = 34 	Value = 29 	
+		Local search, step 99: value: 1824, size: 982, quantity: 64
+			Items added: ID = 15	Size = 16 	Value = 21 	 
+			Items removed: ID = 82	Size = 15 	Value = 14 	
+		Local search, step 100: value: 1828, size: 981, quantity: 64
+			Items added: ID = 20	Size = 42 	Value = 39 	 
+			Items removed: ID = 28	Size = 43 	Value = 35 	
+		Local search, step 101: value: 1833, size: 982, quantity: 64
+			Items added: ID = 82	Size = 15 	Value = 14 	 
+			Items removed: ID = 88	Size = 14 	Value = 9 	
+		Local search, step 102: value: 1834, size: 974, quantity: 64
+			Items added: ID = 47	Size = 27 	Value = 34 	 
+			Items removed: ID = 62	Size = 35 	Value = 33 	
+		Local search, step 103: value: 1837, size: 982, quantity: 64
+			Items added: ID = 88	Size = 14 	Value = 9 	 
+			Items removed: ID = 36	Size = 6 	Value = 6 	
+		Local search, step 104: value: 1845, size: 979, quantity: 64
+			Items added: ID = 4	Size = 35 	Value = 16 	 
+			Items removed: ID = 71	Size = 38 	Value = 8 	
+		Local search, step 105: value: 1853, size: 981, quantity: 64
+			Items added: ID = 39	Size = 39 	Value = 22 	 
+			Items removed: ID = 72	Size = 37 	Value = 14 	
+		Local search, step 106: value: 1854, size: 974, quantity: 64
+			Items added: ID = 7	Size = 25 	Value = 26 	 
+			Items removed: ID = 103	Size = 32 	Value = 25 	
+		Local search, step 107: value: 1859, size: 980, quantity: 64
+			Items added: ID = 27	Size = 23 	Value = 37 	 
+			Items removed: ID = 116	Size = 17 	Value = 32 	
+		Local search, step 108: value: 1868, size: 982, quantity: 64
+			Items added: ID = 116	Size = 17 	Value = 32 	 
+			Items removed: ID = 110	Size = 15 	Value = 23 	
+		Local search, step 109: value: 1870, size: 981, quantity: 64
+			Items added: ID = 98	Size = 21 	Value = 17 	 
+			Items removed: ID = 102	Size = 22 	Value = 15 	
+		Local search, step 110: value: 1872, size: 980, quantity: 64
+			Items added: ID = 28	Size = 43 	Value = 35 	 
+			Items removed: ID = 31	Size = 44 	Value = 33 	
+		Local search, step 111: value: 1881, size: 981, quantity: 64
+			Items added: ID = 75	Size = 27 	Value = 16 	 
+			Items removed: ID = 40	Size = 26 	Value = 7 	
+		Local search, step 112: value: 1884, size: 981, quantity: 64
+			Items added: ID = 2	Size = 41 	Value = 17 	 
+			Items removed: ID = 38	Size = 41 	Value = 14 	
+		Local search, step 113: value: 1886, size: 981, quantity: 64
+			Items added: ID = 84	Size = 28 	Value = 32 	 
+			Items removed: ID = 74	Size = 28 	Value = 30 	
+		Local search, step 114: value: 1888, size: 980, quantity: 64
+			Items added: ID = 110	Size = 15 	Value = 23 	 
+			Items removed: ID = 15	Size = 16 	Value = 21 	
+		Local search, step 115: value: 1890, size: 982, quantity: 64
+			Items added: ID = 62	Size = 35 	Value = 33 	 
+			Items removed: ID = 34	Size = 33 	Value = 31 	
+		Local search, step 116: value: 1894, size: 981, quantity: 64
+			Items added: ID = 57	Size = 41 	Value = 43 	 
+			Items removed: ID = 20	Size = 42 	Value = 39 	
+		Local search, step 117: value: 1901, size: 982, quantity: 64
+			Items added: ID = 15	Size = 16 	Value = 21 	 
+			Items removed: ID = 82	Size = 15 	Value = 14 	
+		Local search, step 118: value: 1902, size: 971, quantity: 64
+			Items added: ID = 50	Size = 24 	Value = 17 	 
+			Items removed: ID = 4	Size = 35 	Value = 16 	
+		Local search, step 119: value: 1904, size: 982, quantity: 64
+			Items added: ID = 82	Size = 15 	Value = 14 	 
+			Items removed: ID = 90	Size = 4 	Value = 12 	
+		Local search, step 120: value: 1906, size: 978, quantity: 64
+			Items added: ID = 90	Size = 4 	Value = 12 	 
+			Items removed: ID = 85	Size = 8 	Value = 10 	
+		Local search, step 121: value: 1907, size: 980, quantity: 64
+			Items added: ID = 85	Size = 8 	Value = 10 	 
+			Items removed: ID = 6	Size = 6 	Value = 9 	
+		Local search, step 122: value: 1908, size: 981, quantity: 64
+			Items added: ID = 6	Size = 6 	Value = 9 	 
+			Items removed: ID = 30	Size = 5 	Value = 8 	
+		Local search, step 123: value: 1911, size: 974, quantity: 64
+			Items added: ID = 103	Size = 32 	Value = 25 	 
+			Items removed: ID = 39	Size = 39 	Value = 22 	
+		Local search, step 124: value: 1913, size: 981, quantity: 64
+			Items added: ID = 20	Size = 42 	Value = 39 	 
+			Items removed: ID = 107	Size = 35 	Value = 37 	
+		Local search, step 125: value: 1915, size: 973, quantity: 64
+			Items added: ID = 107	Size = 35 	Value = 37 	 
+			Items removed: ID = 28	Size = 43 	Value = 35 	
+		Local search, step 126: value: 1917, size: 981, quantity: 64
+			Items added: ID = 24	Size = 35 	Value = 36 	 
+			Items removed: ID = 47	Size = 27 	Value = 34 	
+		Local search, step 127: value: 1931, size: 982, quantity: 64
+			Items added: ID = 74	Size = 28 	Value = 30 	 
+			Items removed: ID = 75	Size = 27 	Value = 16 	
+		Local search, step 128: value: 1946, size: 982, quantity: 64
+			Items added: ID = 69	Size = 41 	Value = 32 	 
+			Items removed: ID = 2	Size = 41 	Value = 17 	
+		Local search, step 129: value: 1948, size: 981, quantity: 64
+			Items added: ID = 47	Size = 27 	Value = 34 	 
+			Items removed: ID = 84	Size = 28 	Value = 32 	
+		Local search, step 130: value: 1957, size: 982, quantity: 64
+			Items added: ID = 94	Size = 25 	Value = 26 	 
+			Items removed: ID = 50	Size = 24 	Value = 17 	
+		Local search, step 131: value: 1961, size: 980, quantity: 64
+			Items added: ID = 113	Size = 30 	Value = 29 	 
+			Items removed: ID = 103	Size = 32 	Value = 25 	
+		Local search, step 132: value: 1963, size: 980, quantity: 64
+			Items added: ID = 84	Size = 28 	Value = 32 	 
+			Items removed: ID = 74	Size = 28 	Value = 30 	
+		Local search, step 133: value: 1966, size: 982, quantity: 64
+			Items added: ID = 28	Size = 43 	Value = 35 	 
+			Items removed: ID = 69	Size = 41 	Value = 32 	
+		Local search, step 134: value: 1967, size: 980, quantity: 64
+			Items added: ID = 74	Size = 28 	Value = 30 	 
+			Items removed: ID = 113	Size = 30 	Value = 29 	
+		Local search, step 135: value: 1968, size: 982, quantity: 62
+			Items added: ID = 34	Size = 33 	Value = 31 	 
+			Items removed: ID = 92	Size = 11 	Value = 12 	,ID = 88	Size = 14 	Value = 9 	,ID = 6	Size = 6 	Value = 9 	
+		Local search, step 136: value: 1969, size: 977, quantity: 62
+			Items added: ID = 59	Size = 34 	Value = 29 	,ID = 37	Size = 25 	Value = 24 	 
+			Items removed: ID = 98	Size = 21 	Value = 17 	,ID = 28	Size = 43 	Value = 35 	
+		Local search, step 137: value: 1972, size: 982, quantity: 62
+			Items added: ID = 113	Size = 30 	Value = 29 	 
+			Items removed: ID = 7	Size = 25 	Value = 26 	
+		Local search, step 138: value: 1974, size: 982, quantity: 62
+			Items added: ID = 7	Size = 25 	Value = 26 	 
+			Items removed: ID = 37	Size = 25 	Value = 24 	
+		Local search, step 139: value: 1975, size: 982, quantity: 62
+			Items added: ID = 28	Size = 43 	Value = 35 	,ID = 6	Size = 6 	Value = 9 	 
+			Items removed: ID = 82	Size = 15 	Value = 14 	,ID = 59	Size = 34 	Value = 29 	
+		Local search, step 140: value: 1976, size: 981, quantity: 62
+			Items added: ID = 46	Size = 25 	Value = 22 	,ID = 37	Size = 25 	Value = 24 	 
+			Items removed: ID = 85	Size = 8 	Value = 10 	,ID = 28	Size = 43 	Value = 35 	
+	res: 1976
+
+@@@@@@@ try #2: Now using local search:
+	InitializeGreedily
+	NeighborhoodGenerators: AddTwo,OnePerOne,ThreePerOne,TwoPerTow,OnePerThree
+	ChooseFirst
+	SortWithComparer(CompareItemsByDensity)
+	Cycle: 1 out of: 1
+		initial value: 1982
+		Local search, step 1: value: 1984, size: 980, quantity: 64
+			Items added: ID = 20	Size = 42 	Value = 39 	 
+			Items removed: ID = 36	Size = 6 	Value = 6 	,ID = 82	Size = 15 	Value = 14 	,ID = 98	Size = 21 	Value = 17 	
+	res: 1984
+
+
+------------Summary------------
+best result is: value: 1984, size: 980, quantity: 64
+Fractional greedy returned: 1986.41379310345
+bag's Max Capacity: 982
+Local search used: 
+	 InitializeEmpty
+	NeighborhoodGenerators: AddTwo,OnePerOne,ThreePerOne,TwoPerTow,OnePerThree
+	ChooseFirst
+	ShuffleSortingPolicy
+input file name: mmcn4jai.hsm
+
+###################################
+Items that were chosen:
+ID = 106	Size = 11 	Value = 42 	
+ID = 54	Size = 12 	Value = 44 	
+ID = 11	Size = 1 	Value = 46 	
+ID = 21	Size = 1 	Value = 33 	
+ID = 91	Size = 3 	Value = 43 	
+ID = 93	Size = 1 	Value = 24 	
+ID = 115	Size = 4 	Value = 43 	
+ID = 61	Size = 18 	Value = 46 	
+ID = 25	Size = 3 	Value = 45 	
+ID = 32	Size = 1 	Value = 34 	
+ID = 105	Size = 5 	Value = 36 	
+ID = 0	Size = 32 	Value = 44 	
+ID = 117	Size = 7 	Value = 45 	
+ID = 73	Size = 29 	Value = 45 	
+ID = 101	Size = 18 	Value = 42 	
+ID = 79	Size = 16 	Value = 38 	
+ID = 33	Size = 8 	Value = 24 	
+ID = 22	Size = 8 	Value = 31 	
+ID = 108	Size = 7 	Value = 30 	
+ID = 119	Size = 21 	Value = 42 	
+ID = 58	Size = 8 	Value = 25 	
+ID = 83	Size = 1 	Value = 24 	
+ID = 41	Size = 1 	Value = 18 	
+ID = 104	Size = 1 	Value = 17 	
+ID = 10	Size = 17 	Value = 42 	
+ID = 35	Size = 12 	Value = 36 	
+ID = 44	Size = 6 	Value = 33 	
+ID = 80	Size = 3 	Value = 9 	
+ID = 68	Size = 35 	Value = 43 	
+ID = 63	Size = 11 	Value = 30 	
+ID = 87	Size = 4 	Value = 24 	
+ID = 29	Size = 2 	Value = 20 	
+ID = 17	Size = 24 	Value = 40 	
+ID = 57	Size = 41 	Value = 43 	
+ID = 13	Size = 13 	Value = 36 	
+ID = 26	Size = 14 	Value = 36 	
+ID = 18	Size = 15 	Value = 26 	
+ID = 90	Size = 4 	Value = 12 	
+ID = 116	Size = 17 	Value = 32 	
+ID = 107	Size = 35 	Value = 37 	
+ID = 89	Size = 9 	Value = 20 	
+ID = 24	Size = 35 	Value = 36 	
+ID = 114	Size = 18 	Value = 33 	
+ID = 27	Size = 23 	Value = 37 	
+ID = 64	Size = 27 	Value = 37 	
+ID = 112	Size = 22 	Value = 38 	
+ID = 110	Size = 15 	Value = 23 	
+ID = 47	Size = 27 	Value = 34 	
+ID = 84	Size = 28 	Value = 32 	
+ID = 15	Size = 16 	Value = 21 	
+ID = 12	Size = 7 	Value = 20 	
+ID = 95	Size = 10 	Value = 16 	
+ID = 74	Size = 28 	Value = 30 	
+ID = 62	Size = 35 	Value = 33 	
+ID = 85	Size = 8 	Value = 10 	
+ID = 6	Size = 6 	Value = 9 	
+ID = 7	Size = 25 	Value = 26 	
+ID = 20	Size = 42 	Value = 39 	
+ID = 94	Size = 25 	Value = 26 	
+ID = 30	Size = 5 	Value = 8 	
+ID = 37	Size = 25 	Value = 24 	
+ID = 92	Size = 11 	Value = 12 	
+ID = 34	Size = 33 	Value = 31 	
+ID = 113	Size = 30 	Value = 29 	
+**************************************
+Items that were NOT chosen:
+ID = 3	Size = 44 	Value = 4 	
+ID = 118	Size = 41 	Value = 6 	
+ID = 23	Size = 41 	Value = 4 	
+ID = 42	Size = 46 	Value = 18 	
+ID = 111	Size = 46 	Value = 1 	
+ID = 48	Size = 42 	Value = 14 	
+ID = 86	Size = 31 	Value = 1 	
+ID = 56	Size = 43 	Value = 26 	
+ID = 1	Size = 36 	Value = 7 	
+ID = 38	Size = 41 	Value = 14 	
+ID = 78	Size = 46 	Value = 19 	
+ID = 51	Size = 19 	Value = 3 	
+ID = 72	Size = 37 	Value = 14 	
+ID = 2	Size = 41 	Value = 17 	
+ID = 8	Size = 16 	Value = 2 	
+ID = 71	Size = 38 	Value = 8 	
+ID = 60	Size = 26 	Value = 4 	
+ID = 67	Size = 45 	Value = 9 	
+ID = 76	Size = 27 	Value = 3 	
+ID = 45	Size = 43 	Value = 25 	
+ID = 40	Size = 26 	Value = 7 	
+ID = 4	Size = 35 	Value = 16 	
+ID = 77	Size = 41 	Value = 18 	
+ID = 9	Size = 38 	Value = 20 	
+ID = 109	Size = 10 	Value = 2 	
+ID = 70	Size = 26 	Value = 1 	
+ID = 102	Size = 22 	Value = 15 	
+ID = 49	Size = 33 	Value = 20 	
+ID = 99	Size = 40 	Value = 22 	
+ID = 39	Size = 39 	Value = 22 	
+ID = 31	Size = 44 	Value = 33 	
+ID = 69	Size = 41 	Value = 32 	
+ID = 59	Size = 34 	Value = 29 	
+ID = 75	Size = 27 	Value = 16 	
+ID = 55	Size = 42 	Value = 29 	
+ID = 16	Size = 39 	Value = 28 	
+ID = 50	Size = 24 	Value = 17 	
+ID = 5	Size = 9 	Value = 0 	
+ID = 82	Size = 15 	Value = 14 	
+ID = 19	Size = 43 	Value = 31 	
+ID = 97	Size = 30 	Value = 16 	
+ID = 81	Size = 27 	Value = 20 	
+ID = 14	Size = 8 	Value = 2 	
+ID = 92	Size = 11 	Value = 12 	
+ID = 98	Size = 21 	Value = 17 	
+ID = 88	Size = 14 	Value = 9 	
+ID = 103	Size = 32 	Value = 25 	
+ID = 100	Size = 14 	Value = 5 	
+ID = 28	Size = 43 	Value = 35 	
+ID = 53	Size = 39 	Value = 6 	
+ID = 66	Size = 28 	Value = 19 	
+ID = 36	Size = 6 	Value = 6 	
+ID = 85	Size = 8 	Value = 10 	
+ID = 52	Size = 25 	Value = 13 	
+ID = 30	Size = 5 	Value = 8 	
+ID = 96	Size = 28 	Value = 2 	
+ID = 65	Size = 29 	Value = 27 	
+ID = 43	Size = 9 	Value = 2 	

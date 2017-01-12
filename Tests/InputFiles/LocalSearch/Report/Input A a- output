@@ -1,0 +1,711 @@
+@@@@@@@ try #1: Now using local search:
+	InitializeGreedily
+	NeighborhoodGenerators: ThreePerOne
+	ChooseFirst
+	ShuffleSortingPolicy
+	Cycle: 1 out of: 3
+		initial value: 362
+		Local search, step 1: value: 362, size: 125, quantity: 6
+			Items added: ID = 73	Size = 4 	Value = 7 	 
+			Items removed: ID = 37	Size = 2 	Value = 3 	,ID = 33	Size = 2 	Value = 3 	,ID = 2	Size = 1 	Value = 1 	
+	res: 362
+
+	Cycle: 2 out of: 3
+		initial value: 336
+		Local search, step 1: value: 339, size: 124, quantity: 12
+			Items added: ID = 94	Size = 8 	Value = 20 	 
+			Items removed: ID = 77	Size = 4 	Value = 7 	,ID = 30	Size = 2 	Value = 3 	,ID = 72	Size = 4 	Value = 7 	
+		Local search, step 2: value: 340, size: 123, quantity: 10
+			Items added: ID = 72	Size = 4 	Value = 7 	 
+			Items removed: ID = 57	Size = 3 	Value = 4 	,ID = 4	Size = 1 	Value = 1 	,ID = 10	Size = 1 	Value = 1 	
+		Local search, step 3: value: 354, size: 125, quantity: 8
+			Items added: ID = 112	Size = 16 	Value = 44 	 
+			Items removed: ID = 79	Size = 4 	Value = 7 	,ID = 33	Size = 2 	Value = 3 	,ID = 94	Size = 8 	Value = 20 	
+		Local search, step 4: value: 364, size: 126, quantity: 6
+			Items added: ID = 94	Size = 8 	Value = 20 	 
+			Items removed: ID = 44	Size = 3 	Value = 4 	,ID = 35	Size = 2 	Value = 3 	,ID = 32	Size = 2 	Value = 3 	
+	res: 364
+
+	Cycle: 3 out of: 3
+		initial value: 290
+		Local search, step 1: value: 296, size: 124, quantity: 8
+			Items added: ID = 94	Size = 8 	Value = 20 	 
+			Items removed: ID = 20	Size = 2 	Value = 3 	,ID = 66	Size = 4 	Value = 7 	,ID = 49	Size = 3 	Value = 4 	
+		Local search, step 2: value: 302, size: 124, quantity: 6
+			Items added: ID = 138	Size = 32 	Value = 90 	 
+			Items removed: ID = 87	Size = 8 	Value = 20 	,ID = 89	Size = 8 	Value = 20 	,ID = 101	Size = 16 	Value = 44 	
+		Local search, step 3: value: 311, size: 105, quantity: 4
+			Items added: ID = 179	Size = 64 	Value = 200 	 
+			Items removed: ID = 145	Size = 50 	Value = 100 	,ID = 127	Size = 32 	Value = 90 	,ID = 0	Size = 1 	Value = 1 	
+	res: 311
+
+@@@@@@@ try #2: Now using local search:
+	InitializeEmpty
+	NeighborhoodGenerators: AddTwo,ThreePerOne,OnePerOne,OnePerThree
+	ChooseFirst
+	ShuffleSortingPolicy
+	Cycle: 1 out of: 3
+		initial value: 0
+		Local search, step 1: value: 23, size: 10, quantity: 2
+			Items added: ID = 81	Size = 8 	Value = 20 	,ID = 20	Size = 2 	Value = 3 	 
+			Items removed: 
+		Local search, step 2: value: 63, size: 26, quantity: 4
+			Items added: ID = 89	Size = 8 	Value = 20 	,ID = 99	Size = 8 	Value = 20 	 
+			Items removed: 
+		Local search, step 3: value: 68, size: 30, quantity: 6
+			Items added: ID = 48	Size = 3 	Value = 4 	,ID = 4	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 4: value: 113, size: 47, quantity: 8
+			Items added: ID = 115	Size = 16 	Value = 44 	,ID = 16	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 5: value: 257, size: 113, quantity: 10
+			Items added: ID = 102	Size = 16 	Value = 44 	,ID = 149	Size = 50 	Value = 100 	 
+			Items removed: 
+		Local search, step 6: value: 271, size: 121, quantity: 12
+			Items added: ID = 68	Size = 4 	Value = 7 	,ID = 64	Size = 4 	Value = 7 	 
+			Items removed: 
+		Local search, step 7: value: 279, size: 126, quantity: 14
+			Items added: ID = 10	Size = 1 	Value = 1 	,ID = 75	Size = 4 	Value = 7 	 
+			Items removed: 
+		Local search, step 8: value: 339, size: 124, quantity: 12
+			Items added: ID = 164	Size = 64 	Value = 200 	 
+			Items removed: ID = 81	Size = 8 	Value = 20 	,ID = 89	Size = 8 	Value = 20 	,ID = 149	Size = 50 	Value = 100 	
+		Local search, step 9: value: 341, size: 126, quantity: 14
+			Items added: ID = 3	Size = 1 	Value = 1 	,ID = 0	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 10: value: 347, size: 125, quantity: 12
+			Items added: ID = 81	Size = 8 	Value = 20 	 
+			Items removed: ID = 20	Size = 2 	Value = 3 	,ID = 48	Size = 3 	Value = 4 	,ID = 68	Size = 4 	Value = 7 	
+		Local search, step 11: value: 347, size: 124, quantity: 10
+			Items added: ID = 20	Size = 2 	Value = 3 	 
+			Items removed: ID = 4	Size = 1 	Value = 1 	,ID = 16	Size = 1 	Value = 1 	,ID = 10	Size = 1 	Value = 1 	
+		Local search, step 12: value: 349, size: 126, quantity: 12
+			Items added: ID = 10	Size = 1 	Value = 1 	,ID = 16	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 13: value: 354, size: 125, quantity: 10
+			Items added: ID = 96	Size = 8 	Value = 20 	 
+			Items removed: ID = 64	Size = 4 	Value = 7 	,ID = 75	Size = 4 	Value = 7 	,ID = 3	Size = 1 	Value = 1 	
+		Local search, step 14: value: 356, size: 125, quantity: 8
+			Items added: ID = 75	Size = 4 	Value = 7 	 
+			Items removed: ID = 0	Size = 1 	Value = 1 	,ID = 20	Size = 2 	Value = 3 	,ID = 10	Size = 1 	Value = 1 	
+		Local search, step 15: value: 359, size: 124, quantity: 6
+			Items added: ID = 117	Size = 16 	Value = 44 	 
+			Items removed: ID = 99	Size = 8 	Value = 20 	,ID = 81	Size = 8 	Value = 20 	,ID = 16	Size = 1 	Value = 1 	
+		Local search, step 16: value: 361, size: 126, quantity: 8
+			Items added: ID = 16	Size = 1 	Value = 1 	,ID = 10	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 17: value: 362, size: 125, quantity: 6
+			Items added: ID = 136	Size = 32 	Value = 90 	 
+			Items removed: ID = 115	Size = 16 	Value = 44 	,ID = 102	Size = 16 	Value = 44 	,ID = 16	Size = 1 	Value = 1 	
+		Local search, step 18: value: 364, size: 126, quantity: 6
+			Items added: ID = 20	Size = 2 	Value = 3 	 
+			Items removed: ID = 10	Size = 1 	Value = 1 	
+	res: 364
+
+	Cycle: 2 out of: 3
+		initial value: 0
+		Local search, step 1: value: 190, size: 82, quantity: 2
+			Items added: ID = 137	Size = 32 	Value = 90 	,ID = 148	Size = 50 	Value = 100 	 
+			Items removed: 
+		Local search, step 2: value: 235, size: 99, quantity: 4
+			Items added: ID = 119	Size = 16 	Value = 44 	,ID = 5	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 3: value: 239, size: 102, quantity: 6
+			Items added: ID = 39	Size = 2 	Value = 3 	,ID = 10	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 4: value: 249, size: 108, quantity: 8
+			Items added: ID = 32	Size = 2 	Value = 3 	,ID = 75	Size = 4 	Value = 7 	 
+			Items removed: 
+		Local search, step 5: value: 254, size: 112, quantity: 10
+			Items added: ID = 41	Size = 3 	Value = 4 	,ID = 8	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 6: value: 275, size: 121, quantity: 12
+			Items added: ID = 86	Size = 8 	Value = 20 	,ID = 3	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 7: value: 283, size: 126, quantity: 14
+			Items added: ID = 74	Size = 4 	Value = 7 	,ID = 6	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 8: value: 293, size: 126, quantity: 12
+			Items added: ID = 114	Size = 16 	Value = 44 	 
+			Items removed: ID = 75	Size = 4 	Value = 7 	,ID = 86	Size = 8 	Value = 20 	,ID = 74	Size = 4 	Value = 7 	
+		Local search, step 9: value: 295, size: 126, quantity: 10
+			Items added: ID = 75	Size = 4 	Value = 7 	 
+			Items removed: ID = 5	Size = 1 	Value = 1 	,ID = 39	Size = 2 	Value = 3 	,ID = 10	Size = 1 	Value = 1 	
+		Local search, step 10: value: 296, size: 125, quantity: 8
+			Items added: ID = 126	Size = 32 	Value = 90 	 
+			Items removed: ID = 119	Size = 16 	Value = 44 	,ID = 8	Size = 1 	Value = 1 	,ID = 114	Size = 16 	Value = 44 	
+		Local search, step 11: value: 302, size: 124, quantity: 6
+			Items added: ID = 84	Size = 8 	Value = 20 	 
+			Items removed: ID = 32	Size = 2 	Value = 3 	,ID = 41	Size = 3 	Value = 4 	,ID = 75	Size = 4 	Value = 7 	
+		Local search, step 12: value: 304, size: 126, quantity: 8
+			Items added: ID = 5	Size = 1 	Value = 1 	,ID = 8	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 13: value: 305, size: 126, quantity: 6
+			Items added: ID = 41	Size = 3 	Value = 4 	 
+			Items removed: ID = 3	Size = 1 	Value = 1 	,ID = 6	Size = 1 	Value = 1 	,ID = 5	Size = 1 	Value = 1 	
+		Local search, step 14: value: 314, size: 107, quantity: 4
+			Items added: ID = 167	Size = 64 	Value = 200 	 
+			Items removed: ID = 137	Size = 32 	Value = 90 	,ID = 148	Size = 50 	Value = 100 	,ID = 8	Size = 1 	Value = 1 	
+		Local search, step 15: value: 322, size: 112, quantity: 6
+			Items added: ID = 8	Size = 1 	Value = 1 	,ID = 75	Size = 4 	Value = 7 	 
+			Items removed: 
+		Local search, step 16: value: 324, size: 114, quantity: 8
+			Items added: ID = 3	Size = 1 	Value = 1 	,ID = 5	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 17: value: 326, size: 116, quantity: 10
+			Items added: ID = 6	Size = 1 	Value = 1 	,ID = 10	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 18: value: 332, size: 120, quantity: 12
+			Items added: ID = 39	Size = 2 	Value = 3 	,ID = 32	Size = 2 	Value = 3 	 
+			Items removed: 
+		Local search, step 19: value: 342, size: 126, quantity: 14
+			Items added: ID = 74	Size = 4 	Value = 7 	,ID = 25	Size = 2 	Value = 3 	 
+			Items removed: 
+		Local search, step 20: value: 352, size: 126, quantity: 12
+			Items added: ID = 114	Size = 16 	Value = 44 	 
+			Items removed: ID = 84	Size = 8 	Value = 20 	,ID = 75	Size = 4 	Value = 7 	,ID = 74	Size = 4 	Value = 7 	
+		Local search, step 21: value: 353, size: 125, quantity: 10
+			Items added: ID = 74	Size = 4 	Value = 7 	 
+			Items removed: ID = 41	Size = 3 	Value = 4 	,ID = 8	Size = 1 	Value = 1 	,ID = 3	Size = 1 	Value = 1 	
+		Local search, step 22: value: 362, size: 126, quantity: 8
+			Items added: ID = 84	Size = 8 	Value = 20 	 
+			Items removed: ID = 5	Size = 1 	Value = 1 	,ID = 39	Size = 2 	Value = 3 	,ID = 74	Size = 4 	Value = 7 	
+		Local search, step 23: value: 364, size: 126, quantity: 6
+			Items added: ID = 74	Size = 4 	Value = 7 	 
+			Items removed: ID = 6	Size = 1 	Value = 1 	,ID = 10	Size = 1 	Value = 1 	,ID = 32	Size = 2 	Value = 3 	
+	res: 364
+
+	Cycle: 3 out of: 3
+		initial value: 0
+		Local search, step 1: value: 7, size: 5, quantity: 2
+			Items added: ID = 42	Size = 3 	Value = 4 	,ID = 34	Size = 2 	Value = 3 	 
+			Items removed: 
+		Local search, step 2: value: 15, size: 10, quantity: 4
+			Items added: ID = 14	Size = 1 	Value = 1 	,ID = 61	Size = 4 	Value = 7 	 
+			Items removed: 
+		Local search, step 3: value: 62, size: 28, quantity: 6
+			Items added: ID = 100	Size = 16 	Value = 44 	,ID = 37	Size = 2 	Value = 3 	 
+			Items removed: 
+		Local search, step 4: value: 269, size: 96, quantity: 8
+			Items added: ID = 60	Size = 4 	Value = 7 	,ID = 178	Size = 64 	Value = 200 	 
+			Items removed: 
+		Local search, step 5: value: 316, size: 114, quantity: 10
+			Items added: ID = 103	Size = 16 	Value = 44 	,ID = 31	Size = 2 	Value = 3 	 
+			Items removed: 
+		Local search, step 6: value: 339, size: 124, quantity: 12
+			Items added: ID = 99	Size = 8 	Value = 20 	,ID = 27	Size = 2 	Value = 3 	 
+			Items removed: 
+		Local search, step 7: value: 341, size: 126, quantity: 14
+			Items added: ID = 16	Size = 1 	Value = 1 	,ID = 15	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 8: value: 342, size: 125, quantity: 12
+			Items added: ID = 136	Size = 32 	Value = 90 	 
+			Items removed: ID = 14	Size = 1 	Value = 1 	,ID = 100	Size = 16 	Value = 44 	,ID = 103	Size = 16 	Value = 44 	
+		Local search, step 9: value: 355, size: 126, quantity: 10
+			Items added: ID = 118	Size = 16 	Value = 44 	 
+			Items removed: ID = 42	Size = 3 	Value = 4 	,ID = 61	Size = 4 	Value = 7 	,ID = 99	Size = 8 	Value = 20 	
+		Local search, step 10: value: 362, size: 126, quantity: 8
+			Items added: ID = 99	Size = 8 	Value = 20 	 
+			Items removed: ID = 34	Size = 2 	Value = 3 	,ID = 37	Size = 2 	Value = 3 	,ID = 60	Size = 4 	Value = 7 	
+		Local search, step 11: value: 362, size: 125, quantity: 6
+			Items added: ID = 60	Size = 4 	Value = 7 	 
+			Items removed: ID = 31	Size = 2 	Value = 3 	,ID = 27	Size = 2 	Value = 3 	,ID = 16	Size = 1 	Value = 1 	
+		Local search, step 12: value: 364, size: 126, quantity: 6
+			Items added: ID = 27	Size = 2 	Value = 3 	 
+			Items removed: ID = 15	Size = 1 	Value = 1 	
+	res: 364
+
+@@@@@@@ try #3: Now using local search:
+	InitializeGreedily
+	NeighborhoodGenerators: OnePerOne
+	ChooseFirst
+	SortWithComparer(CompareItemsByDensity)
+	Cycle: 1 out of: 1
+		initial value: 364
+	res: 364
+
+@@@@@@@ try #4: Now using local search:
+	InitializeGreedily
+	NeighborhoodGenerators: OnePerThree
+	ChooseFirst
+	SortWithComparer(CompareItemsByDensity)
+	Cycle: 1 out of: 1
+		initial value: 364
+	res: 364
+
+@@@@@@@ try #5: Now using local search:
+	InitializeGreedily
+	NeighborhoodGenerators: AddTwo,OnePerOne
+	ChooseFirst
+	ShuffleSortingPolicy
+	Cycle: 1 out of: 3
+		initial value: 307
+		Local search, step 1: value: 308, size: 126, quantity: 16
+			Items added: ID = 49	Size = 3 	Value = 4 	 
+			Items removed: ID = 25	Size = 2 	Value = 3 	
+	res: 308
+
+	Cycle: 2 out of: 3
+		initial value: 303
+	res: 303
+
+	Cycle: 3 out of: 3
+		initial value: 331
+		Local search, step 1: value: 333, size: 126, quantity: 10
+			Items added: ID = 7	Size = 1 	Value = 1 	,ID = 13	Size = 1 	Value = 1 	 
+			Items removed: 
+	res: 333
+
+@@@@@@@ try #6: Now using local search:
+	InitializeEmpty
+	NeighborhoodGenerators: AddTwo,OnePerOne
+	ChooseFirst
+	ShuffleSortingPolicy
+	Cycle: 1 out of: 3
+		initial value: 0
+		Local search, step 1: value: 103, size: 52, quantity: 2
+			Items added: ID = 158	Size = 50 	Value = 100 	,ID = 32	Size = 2 	Value = 3 	 
+			Items removed: 
+		Local search, step 2: value: 307, size: 119, quantity: 4
+			Items added: ID = 45	Size = 3 	Value = 4 	,ID = 165	Size = 64 	Value = 200 	 
+			Items removed: 
+		Local search, step 3: value: 311, size: 122, quantity: 6
+			Items added: ID = 18	Size = 1 	Value = 1 	,ID = 37	Size = 2 	Value = 3 	 
+			Items removed: 
+		Local search, step 4: value: 317, size: 126, quantity: 8
+			Items added: ID = 24	Size = 2 	Value = 3 	,ID = 34	Size = 2 	Value = 3 	 
+			Items removed: 
+	res: 317
+
+	Cycle: 2 out of: 3
+		initial value: 0
+		Local search, step 1: value: 144, size: 66, quantity: 2
+			Items added: ID = 104	Size = 16 	Value = 44 	,ID = 145	Size = 50 	Value = 100 	 
+			Items removed: 
+		Local search, step 2: value: 155, size: 73, quantity: 4
+			Items added: ID = 51	Size = 3 	Value = 4 	,ID = 75	Size = 4 	Value = 7 	 
+			Items removed: 
+		Local search, step 3: value: 159, size: 76, quantity: 6
+			Items added: ID = 34	Size = 2 	Value = 3 	,ID = 19	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 4: value: 180, size: 85, quantity: 8
+			Items added: ID = 94	Size = 8 	Value = 20 	,ID = 9	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 5: value: 227, size: 103, quantity: 10
+			Items added: ID = 106	Size = 16 	Value = 44 	,ID = 33	Size = 2 	Value = 3 	 
+			Items removed: 
+		Local search, step 6: value: 234, size: 108, quantity: 12
+			Items added: ID = 29	Size = 2 	Value = 3 	,ID = 57	Size = 3 	Value = 4 	 
+			Items removed: 
+		Local search, step 7: value: 279, size: 125, quantity: 14
+			Items added: ID = 105	Size = 16 	Value = 44 	,ID = 6	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 8: value: 282, size: 126, quantity: 14
+			Items added: ID = 66	Size = 4 	Value = 7 	 
+			Items removed: ID = 51	Size = 3 	Value = 4 	
+	res: 282
+
+	Cycle: 3 out of: 3
+		initial value: 0
+		Local search, step 1: value: 27, size: 12, quantity: 2
+			Items added: ID = 81	Size = 8 	Value = 20 	,ID = 76	Size = 4 	Value = 7 	 
+			Items removed: 
+		Local search, step 2: value: 161, size: 60, quantity: 4
+			Items added: ID = 106	Size = 16 	Value = 44 	,ID = 120	Size = 32 	Value = 90 	 
+			Items removed: 
+		Local search, step 3: value: 364, size: 126, quantity: 6
+			Items added: ID = 177	Size = 64 	Value = 200 	,ID = 31	Size = 2 	Value = 3 	 
+			Items removed: 
+	res: 364
+
+@@@@@@@ try #7: Now using local search:
+	InitializeGreedily
+	NeighborhoodGenerators: AddTwo,OnePerOne,OnePerThree
+	ChooseFirst
+	SortWithComparer(CompareItemsByDensity)
+	Cycle: 1 out of: 1
+		initial value: 364
+	res: 364
+
+@@@@@@@ try #8: Now using local search:
+	InitializeGreedily
+	NeighborhoodGenerators: 
+	ChooseFirst
+	SortWithComparer(CompareItemsByDensity)
+	Cycle: 1 out of: 1
+		initial value: 364
+	res: 364
+
+@@@@@@@ try #9: Now using local search:
+	InitializeGreedily
+	NeighborhoodGenerators: OnePerOne
+	ChooseFirst
+	AsIsSortingPolicy
+	Cycle: 1 out of: 1
+		initial value: 327
+	res: 327
+
+@@@@@@@ try #10: Now using local search:
+	InitializeGreedily
+	NeighborhoodGenerators: OnePerOne
+	ChooseBest
+	ShuffleSortingPolicy
+	Cycle: 1 out of: 3
+		initial value: 310
+	res: 310
+
+	Cycle: 2 out of: 3
+		initial value: 338
+	res: 338
+
+	Cycle: 3 out of: 3
+		initial value: 340
+	res: 340
+
+@@@@@@@ try #11: Now using local search:
+	InitializeGreedily
+	NeighborhoodGenerators: OnePerOne
+	ChooseBest
+	SortWithComparer(CompareItemsByDensity)
+	Cycle: 1 out of: 1
+		initial value: 364
+	res: 364
+
+@@@@@@@ try #12: Now using local search:
+	InitializeGreedily
+	NeighborhoodGenerators: OnePerThree,TwoPerTow
+	ChooseBest
+	SortWithComparer(CompareItemsByDensity)
+	Cycle: 1 out of: 1
+		initial value: 364
+	res: 364
+
+@@@@@@@ try #13: Now using local search:
+	InitializeGreedily
+	NeighborhoodGenerators: OnePerOne
+	ChooseBest
+	SortWithComparer(CompareItemsByDensity)
+	Cycle: 1 out of: 1
+		initial value: 364
+	res: 364
+
+@@@@@@@ try #14: Now using local search:
+	InitializeGreedily
+	NeighborhoodGenerators: OnePerOne
+	ChooseFirst
+	SortWithComparer(CompareItemsByDensity)
+	Cycle: 1 out of: 1
+		initial value: 364
+	res: 364
+
+@@@@@@@ try #15: Now using local search:
+	InitializeGreedily
+	NeighborhoodGenerators: OnePerOne,AddTwo,OnePerThree,TwoPerTow,ThreePerOne
+	ChooseFirst
+	ShuffleSortingPolicy
+	Cycle: 1 out of: 3
+		initial value: 327
+		Local search, step 1: value: 344, size: 120, quantity: 6
+			Items added: ID = 72	Size = 4 	Value = 7 	,ID = 138	Size = 32 	Value = 90 	,ID = 88	Size = 8 	Value = 20 	 
+			Items removed: ID = 159	Size = 50 	Value = 100 	
+		Local search, step 2: value: 357, size: 124, quantity: 6
+			Items added: ID = 89	Size = 8 	Value = 20 	 
+			Items removed: ID = 66	Size = 4 	Value = 7 	
+		Local search, step 3: value: 359, size: 126, quantity: 8
+			Items added: ID = 9	Size = 1 	Value = 1 	,ID = 16	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 4: value: 362, size: 125, quantity: 6
+			Items added: ID = 100	Size = 16 	Value = 44 	 
+			Items removed: ID = 82	Size = 8 	Value = 20 	,ID = 88	Size = 8 	Value = 20 	,ID = 9	Size = 1 	Value = 1 	
+		Local search, step 5: value: 364, size: 126, quantity: 6
+			Items added: ID = 38	Size = 2 	Value = 3 	 
+			Items removed: ID = 16	Size = 1 	Value = 1 	
+	res: 364
+
+	Cycle: 2 out of: 3
+		initial value: 263
+		Local search, step 1: value: 264, size: 126, quantity: 16
+			Items added: ID = 54	Size = 3 	Value = 4 	 
+			Items removed: ID = 32	Size = 2 	Value = 3 	
+		Local search, step 2: value: 321, size: 125, quantity: 16
+			Items added: ID = 174	Size = 64 	Value = 200 	,ID = 18	Size = 1 	Value = 1 	 
+			Items removed: ID = 118	Size = 16 	Value = 44 	,ID = 140	Size = 50 	Value = 100 	
+		Local search, step 3: value: 322, size: 126, quantity: 16
+			Items added: ID = 48	Size = 3 	Value = 4 	 
+			Items removed: ID = 29	Size = 2 	Value = 3 	
+		Local search, step 4: value: 323, size: 126, quantity: 16
+			Items added: ID = 9	Size = 1 	Value = 1 	,ID = 64	Size = 4 	Value = 7 	 
+			Items removed: ID = 39	Size = 2 	Value = 3 	,ID = 49	Size = 3 	Value = 4 	
+		Local search, step 5: value: 324, size: 126, quantity: 16
+			Items added: ID = 39	Size = 2 	Value = 3 	,ID = 32	Size = 2 	Value = 3 	 
+			Items removed: ID = 43	Size = 3 	Value = 4 	,ID = 18	Size = 1 	Value = 1 	
+		Local search, step 6: value: 325, size: 126, quantity: 16
+			Items added: ID = 18	Size = 1 	Value = 1 	,ID = 78	Size = 4 	Value = 7 	 
+			Items removed: ID = 20	Size = 2 	Value = 3 	,ID = 41	Size = 3 	Value = 4 	
+		Local search, step 7: value: 326, size: 126, quantity: 16
+			Items added: ID = 29	Size = 2 	Value = 3 	,ID = 20	Size = 2 	Value = 3 	 
+			Items removed: ID = 54	Size = 3 	Value = 4 	,ID = 9	Size = 1 	Value = 1 	
+		Local search, step 8: value: 327, size: 126, quantity: 16
+			Items added: ID = 9	Size = 1 	Value = 1 	,ID = 79	Size = 4 	Value = 7 	 
+			Items removed: ID = 26	Size = 2 	Value = 3 	,ID = 48	Size = 3 	Value = 4 	
+		Local search, step 9: value: 337, size: 126, quantity: 14
+			Items added: ID = 118	Size = 16 	Value = 44 	 
+			Items removed: ID = 63	Size = 4 	Value = 7 	,ID = 71	Size = 4 	Value = 7 	,ID = 92	Size = 8 	Value = 20 	
+		Local search, step 10: value: 337, size: 125, quantity: 12
+			Items added: ID = 63	Size = 4 	Value = 7 	 
+			Items removed: ID = 39	Size = 2 	Value = 3 	,ID = 32	Size = 2 	Value = 3 	,ID = 18	Size = 1 	Value = 1 	
+		Local search, step 11: value: 338, size: 126, quantity: 12
+			Items added: ID = 49	Size = 3 	Value = 4 	 
+			Items removed: ID = 29	Size = 2 	Value = 3 	
+		Local search, step 12: value: 339, size: 126, quantity: 12
+			Items added: ID = 39	Size = 2 	Value = 3 	,ID = 32	Size = 2 	Value = 3 	 
+			Items removed: ID = 9	Size = 1 	Value = 1 	,ID = 49	Size = 3 	Value = 4 	
+		Local search, step 13: value: 342, size: 124, quantity: 10
+			Items added: ID = 94	Size = 8 	Value = 20 	 
+			Items removed: ID = 66	Size = 4 	Value = 7 	,ID = 60	Size = 4 	Value = 7 	,ID = 20	Size = 2 	Value = 3 	
+		Local search, step 14: value: 343, size: 125, quantity: 10
+			Items added: ID = 49	Size = 3 	Value = 4 	 
+			Items removed: ID = 39	Size = 2 	Value = 3 	
+		Local search, step 15: value: 344, size: 126, quantity: 10
+			Items added: ID = 41	Size = 3 	Value = 4 	 
+			Items removed: ID = 32	Size = 2 	Value = 3 	
+		Local search, step 16: value: 346, size: 126, quantity: 10
+			Items added: ID = 39	Size = 2 	Value = 3 	,ID = 60	Size = 4 	Value = 7 	 
+			Items removed: ID = 49	Size = 3 	Value = 4 	,ID = 41	Size = 3 	Value = 4 	
+		Local search, step 17: value: 349, size: 124, quantity: 8
+			Items added: ID = 92	Size = 8 	Value = 20 	 
+			Items removed: ID = 64	Size = 4 	Value = 7 	,ID = 78	Size = 4 	Value = 7 	,ID = 39	Size = 2 	Value = 3 	
+		Local search, step 18: value: 351, size: 126, quantity: 10
+			Items added: ID = 18	Size = 1 	Value = 1 	,ID = 9	Size = 1 	Value = 1 	 
+			Items removed: 
+		Local search, step 19: value: 356, size: 125, quantity: 8
+			Items added: ID = 86	Size = 8 	Value = 20 	 
+			Items removed: ID = 79	Size = 4 	Value = 7 	,ID = 63	Size = 4 	Value = 7 	,ID = 18	Size = 1 	Value = 1 	
+		Local search, step 20: value: 358, size: 126, quantity: 8
+			Items added: ID = 39	Size = 2 	Value = 3 	 
+			Items removed: ID = 9	Size = 1 	Value = 1 	
+		Local search, step 21: value: 364, size: 126, quantity: 6
+			Items added: ID = 128	Size = 32 	Value = 90 	 
+			Items removed: ID = 117	Size = 16 	Value = 44 	,ID = 94	Size = 8 	Value = 20 	,ID = 92	Size = 8 	Value = 20 	
+	res: 364
+
+	Cycle: 3 out of: 3
+		initial value: 349
+		Local search, step 1: value: 349, size: 125, quantity: 10
+			Items added: ID = 9	Size = 1 	Value = 1 	,ID = 63	Size = 4 	Value = 7 	 
+			Items removed: ID = 59	Size = 3 	Value = 4 	,ID = 55	Size = 3 	Value = 4 	
+		Local search, step 2: value: 350, size: 126, quantity: 10
+			Items added: ID = 48	Size = 3 	Value = 4 	 
+			Items removed: ID = 30	Size = 2 	Value = 3 	
+		Local search, step 3: value: 351, size: 126, quantity: 10
+			Items added: ID = 30	Size = 2 	Value = 3 	,ID = 32	Size = 2 	Value = 3 	 
+			Items removed: ID = 9	Size = 1 	Value = 1 	,ID = 48	Size = 3 	Value = 4 	
+		Local search, step 4: value: 357, size: 126, quantity: 8
+			Items added: ID = 139	Size = 32 	Value = 90 	 
+			Items removed: ID = 95	Size = 8 	Value = 20 	,ID = 105	Size = 16 	Value = 44 	,ID = 91	Size = 8 	Value = 20 	
+		Local search, step 5: value: 360, size: 124, quantity: 6
+			Items added: ID = 95	Size = 8 	Value = 20 	 
+			Items removed: ID = 74	Size = 4 	Value = 7 	,ID = 22	Size = 2 	Value = 3 	,ID = 63	Size = 4 	Value = 7 	
+		Local search, step 6: value: 364, size: 126, quantity: 6
+			Items added: ID = 63	Size = 4 	Value = 7 	 
+			Items removed: ID = 30	Size = 2 	Value = 3 	
+	res: 364
+
+
+------------Summary------------
+best result is: value: 364, size: 126, quantity: 6
+Fractional greedy returned: 393.75
+bag's Max Capacity: 126
+Local search used: 
+	 InitializeGreedily
+	NeighborhoodGenerators: ThreePerOne
+	ChooseFirst
+	ShuffleSortingPolicy
+input file name: Input A a.txt
+
+###################################
+Items that were chosen:
+ID = 160	Size = 64 	Value = 200 	
+ID = 131	Size = 32 	Value = 90 	
+ID = 26	Size = 2 	Value = 3 	
+ID = 72	Size = 4 	Value = 7 	
+ID = 112	Size = 16 	Value = 44 	
+ID = 94	Size = 8 	Value = 20 	
+**************************************
+Items that were NOT chosen:
+ID = 0	Size = 1 	Value = 1 	
+ID = 127	Size = 32 	Value = 90 	
+ID = 15	Size = 1 	Value = 1 	
+ID = 101	Size = 16 	Value = 44 	
+ID = 89	Size = 8 	Value = 20 	
+ID = 20	Size = 2 	Value = 3 	
+ID = 87	Size = 8 	Value = 20 	
+ID = 49	Size = 3 	Value = 4 	
+ID = 145	Size = 50 	Value = 100 	
+ID = 65	Size = 4 	Value = 7 	
+ID = 133	Size = 32 	Value = 90 	
+ID = 153	Size = 50 	Value = 100 	
+ID = 51	Size = 3 	Value = 4 	
+ID = 126	Size = 32 	Value = 90 	
+ID = 78	Size = 4 	Value = 7 	
+ID = 140	Size = 50 	Value = 100 	
+ID = 128	Size = 32 	Value = 90 	
+ID = 172	Size = 64 	Value = 200 	
+ID = 52	Size = 3 	Value = 4 	
+ID = 66	Size = 4 	Value = 7 	
+ID = 69	Size = 4 	Value = 7 	
+ID = 137	Size = 32 	Value = 90 	
+ID = 147	Size = 50 	Value = 100 	
+ID = 130	Size = 32 	Value = 90 	
+ID = 4	Size = 1 	Value = 1 	
+ID = 23	Size = 2 	Value = 3 	
+ID = 121	Size = 32 	Value = 90 	
+ID = 92	Size = 8 	Value = 20 	
+ID = 46	Size = 3 	Value = 4 	
+ID = 122	Size = 32 	Value = 90 	
+ID = 72	Size = 4 	Value = 7 	
+ID = 86	Size = 8 	Value = 20 	
+ID = 120	Size = 32 	Value = 90 	
+ID = 113	Size = 16 	Value = 44 	
+ID = 53	Size = 3 	Value = 4 	
+ID = 168	Size = 64 	Value = 200 	
+ID = 132	Size = 32 	Value = 90 	
+ID = 116	Size = 16 	Value = 44 	
+ID = 158	Size = 50 	Value = 100 	
+ID = 43	Size = 3 	Value = 4 	
+ID = 82	Size = 8 	Value = 20 	
+ID = 178	Size = 64 	Value = 200 	
+ID = 31	Size = 2 	Value = 3 	
+ID = 79	Size = 4 	Value = 7 	
+ID = 119	Size = 16 	Value = 44 	
+ID = 109	Size = 16 	Value = 44 	
+ID = 33	Size = 2 	Value = 3 	
+ID = 28	Size = 2 	Value = 3 	
+ID = 25	Size = 2 	Value = 3 	
+ID = 67	Size = 4 	Value = 7 	
+ID = 42	Size = 3 	Value = 4 	
+ID = 85	Size = 8 	Value = 20 	
+ID = 21	Size = 2 	Value = 3 	
+ID = 99	Size = 8 	Value = 20 	
+ID = 173	Size = 64 	Value = 200 	
+ID = 27	Size = 2 	Value = 3 	
+ID = 50	Size = 3 	Value = 4 	
+ID = 143	Size = 50 	Value = 100 	
+ID = 83	Size = 8 	Value = 20 	
+ID = 149	Size = 50 	Value = 100 	
+ID = 144	Size = 50 	Value = 100 	
+ID = 22	Size = 2 	Value = 3 	
+ID = 161	Size = 64 	Value = 200 	
+ID = 77	Size = 4 	Value = 7 	
+ID = 100	Size = 16 	Value = 44 	
+ID = 150	Size = 50 	Value = 100 	
+ID = 10	Size = 1 	Value = 1 	
+ID = 56	Size = 3 	Value = 4 	
+ID = 136	Size = 32 	Value = 90 	
+ID = 163	Size = 64 	Value = 200 	
+ID = 98	Size = 8 	Value = 20 	
+ID = 176	Size = 64 	Value = 200 	
+ID = 91	Size = 8 	Value = 20 	
+ID = 156	Size = 50 	Value = 100 	
+ID = 41	Size = 3 	Value = 4 	
+ID = 139	Size = 32 	Value = 90 	
+ID = 166	Size = 64 	Value = 200 	
+ID = 35	Size = 2 	Value = 3 	
+ID = 148	Size = 50 	Value = 100 	
+ID = 18	Size = 1 	Value = 1 	
+ID = 124	Size = 32 	Value = 90 	
+ID = 55	Size = 3 	Value = 4 	
+ID = 39	Size = 2 	Value = 3 	
+ID = 177	Size = 64 	Value = 200 	
+ID = 45	Size = 3 	Value = 4 	
+ID = 73	Size = 4 	Value = 7 	
+ID = 38	Size = 2 	Value = 3 	
+ID = 2	Size = 1 	Value = 1 	
+ID = 58	Size = 3 	Value = 4 	
+ID = 13	Size = 1 	Value = 1 	
+ID = 171	Size = 64 	Value = 200 	
+ID = 60	Size = 4 	Value = 7 	
+ID = 11	Size = 1 	Value = 1 	
+ID = 146	Size = 50 	Value = 100 	
+ID = 164	Size = 64 	Value = 200 	
+ID = 129	Size = 32 	Value = 90 	
+ID = 112	Size = 16 	Value = 44 	
+ID = 107	Size = 16 	Value = 44 	
+ID = 54	Size = 3 	Value = 4 	
+ID = 141	Size = 50 	Value = 100 	
+ID = 108	Size = 16 	Value = 44 	
+ID = 170	Size = 64 	Value = 200 	
+ID = 84	Size = 8 	Value = 20 	
+ID = 157	Size = 50 	Value = 100 	
+ID = 142	Size = 50 	Value = 100 	
+ID = 26	Size = 2 	Value = 3 	
+ID = 75	Size = 4 	Value = 7 	
+ID = 152	Size = 50 	Value = 100 	
+ID = 118	Size = 16 	Value = 44 	
+ID = 114	Size = 16 	Value = 44 	
+ID = 37	Size = 2 	Value = 3 	
+ID = 3	Size = 1 	Value = 1 	
+ID = 96	Size = 8 	Value = 20 	
+ID = 32	Size = 2 	Value = 3 	
+ID = 14	Size = 1 	Value = 1 	
+ID = 9	Size = 1 	Value = 1 	
+ID = 81	Size = 8 	Value = 20 	
+ID = 76	Size = 4 	Value = 7 	
+ID = 68	Size = 4 	Value = 7 	
+ID = 151	Size = 50 	Value = 100 	
+ID = 71	Size = 4 	Value = 7 	
+ID = 64	Size = 4 	Value = 7 	
+ID = 103	Size = 16 	Value = 44 	
+ID = 115	Size = 16 	Value = 44 	
+ID = 59	Size = 3 	Value = 4 	
+ID = 57	Size = 3 	Value = 4 	
+ID = 104	Size = 16 	Value = 44 	
+ID = 155	Size = 50 	Value = 100 	
+ID = 123	Size = 32 	Value = 90 	
+ID = 106	Size = 16 	Value = 44 	
+ID = 135	Size = 32 	Value = 90 	
+ID = 48	Size = 3 	Value = 4 	
+ID = 29	Size = 2 	Value = 3 	
+ID = 131	Size = 32 	Value = 90 	
+ID = 63	Size = 4 	Value = 7 	
+ID = 6	Size = 1 	Value = 1 	
+ID = 30	Size = 2 	Value = 3 	
+ID = 162	Size = 64 	Value = 200 	
+ID = 40	Size = 3 	Value = 4 	
+ID = 44	Size = 3 	Value = 4 	
+ID = 160	Size = 64 	Value = 200 	
+ID = 90	Size = 8 	Value = 20 	
+ID = 47	Size = 3 	Value = 4 	
+ID = 125	Size = 32 	Value = 90 	
+ID = 95	Size = 8 	Value = 20 	
+ID = 16	Size = 1 	Value = 1 	
+ID = 12	Size = 1 	Value = 1 	
+ID = 17	Size = 1 	Value = 1 	
+ID = 169	Size = 64 	Value = 200 	
+ID = 117	Size = 16 	Value = 44 	
+ID = 93	Size = 8 	Value = 20 	
+ID = 102	Size = 16 	Value = 44 	
+ID = 8	Size = 1 	Value = 1 	
+ID = 61	Size = 4 	Value = 7 	
+ID = 175	Size = 64 	Value = 200 	
+ID = 174	Size = 64 	Value = 200 	
+ID = 159	Size = 50 	Value = 100 	
+ID = 62	Size = 4 	Value = 7 	
+ID = 80	Size = 8 	Value = 20 	
+ID = 167	Size = 64 	Value = 200 	
+ID = 110	Size = 16 	Value = 44 	
+ID = 165	Size = 64 	Value = 200 	
+ID = 34	Size = 2 	Value = 3 	
+ID = 5	Size = 1 	Value = 1 	
+ID = 154	Size = 50 	Value = 100 	
+ID = 74	Size = 4 	Value = 7 	
+ID = 111	Size = 16 	Value = 44 	
+ID = 105	Size = 16 	Value = 44 	
+ID = 134	Size = 32 	Value = 90 	
+ID = 7	Size = 1 	Value = 1 	
+ID = 88	Size = 8 	Value = 20 	
+ID = 70	Size = 4 	Value = 7 	
+ID = 19	Size = 1 	Value = 1 	
+ID = 36	Size = 2 	Value = 3 	
+ID = 97	Size = 8 	Value = 20 	
+ID = 24	Size = 2 	Value = 3 	

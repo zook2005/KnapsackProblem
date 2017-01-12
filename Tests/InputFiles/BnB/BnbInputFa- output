@@ -1,0 +1,490 @@
+@@@@@@@ Now using BnB
+acting solution is:      value: 345, size: 345, quantity: 6
+index: -1, boundaries: [345,359]
+index: 0, boundaries: [356,359]
+index: 1, boundaries: [345,359]
+index: 2, boundaries: [356,359]
+index: 3, boundaries: [345,359]
+index: 4, boundaries: [341,359]
+index: 5, boundaries: [356,359]
+index: 6, boundaries: [345,359]
+index: 7, boundaries: [356,359]
+index: 8, boundaries: [356,359]
+index: 9, boundaries: [345,359]
+index: 10, boundaries: [309,359]
+index: 11, boundaries: [344,359]
+index: 12, boundaries: [340,359]
+index: 13, boundaries: [336,359]
+index: 14, boundaries: [351,351]
+index: 14, boundaries: [336,353]
+index: 15, boundaries: [353,353]
+index: 15, boundaries: [336,336]
+index: 13, boundaries: [340,355]
+index: 14, boundaries: [338,355]
+index: 15, boundaries: [355,355]
+index: 15, boundaries: [338,338]
+index: 14, boundaries: [340,340]
+index: 12, boundaries: [344,357]
+index: 13, boundaries: [342,357]
+index: 14, boundaries: [340,357]
+index: 15, boundaries: [357,357]
+index: 15, boundaries: [340,340]
+index: 14, boundaries: [342,342]
+index: 13, boundaries: [344,344]
+index: 11, boundaries: [309,359]
+index: 12, boundaries: [348,359]
+index: 13, boundaries: [344,359]
+index: 14, boundaries: [340,359]
+index: 15, boundaries: [355,355]
+index: 15, boundaries: [340,357]
+index: 16, boundaries: [357,357]
+index: 16, boundaries: [340,340]
+index: 14, boundaries: [344,359]
+index: 15, boundaries: [342,359]
+index: 16, boundaries: [342,342]
+index: 15, boundaries: [344,344]
+index: 13, boundaries: [348,359]
+index: 14, boundaries: [346,359]
+index: 15, boundaries: [344,344]
+index: 15, boundaries: [346,346]
+acting solution changed: value: 346, size: 346, quantity: 14
+index: 14, boundaries: [348,348]
+acting solution changed: value: 348, size: 348, quantity: 14
+index: 12, boundaries: [309,359]
+index: 13, boundaries: [352,359]
+index: 14, boundaries: [348,359]
+index: 15, boundaries: [344,359]
+index: 16, boundaries: [344,344]
+index: 15, boundaries: [348,359]
+index: 16, boundaries: [346,346]
+index: 16, boundaries: [348,348]
+index: 14, boundaries: [352,359]
+index: 15, boundaries: [350,359]
+index: 16, boundaries: [348,348]
+index: 16, boundaries: [350,350]
+acting solution changed: value: 350, size: 350, quantity: 14
+index: 15, boundaries: [352,352]
+acting solution changed: value: 352, size: 352, quantity: 14
+index: 13, boundaries: [309,359]
+index: 14, boundaries: [356,359]
+index: 15, boundaries: [352,359]
+index: 16, boundaries: [348,348]
+index: 16, boundaries: [352,359]
+index: 17, boundaries: [350,350]
+index: 17, boundaries: [352,352]
+index: 15, boundaries: [356,359]
+index: 16, boundaries: [354,359]
+index: 17, boundaries: [352,352]
+index: 17, boundaries: [354,354]
+acting solution changed: value: 354, size: 354, quantity: 14
+index: 16, boundaries: [356,356]
+acting solution changed: value: 356, size: 356, quantity: 14
+index: 14, boundaries: [309,359]
+index: 15, boundaries: [358,359]
+index: 16, boundaries: [356,359]
+index: 17, boundaries: [352,352]
+index: 17, boundaries: [356,359]
+index: 18, boundaries: [354,354]
+index: 18, boundaries: [356,356]
+index: 16, boundaries: [358,359]
+index: 17, boundaries: [358,359]
+index: 18, boundaries: [356,356]
+index: 18, boundaries: [358,358]
+acting solution changed: value: 358, size: 358, quantity: 14
+index: 17, boundaries: [328,359]
+index: 18, boundaries: [343,343]
+index: 18, boundaries: [328,345]
+index: 15, boundaries: [309,359]
+index: 16, boundaries: [332,359]
+index: 17, boundaries: [358,359]
+index: 18, boundaries: [356,356]
+index: 18, boundaries: [358,358]
+index: 17, boundaries: [332,359]
+index: 18, boundaries: [345,345]
+index: 18, boundaries: [332,359]
+index: 19, boundaries: [347,347]
+index: 19, boundaries: [332,349]
+index: 16, boundaries: [309,359]
+index: 17, boundaries: [336,359]
+index: 18, boundaries: [347,347]
+index: 18, boundaries: [336,359]
+index: 19, boundaries: [349,349]
+index: 19, boundaries: [336,359]
+index: 20, boundaries: [351,351]
+index: 20, boundaries: [336,353]
+index: 17, boundaries: [309,359]
+index: 18, boundaries: [340,359]
+index: 19, boundaries: [351,351]
+index: 19, boundaries: [340,359]
+index: 20, boundaries: [353,353]
+index: 20, boundaries: [340,359]
+index: 21, boundaries: [355,355]
+index: 21, boundaries: [340,357]
+index: 18, boundaries: [309,359]
+index: 19, boundaries: [344,359]
+index: 20, boundaries: [355,355]
+index: 20, boundaries: [344,359]
+index: 21, boundaries: [357,357]
+index: 21, boundaries: [344,359]
+index: 22, boundaries: [344,344]
+index: 19, boundaries: [309,359]
+index: 20, boundaries: [348,359]
+index: 21, boundaries: [348,348]
+index: 20, boundaries: [309,359]
+index: 21, boundaries: [352,352]
+index: 21, boundaries: [309,359]
+index: 22, boundaries: [356,356]
+index: 22, boundaries: [309,320]
+index: 10, boundaries: [345,359]
+index: 11, boundaries: [313,359]
+index: 12, boundaries: [352,359]
+index: 13, boundaries: [348,359]
+index: 14, boundaries: [344,359]
+index: 15, boundaries: [344,344]
+index: 14, boundaries: [348,359]
+index: 15, boundaries: [346,346]
+index: 15, boundaries: [348,348]
+index: 13, boundaries: [352,359]
+index: 14, boundaries: [350,359]
+index: 15, boundaries: [348,348]
+index: 15, boundaries: [350,350]
+index: 14, boundaries: [352,352]
+index: 12, boundaries: [313,359]
+index: 13, boundaries: [356,359]
+index: 14, boundaries: [352,359]
+index: 15, boundaries: [348,348]
+index: 15, boundaries: [352,359]
+index: 16, boundaries: [350,350]
+index: 16, boundaries: [352,352]
+index: 14, boundaries: [356,359]
+index: 15, boundaries: [354,359]
+index: 16, boundaries: [352,352]
+index: 16, boundaries: [354,354]
+index: 15, boundaries: [356,356]
+index: 13, boundaries: [313,359]
+index: 14, boundaries: [358,359]
+index: 15, boundaries: [356,359]
+index: 16, boundaries: [352,352]
+index: 16, boundaries: [356,359]
+index: 17, boundaries: [354,354]
+index: 17, boundaries: [356,356]
+index: 15, boundaries: [358,359]
+index: 16, boundaries: [358,359]
+index: 17, boundaries: [356,356]
+index: 17, boundaries: [358,358]
+index: 16, boundaries: [328,359]
+index: 17, boundaries: [343,343]
+index: 17, boundaries: [328,345]
+index: 14, boundaries: [313,359]
+index: 15, boundaries: [332,359]
+index: 16, boundaries: [358,359]
+index: 17, boundaries: [356,356]
+index: 17, boundaries: [358,358]
+index: 16, boundaries: [332,359]
+index: 17, boundaries: [345,345]
+index: 17, boundaries: [332,359]
+index: 18, boundaries: [347,347]
+index: 18, boundaries: [332,349]
+index: 15, boundaries: [313,359]
+index: 16, boundaries: [336,359]
+index: 17, boundaries: [347,347]
+index: 17, boundaries: [336,359]
+index: 18, boundaries: [349,349]
+index: 18, boundaries: [336,359]
+index: 19, boundaries: [351,351]
+index: 19, boundaries: [336,353]
+index: 16, boundaries: [313,359]
+index: 17, boundaries: [340,359]
+index: 18, boundaries: [351,351]
+index: 18, boundaries: [340,359]
+index: 19, boundaries: [353,353]
+index: 19, boundaries: [340,359]
+index: 20, boundaries: [355,355]
+index: 20, boundaries: [340,357]
+index: 17, boundaries: [313,359]
+index: 18, boundaries: [344,359]
+index: 19, boundaries: [355,355]
+index: 19, boundaries: [344,359]
+index: 20, boundaries: [357,357]
+index: 20, boundaries: [344,359]
+index: 21, boundaries: [344,344]
+index: 18, boundaries: [313,359]
+index: 19, boundaries: [348,359]
+index: 20, boundaries: [348,348]
+index: 19, boundaries: [313,359]
+index: 20, boundaries: [352,352]
+index: 20, boundaries: [313,359]
+index: 21, boundaries: [356,356]
+index: 21, boundaries: [313,324]
+index: 11, boundaries: [345,359]
+index: 12, boundaries: [317,359]
+index: 13, boundaries: [358,359]
+index: 14, boundaries: [356,359]
+index: 15, boundaries: [352,352]
+index: 15, boundaries: [356,359]
+index: 16, boundaries: [354,354]
+index: 16, boundaries: [356,356]
+index: 14, boundaries: [358,359]
+index: 15, boundaries: [358,359]
+index: 16, boundaries: [356,356]
+index: 16, boundaries: [358,358]
+index: 15, boundaries: [328,359]
+index: 16, boundaries: [343,343]
+index: 16, boundaries: [328,345]
+index: 13, boundaries: [317,359]
+index: 14, boundaries: [332,359]
+index: 15, boundaries: [358,359]
+index: 16, boundaries: [356,356]
+index: 16, boundaries: [358,358]
+index: 15, boundaries: [332,359]
+index: 16, boundaries: [345,345]
+index: 16, boundaries: [332,359]
+index: 17, boundaries: [347,347]
+index: 17, boundaries: [332,349]
+index: 14, boundaries: [317,359]
+index: 15, boundaries: [336,359]
+index: 16, boundaries: [347,347]
+index: 16, boundaries: [336,359]
+index: 17, boundaries: [349,349]
+index: 17, boundaries: [336,359]
+index: 18, boundaries: [351,351]
+index: 18, boundaries: [336,353]
+index: 15, boundaries: [317,359]
+index: 16, boundaries: [340,359]
+index: 17, boundaries: [351,351]
+index: 17, boundaries: [340,359]
+index: 18, boundaries: [353,353]
+index: 18, boundaries: [340,359]
+index: 19, boundaries: [355,355]
+index: 19, boundaries: [340,357]
+index: 16, boundaries: [317,359]
+index: 17, boundaries: [344,359]
+index: 18, boundaries: [355,355]
+index: 18, boundaries: [344,359]
+index: 19, boundaries: [357,357]
+index: 19, boundaries: [344,359]
+index: 20, boundaries: [344,344]
+index: 17, boundaries: [317,359]
+index: 18, boundaries: [348,359]
+index: 19, boundaries: [348,348]
+index: 18, boundaries: [317,359]
+index: 19, boundaries: [352,352]
+index: 19, boundaries: [317,359]
+index: 20, boundaries: [356,356]
+index: 20, boundaries: [317,328]
+index: 12, boundaries: [345,359]
+index: 13, boundaries: [321,359]
+index: 14, boundaries: [336,359]
+index: 15, boundaries: [347,347]
+index: 15, boundaries: [336,359]
+index: 16, boundaries: [349,349]
+index: 16, boundaries: [336,359]
+index: 17, boundaries: [351,351]
+index: 17, boundaries: [336,353]
+index: 14, boundaries: [321,359]
+index: 15, boundaries: [340,359]
+index: 16, boundaries: [351,351]
+index: 16, boundaries: [340,359]
+index: 17, boundaries: [353,353]
+index: 17, boundaries: [340,359]
+index: 18, boundaries: [355,355]
+index: 18, boundaries: [340,357]
+index: 15, boundaries: [321,359]
+index: 16, boundaries: [344,359]
+index: 17, boundaries: [355,355]
+index: 17, boundaries: [344,359]
+index: 18, boundaries: [357,357]
+index: 18, boundaries: [344,359]
+index: 19, boundaries: [344,344]
+index: 16, boundaries: [321,359]
+index: 17, boundaries: [348,359]
+index: 18, boundaries: [348,348]
+index: 17, boundaries: [321,359]
+index: 18, boundaries: [352,352]
+index: 18, boundaries: [321,359]
+index: 19, boundaries: [356,356]
+index: 19, boundaries: [321,332]
+index: 13, boundaries: [345,359]
+index: 14, boundaries: [325,359]
+index: 15, boundaries: [344,359]
+index: 16, boundaries: [355,355]
+index: 16, boundaries: [344,359]
+index: 17, boundaries: [357,357]
+index: 17, boundaries: [344,359]
+index: 18, boundaries: [344,344]
+index: 15, boundaries: [325,359]
+index: 16, boundaries: [348,359]
+index: 17, boundaries: [348,348]
+index: 16, boundaries: [325,359]
+index: 17, boundaries: [352,352]
+index: 17, boundaries: [325,359]
+index: 18, boundaries: [356,356]
+index: 18, boundaries: [325,336]
+index: 14, boundaries: [345,359]
+index: 15, boundaries: [329,359]
+index: 16, boundaries: [352,352]
+index: 16, boundaries: [329,359]
+index: 17, boundaries: [356,356]
+index: 17, boundaries: [329,340]
+index: 15, boundaries: [345,359]
+index: 16, boundaries: [333,344]
+index: 16, boundaries: [345,359]
+index: 17, boundaries: [337,348]
+index: 17, boundaries: [345,359]
+index: 18, boundaries: [341,352]
+index: 18, boundaries: [345,359]
+index: 19, boundaries: [345,356]
+index: 19, boundaries: [276,359]
+index: 20, boundaries: [349,359]
+index: 21, boundaries: [347,359]
+index: 22, boundaries: [345,359]
+index: 23, boundaries: [343,343]
+index: 23, boundaries: [345,345]
+index: 22, boundaries: [347,347]
+index: 21, boundaries: [349,349]
+index: 20, boundaries: [276,359]
+index: 21, boundaries: [353,359]
+index: 22, boundaries: [351,359]
+index: 23, boundaries: [349,359]
+index: 24, boundaries: [347,347]
+index: 24, boundaries: [349,349]
+index: 23, boundaries: [351,351]
+index: 22, boundaries: [353,353]
+index: 21, boundaries: [276,359]
+index: 22, boundaries: [357,359]
+index: 23, boundaries: [355,359]
+index: 24, boundaries: [353,359]
+index: 25, boundaries: [351,351]
+index: 25, boundaries: [353,353]
+index: 24, boundaries: [355,355]
+index: 23, boundaries: [357,357]
+index: 22, boundaries: [276,359]
+index: 23, boundaries: [359,359]
+acting solution changed: value: 359, size: 359, quantity: 14
+index: 23, boundaries: [276,359]
+index: 9, boundaries: [356,359]
+index: 8, boundaries: [309,359]
+index: 7, boundaries: [345,359]
+index: 6, boundaries: [356,359]
+index: 5, boundaries: [341,359]
+index: 4, boundaries: [345,359]
+index: 3, boundaries: [356,359]
+index: 2, boundaries: [345,359]
+index: 1, boundaries: [356,359]
+index: 0, boundaries: [345,359]
+running time: 00:00:00.4060207
+
+------------BnB Summary------------
+fractional = 359
+solution = value: 359, size: 359, quantity: 14
+
+###################################
+Items that were chosen:
+ID = 1	Size = 4 	Value = 4 	
+ID = 2	Size = 8 	Value = 8 	
+ID = 3	Size = 12 	Value = 12 	
+ID = 4	Size = 16 	Value = 16 	
+ID = 5	Size = 20 	Value = 20 	
+ID = 6	Size = 24 	Value = 24 	
+ID = 7	Size = 28 	Value = 28 	
+ID = 8	Size = 32 	Value = 32 	
+ID = 9	Size = 36 	Value = 36 	
+ID = 10	Size = 40 	Value = 40 	
+ID = 24	Size = 96 	Value = 96 	
+ID = 34	Size = 17 	Value = 17 	
+ID = 33	Size = 15 	Value = 15 	
+ID = 31	Size = 11 	Value = 11 	
+**************************************
+Items that were NOT chosen:
+ID = 30	Size = 120 	Value = 120 	
+ID = 29	Size = 116 	Value = 116 	
+ID = 28	Size = 112 	Value = 112 	
+ID = 27	Size = 108 	Value = 108 	
+ID = 26	Size = 104 	Value = 104 	
+ID = 25	Size = 100 	Value = 100 	
+ID = 23	Size = 92 	Value = 92 	
+ID = 22	Size = 88 	Value = 88 	
+ID = 21	Size = 84 	Value = 84 	
+ID = 20	Size = 80 	Value = 80 	
+ID = 19	Size = 76 	Value = 76 	
+ID = 18	Size = 72 	Value = 72 	
+ID = 17	Size = 68 	Value = 68 	
+ID = 16	Size = 64 	Value = 64 	
+ID = 15	Size = 60 	Value = 60 	
+ID = 14	Size = 56 	Value = 56 	
+ID = 13	Size = 52 	Value = 52 	
+ID = 12	Size = 48 	Value = 48 	
+ID = 11	Size = 44 	Value = 44 	
+ID = 32	Size = 13 	Value = 13 	
+
+@@@@@@@ try #1: Now using local search:
+	InitializeEmpty
+	NeighborhoodGenerators: AddTwo,OnePerOne,ThreePerOne,TwoPerTow,OnePerThree
+	ChooseFirst
+	ShuffleSortingPolicy
+	Cycle: 1 out of: 2
+	res: 359
+
+	Cycle: 2 out of: 2
+	res: 359
+
+@@@@@@@ try #2: Now using local search:
+	InitializeGreedily
+	NeighborhoodGenerators: AddTwo,OnePerOne,ThreePerOne,TwoPerTow,OnePerThree
+	ChooseFirst
+	SortWithComparer(CompareItemsByDensity)
+	Cycle: 1 out of: 1
+	res: 359
+
+
+------------Local Search Summary------------
+best result is: value: 359, size: 359, quantity: 8
+Fractional greedy returned: 359
+bag's Max Capacity: 359
+Local search used: 
+	 InitializeEmpty
+	NeighborhoodGenerators: AddTwo,OnePerOne,ThreePerOne,TwoPerTow,OnePerThree
+	ChooseFirst
+	ShuffleSortingPolicy
+input file name: BnbInputFa.txt
+
+###################################
+Items that were chosen:
+ID = 11	Size = 44 	Value = 44 	
+ID = 5	Size = 20 	Value = 20 	
+ID = 17	Size = 68 	Value = 68 	
+ID = 15	Size = 60 	Value = 60 	
+ID = 10	Size = 40 	Value = 40 	
+ID = 27	Size = 108 	Value = 108 	
+ID = 33	Size = 15 	Value = 15 	
+ID = 1	Size = 4 	Value = 4 	
+**************************************
+Items that were NOT chosen:
+ID = 34	Size = 17 	Value = 17 	
+ID = 14	Size = 56 	Value = 56 	
+ID = 23	Size = 92 	Value = 92 	
+ID = 12	Size = 48 	Value = 48 	
+ID = 20	Size = 80 	Value = 80 	
+ID = 21	Size = 84 	Value = 84 	
+ID = 6	Size = 24 	Value = 24 	
+ID = 19	Size = 76 	Value = 76 	
+ID = 26	Size = 104 	Value = 104 	
+ID = 18	Size = 72 	Value = 72 	
+ID = 16	Size = 64 	Value = 64 	
+ID = 1	Size = 4 	Value = 4 	
+ID = 5	Size = 20 	Value = 20 	
+ID = 7	Size = 28 	Value = 28 	
+ID = 28	Size = 112 	Value = 112 	
+ID = 22	Size = 88 	Value = 88 	
+ID = 3	Size = 12 	Value = 12 	
+ID = 32	Size = 13 	Value = 13 	
+ID = 8	Size = 32 	Value = 32 	
+ID = 11	Size = 44 	Value = 44 	
+ID = 10	Size = 40 	Value = 40 	
+ID = 24	Size = 96 	Value = 96 	
+ID = 27	Size = 108 	Value = 108 	
+ID = 2	Size = 8 	Value = 8 	
+ID = 17	Size = 68 	Value = 68 	
+ID = 33	Size = 15 	Value = 15 	
+ID = 25	Size = 100 	Value = 100 	
+ID = 13	Size = 52 	Value = 52 	

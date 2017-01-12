@@ -1,0 +1,98 @@
+@@@@@@@ Now using BnB
+acting solution is:      value: 200, size: 71, quantity: 6
+index: -1, boundaries: [200,316]
+index: 0, boundaries: [270,313]
+index: 1, boundaries: [270,313]
+index: 2, boundaries: [270,313]
+index: 3, boundaries: [286,310]
+index: 4, boundaries: [286,310]
+index: 5, boundaries: [286,310]
+index: 6, boundaries: [286,310]
+index: 7, boundaries: [308,308]
+index: 7, boundaries: [286,306]
+index: 8, boundaries: [296,296]
+index: 8, boundaries: [286,299]
+index: 9, boundaries: [299,299]
+index: 9, boundaries: [286,286]
+acting solution changed: value: 286, size: 91, quantity: 2
+index: 3, boundaries: [270,308]
+index: 4, boundaries: [285,308]
+index: 5, boundaries: [300,300]
+index: 5, boundaries: [285,306]
+index: 6, boundaries: [305,305]
+acting solution changed: value: 305, size: 100, quantity: 4
+index: 6, boundaries: [285,295]
+index: 4, boundaries: [270,304]
+index: 0, boundaries: [200,314]
+index: 1, boundaries: [266,310]
+index: 2, boundaries: [266,310]
+index: 3, boundaries: [266,310]
+index: 4, boundaries: [304,308]
+index: 5, boundaries: [304,308]
+index: 6, boundaries: [304,308]
+index: 7, boundaries: [303,303]
+index: 7, boundaries: [304,304]
+index: 4, boundaries: [266,307]
+index: 5, boundaries: [294,305]
+index: 5, boundaries: [266,302]
+index: 1, boundaries: [200,308]
+index: 2, boundaries: [290,308]
+index: 3, boundaries: [281,308]
+index: 4, boundaries: [306,306]
+index: 4, boundaries: [281,307]
+index: 5, boundaries: [306,306]
+acting solution changed: value: 306, size: 100, quantity: 4
+index: 5, boundaries: [281,304]
+index: 3, boundaries: [290,302]
+index: 2, boundaries: [200,291]
+running time: 00:00:00.1360112
+
+------------BnB Summary------------
+fractional = 316.285714285714
+solution = value: 306, size: 100, quantity: 4
+
+###################################
+Items that were chosen:
+ID = 2	Size = 48 	Value = 150 	
+ID = 3	Size = 31 	Value = 96 	
+ID = 5	Size = 17 	Value = 50 	
+ID = 9	Size = 4 	Value = 10 	
+**************************************
+Items that were NOT chosen:
+ID = 1	Size = 60 	Value = 190 	
+ID = 0	Size = 70 	Value = 221 	
+ID = 4	Size = 20 	Value = 60 	
+ID = 6	Size = 16 	Value = 45 	
+ID = 7	Size = 8 	Value = 22 	
+ID = 8	Size = 6 	Value = 13 	
+
+@@@@@@@ try #1: Now using local search:
+	InitializeEmpty
+	NeighborhoodGenerators: AddTwo,OnePerOne,ThreePerOne,TwoPerTow,OnePerThree
+	ChooseFirst
+	ShuffleSortingPolicy
+	Cycle: 1 out of: 2
+	res: 305
+
+	Cycle: 2 out of: 2
+	res: 306
+
+@@@@@@@ try #2: Now using local search:
+	InitializeGreedily
+	NeighborhoodGenerators: AddTwo,OnePerOne,ThreePerOne,TwoPerTow,OnePerThree
+	ChooseFirst
+	SortWithComparer(CompareItemsByDensity)
+	Cycle: 1 out of: 1
+	res: 286
+
+
+------------Local Search Summary------------
+best result is: value: 306, size: 100, quantity: 4
+Fractional greedy returned: 316.285714285714
+bag's Max Capacity: 100
+Local search used: 
+	 InitializeEmpty
+	NeighborhoodGenerators: AddTwo,OnePerOne,ThreePerOne,TwoPerTow,OnePerThree
+	ChooseFirst
+	ShuffleSortingPolicy
+input file name: BnbInputAb.txt
